@@ -1,0 +1,927 @@
+[
+    {
+        "person": {
+            "id": 36580,
+            "url": "https://www.tvmaze.com/people/36580/larry-hagman",
+            "name": "Larry Hagman",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1931-09-21",
+            "deathday": "2012-11-23",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/11/28703.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/28703.jpg"
+            },
+            "updated": 1676740217,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/36580"
+                }
+            }
+        },
+        "character": {
+            "id": 172408,
+            "url": "https://www.tvmaze.com/characters/172408/dallas-jr-ewing",
+            "name": "J.R. Ewing",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/55574.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/55574.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/172408"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 36590,
+            "url": "https://www.tvmaze.com/people/36590/ken-kercheval",
+            "name": "Ken Kercheval",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1935-07-15",
+            "deathday": "2019-04-21",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/193/483391.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/193/483391.jpg"
+            },
+            "updated": 1687446269,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/36590"
+                }
+            }
+        },
+        "character": {
+            "id": 179905,
+            "url": "https://www.tvmaze.com/characters/179905/dallas-cliff-barnes",
+            "name": "Cliff Barnes",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/55589.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/55589.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/179905"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 36578,
+            "url": "https://www.tvmaze.com/people/36578/patrick-duffy",
+            "name": "Patrick Duffy",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1949-03-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/22175.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/22175.jpg"
+            },
+            "updated": 1682711055,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/36578"
+                }
+            }
+        },
+        "character": {
+            "id": 172407,
+            "url": "https://www.tvmaze.com/characters/172407/dallas-bobby-ewing",
+            "name": "Bobby Ewing",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/44/110192.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/44/110192.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/172407"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 90161,
+            "url": "https://www.tvmaze.com/people/90161/barbara-bel-geddes",
+            "name": "Barbara Bel Geddes",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1922-10-31",
+            "deathday": "2005-08-08",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/55577.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/55577.jpg"
+            },
+            "updated": 1681616641,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/90161"
+                }
+            }
+        },
+        "character": {
+            "id": 179901,
+            "url": "https://www.tvmaze.com/characters/179901/dallas-miss-ellie-ewing",
+            "name": "Miss Ellie Ewing",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/130/326254.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/130/326254.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/179901"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 90192,
+            "url": "https://www.tvmaze.com/people/90192/donna-reed",
+            "name": "Donna Reed",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1921-01-27",
+            "deathday": "1986-01-14",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/235328.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/235328.jpg"
+            },
+            "updated": 1674961708,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/90192"
+                }
+            }
+        },
+        "character": {
+            "id": 179901,
+            "url": "https://www.tvmaze.com/characters/179901/dallas-miss-ellie-ewing",
+            "name": "Miss Ellie Ewing",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/130/326254.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/130/326254.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/179901"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 36579,
+            "url": "https://www.tvmaze.com/people/36579/linda-gray",
+            "name": "Linda Gray",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1940-08-12",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/30811.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/30811.jpg"
+            },
+            "updated": 1673131566,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/36579"
+                }
+            }
+        },
+        "character": {
+            "id": 179676,
+            "url": "https://www.tvmaze.com/characters/179676/dallas-sue-ellen-ewing",
+            "name": "Sue Ellen Ewing",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/156/390101.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/156/390101.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/179676"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 36589,
+            "url": "https://www.tvmaze.com/people/36589/steve-kanaly",
+            "name": "Steve Kanaly",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1946-03-14",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/55586.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/55586.jpg"
+            },
+            "updated": 1686602271,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/36589"
+                }
+            }
+        },
+        "character": {
+            "id": 179904,
+            "url": "https://www.tvmaze.com/characters/179904/dallas-ray-krebbs",
+            "name": "Ray Krebbs",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/130/326262.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/130/326262.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/179904"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 90163,
+            "url": "https://www.tvmaze.com/people/90163/howard-keel",
+            "name": "Howard Keel",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1919-04-13",
+            "deathday": "2004-11-07",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/55584.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/55584.jpg"
+            },
+            "updated": 1676547182,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/90163"
+                }
+            }
+        },
+        "character": {
+            "id": 179907,
+            "url": "https://www.tvmaze.com/characters/179907/dallas-clayton-farlow",
+            "name": "Clayton Farlow",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/130/326261.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/130/326261.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/179907"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 54025,
+            "url": "https://www.tvmaze.com/people/54025/victoria-principal",
+            "name": "Victoria Principal",
+            "country": {
+                "name": "Japan",
+                "code": "JP",
+                "timezone": "Asia/Tokyo"
+            },
+            "birthday": "1950-01-03",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/20/50329.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/20/50329.jpg"
+            },
+            "updated": 1673252229,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/54025"
+                }
+            }
+        },
+        "character": {
+            "id": 179677,
+            "url": "https://www.tvmaze.com/characters/179677/dallas-pamela-barnes-ewing",
+            "name": "Pamela Barnes Ewing",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/130/326264.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/130/326264.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/179677"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 36588,
+            "url": "https://www.tvmaze.com/people/36588/charlene-tilton",
+            "name": "Charlene Tilton",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1958-12-01",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/453/1133615.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/453/1133615.jpg"
+            },
+            "updated": 1681403936,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/36588"
+                }
+            }
+        },
+        "character": {
+            "id": 179903,
+            "url": "https://www.tvmaze.com/characters/179903/dallas-lucy-ewing",
+            "name": "Lucy Ewing",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/44/110193.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/44/110193.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/179903"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 47035,
+            "url": "https://www.tvmaze.com/people/47035/susan-howard",
+            "name": "Susan Howard",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1944-01-28",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/55590.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/55590.jpg"
+            },
+            "updated": 1675998918,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/47035"
+                }
+            }
+        },
+        "character": {
+            "id": 179906,
+            "url": "https://www.tvmaze.com/characters/179906/dallas-donna-culver",
+            "name": "Donna Culver",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/130/326263.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/130/326263.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/179906"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 90185,
+            "url": "https://www.tvmaze.com/people/90185/priscilla-presley",
+            "name": "Priscilla Presley",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1945-05-24",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/55572.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/55572.jpg"
+            },
+            "updated": 1679091960,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/90185"
+                }
+            }
+        },
+        "character": {
+            "id": 179680,
+            "url": "https://www.tvmaze.com/characters/179680/dallas-jenna-wade",
+            "name": "Jenna Wade",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/55573.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/55573.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/179680"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 90162,
+            "url": "https://www.tvmaze.com/people/90162/jim-davis",
+            "name": "Jim Davis",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1909-08-26",
+            "deathday": "1981-04-26",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/55578.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/55578.jpg"
+            },
+            "updated": 1683333877,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/90162"
+                }
+            }
+        },
+        "character": {
+            "id": 179902,
+            "url": "https://www.tvmaze.com/characters/179902/dallas-jock-ewing",
+            "name": "Jock Ewing",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/179902"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 46456,
+            "url": "https://www.tvmaze.com/people/46456/sheree-j-wilson",
+            "name": "Sheree J. Wilson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1958-12-12",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9999.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9999.jpg"
+            },
+            "updated": 1686782456,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/46456"
+                }
+            }
+        },
+        "character": {
+            "id": 180001,
+            "url": "https://www.tvmaze.com/characters/180001/dallas-april-stevens",
+            "name": "April Stevens",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/55583.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/55583.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180001"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 86305,
+            "url": "https://www.tvmaze.com/people/86305/dack-rambo",
+            "name": "Dack Rambo",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1941-11-13",
+            "deathday": "1994-03-21",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/55585.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/55585.jpg"
+            },
+            "updated": 1688789884,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/86305"
+                }
+            }
+        },
+        "character": {
+            "id": 179999,
+            "url": "https://www.tvmaze.com/characters/179999/dallas-jack-ewing",
+            "name": "Jack Ewing",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/130/326256.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/130/326256.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/179999"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 85815,
+            "url": "https://www.tvmaze.com/people/85815/george-kennedy",
+            "name": "George Kennedy",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1925-02-18",
+            "deathday": "2016-02-28",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/47/118376.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/47/118376.jpg"
+            },
+            "updated": 1680326831,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/85815"
+                }
+            }
+        },
+        "character": {
+            "id": 180005,
+            "url": "https://www.tvmaze.com/characters/180005/dallas-carter-mckay",
+            "name": "Carter McKay",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/130/326257.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/130/326257.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180005"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 36633,
+            "url": "https://www.tvmaze.com/people/36633/cathy-podewell",
+            "name": "Cathy Podewell",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-01-26",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/55592.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/55592.jpg"
+            },
+            "updated": 1658166433,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/36633"
+                }
+            }
+        },
+        "character": {
+            "id": 180002,
+            "url": "https://www.tvmaze.com/characters/180002/dallas-cally-harper",
+            "name": "Cally Harper",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180002"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 90194,
+            "url": "https://www.tvmaze.com/people/90194/kimberly-foster",
+            "name": "Kimberly Foster",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-07-06",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/55591.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/55591.jpg"
+            },
+            "updated": 1666877216,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/90194"
+                }
+            }
+        },
+        "character": {
+            "id": 180009,
+            "url": "https://www.tvmaze.com/characters/180009/dallas-michelle-stevens",
+            "name": "Michelle Stevens",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/130/326259.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/130/326259.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180009"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 66512,
+            "url": "https://www.tvmaze.com/people/66512/sasha-mitchell",
+            "name": "Sasha Mitchell",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1967-07-27",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/23/57572.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/23/57572.jpg"
+            },
+            "updated": 1585273182,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/66512"
+                }
+            }
+        },
+        "character": {
+            "id": 180013,
+            "url": "https://www.tvmaze.com/characters/180013/dallas-james-richard-beaumont",
+            "name": "James Richard Beaumont",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/130/326255.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/130/326255.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180013"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 90201,
+            "url": "https://www.tvmaze.com/people/90201/barbara-stock",
+            "name": "Barbara Stock",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1956-05-26",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/23/57585.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/23/57585.jpg"
+            },
+            "updated": 1660500884,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/90201"
+                }
+            }
+        },
+        "character": {
+            "id": 180021,
+            "url": "https://www.tvmaze.com/characters/180021/dallas-liz-adams",
+            "name": "Liz Adams",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180021"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 52822,
+            "url": "https://www.tvmaze.com/people/52822/lesley-anne-down",
+            "name": "Lesley-Anne Down",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1954-03-17",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/23/57580.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/23/57580.jpg"
+            },
+            "updated": 1685218134,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/52822"
+                }
+            }
+        },
+        "character": {
+            "id": 180017,
+            "url": "https://www.tvmaze.com/characters/180017/dallas-stephanie-rogers",
+            "name": "Stephanie Rogers",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180017"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 32110,
+            "url": "https://www.tvmaze.com/people/32110/jack-scalia",
+            "name": "Jack Scalia",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1950-11-10",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/93/234973.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/93/234973.jpg"
+            },
+            "updated": 1685159940,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/32110"
+                }
+            }
+        },
+        "character": {
+            "id": 815313,
+            "url": "https://www.tvmaze.com/characters/815313/dallas-nicholas-pearce",
+            "name": "Nicholas Pearce",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/815313"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 47543,
+            "url": "https://www.tvmaze.com/people/47543/bert-remsen",
+            "name": "Bert Remsen",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1925-02-25",
+            "deathday": "1999-04-22",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/28/70504.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/28/70504.jpg"
+            },
+            "updated": 1658862631,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/47543"
+                }
+            }
+        },
+        "character": {
+            "id": 815879,
+            "url": "https://www.tvmaze.com/characters/815879/dallas-dandy-dandridge",
+            "name": "Dandy Dandridge",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/815879"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

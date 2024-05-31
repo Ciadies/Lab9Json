@@ -1,0 +1,2790 @@
+[
+    {
+        "person": {
+            "id": 14854,
+            "url": "https://www.tvmaze.com/people/14854/dan-castellaneta",
+            "name": "Dan Castellaneta",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/963.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14854"
+                }
+            }
+        },
+        "character": {
+            "id": 16544,
+            "url": "https://www.tvmaze.com/characters/16544/the-simpsons-homer-simpson",
+            "name": "Homer Simpson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2107.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2107.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16544"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14855,
+            "url": "https://www.tvmaze.com/people/14855/julie-kavner",
+            "name": "Julie Kavner",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1950-09-07",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/967.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/967.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14855"
+                }
+            }
+        },
+        "character": {
+            "id": 16545,
+            "url": "https://www.tvmaze.com/characters/16545/the-simpsons-marge-simpson",
+            "name": "Marge Simpson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2114.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2114.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16545"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14857,
+            "url": "https://www.tvmaze.com/people/14857/yeardley-smith",
+            "name": "Yeardley Smith",
+            "country": {
+                "name": "France",
+                "code": "FR",
+                "timezone": "Europe/Paris"
+            },
+            "birthday": "1964-07-03",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/7324.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/7324.jpg"
+            },
+            "updated": 1687697414,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14857"
+                }
+            }
+        },
+        "character": {
+            "id": 16547,
+            "url": "https://www.tvmaze.com/characters/16547/the-simpsons-lisa-simpson",
+            "name": "Lisa Simpson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2185.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2185.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16547"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14856,
+            "url": "https://www.tvmaze.com/people/14856/nancy-cartwright",
+            "name": "Nancy Cartwright",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/968.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/968.jpg"
+            },
+            "updated": 1684936500,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14856"
+                }
+            }
+        },
+        "character": {
+            "id": 16546,
+            "url": "https://www.tvmaze.com/characters/16546/the-simpsons-bart-simpson",
+            "name": "Bart Simpson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2193.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2193.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16546"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 16549,
+            "url": "https://www.tvmaze.com/characters/16549/the-simpsons-charles-montgomery-burns",
+            "name": "Charles Montgomery Burns",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/42/107112.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/42/107112.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16549"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 16569,
+            "url": "https://www.tvmaze.com/characters/16569/the-simpsons-moe-szyslak",
+            "name": "Moe Szyslak",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2118.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2118.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16569"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 16548,
+            "url": "https://www.tvmaze.com/characters/16548/the-simpsons-apu-nahasapeemapetilon",
+            "name": "Apu Nahasapeemapetilon",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2186.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2186.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16548"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 34651,
+            "url": "https://www.tvmaze.com/people/34651/pamela-hayden",
+            "name": "Pamela Hayden",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1953-11-28",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/41/102553.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/41/102553.jpg"
+            },
+            "updated": 1684341691,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/34651"
+                }
+            }
+        },
+        "character": {
+            "id": 53561,
+            "url": "https://www.tvmaze.com/characters/53561/the-simpsons-milhouse-van-houten",
+            "name": "Milhouse Van Houten",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/252/632125.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/252/632125.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/53561"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 16586,
+            "url": "https://www.tvmaze.com/characters/16586/the-simpsons-lenny-leonard",
+            "name": "Lenny Leonard",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2176.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2176.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16586"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 16570,
+            "url": "https://www.tvmaze.com/characters/16570/the-simpsons-chief-clancy-wiggum",
+            "name": "Chief Clancy Wiggum",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2200.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2200.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16570"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 16582,
+            "url": "https://www.tvmaze.com/characters/16582/the-simpsons-seymour-skinner",
+            "name": "Seymour Skinner",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2194.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2194.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16582"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 16571,
+            "url": "https://www.tvmaze.com/characters/16571/the-simpsons-carl-carlson",
+            "name": "Carl Carlson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2110.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2110.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16571"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 25931,
+            "url": "https://www.tvmaze.com/people/25931/alex-desert",
+            "name": "Alex D\u00e9sert",
+            "country": {
+                "name": "Haiti",
+                "code": "HT",
+                "timezone": "America/Port-au-Prince"
+            },
+            "birthday": "1968-07-18",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/17983.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/17983.jpg"
+            },
+            "updated": 1668272280,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25931"
+                }
+            }
+        },
+        "character": {
+            "id": 16571,
+            "url": "https://www.tvmaze.com/characters/16571/the-simpsons-carl-carlson",
+            "name": "Carl Carlson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2110.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2110.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16571"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14854,
+            "url": "https://www.tvmaze.com/people/14854/dan-castellaneta",
+            "name": "Dan Castellaneta",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/963.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14854"
+                }
+            }
+        },
+        "character": {
+            "id": 16553,
+            "url": "https://www.tvmaze.com/characters/16553/the-simpsons-abraham-simpson",
+            "name": "Abraham Simpson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2116.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2116.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16553"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 16581,
+            "url": "https://www.tvmaze.com/characters/16581/the-simpsons-ned-flanders",
+            "name": "Ned Flanders",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2198.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2198.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16581"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14856,
+            "url": "https://www.tvmaze.com/people/14856/nancy-cartwright",
+            "name": "Nancy Cartwright",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/968.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/968.jpg"
+            },
+            "updated": 1684936500,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14856"
+                }
+            }
+        },
+        "character": {
+            "id": 16565,
+            "url": "https://www.tvmaze.com/characters/16565/the-simpsons-nelson-muntz",
+            "name": "Nelson Muntz",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2197.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2197.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16565"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14856,
+            "url": "https://www.tvmaze.com/people/14856/nancy-cartwright",
+            "name": "Nancy Cartwright",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/968.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/968.jpg"
+            },
+            "updated": 1684936500,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14856"
+                }
+            }
+        },
+        "character": {
+            "id": 237204,
+            "url": "https://www.tvmaze.com/characters/237204/the-simpsons-maggie-simpson",
+            "name": "Maggie Simpson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/42/107111.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/42/107111.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/237204"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14854,
+            "url": "https://www.tvmaze.com/people/14854/dan-castellaneta",
+            "name": "Dan Castellaneta",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/963.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14854"
+                }
+            }
+        },
+        "character": {
+            "id": 16554,
+            "url": "https://www.tvmaze.com/characters/16554/the-simpsons-krusty-the-klown",
+            "name": "Krusty the Klown",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2201.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2201.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16554"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 16584,
+            "url": "https://www.tvmaze.com/characters/16584/the-simpsons-kent-brockman",
+            "name": "Kent Brockman",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2183.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2183.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16584"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14854,
+            "url": "https://www.tvmaze.com/people/14854/dan-castellaneta",
+            "name": "Dan Castellaneta",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/963.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14854"
+                }
+            }
+        },
+        "character": {
+            "id": 16555,
+            "url": "https://www.tvmaze.com/characters/16555/the-simpsons-barney-gumble",
+            "name": "Barney Gumble",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2108.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2108.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16555"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14856,
+            "url": "https://www.tvmaze.com/people/14856/nancy-cartwright",
+            "name": "Nancy Cartwright",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/968.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/968.jpg"
+            },
+            "updated": 1684936500,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14856"
+                }
+            }
+        },
+        "character": {
+            "id": 16566,
+            "url": "https://www.tvmaze.com/characters/16566/the-simpsons-ralph-wiggum",
+            "name": "Ralph Wiggum",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2190.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2190.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16566"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 16579,
+            "url": "https://www.tvmaze.com/characters/16579/the-simpsons-waylon-smithers",
+            "name": "Waylon Smithers",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2111.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2111.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16579"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 16585,
+            "url": "https://www.tvmaze.com/characters/16585/the-simpsons-dr-julius-hibbert",
+            "name": "Dr. Julius Hibbert",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2177.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2177.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16585"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 31865,
+            "url": "https://www.tvmaze.com/people/31865/kevin-michael-richardson",
+            "name": "Kevin Michael Richardson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-10-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9554.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9554.jpg"
+            },
+            "updated": 1688503064,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/31865"
+                }
+            }
+        },
+        "character": {
+            "id": 16585,
+            "url": "https://www.tvmaze.com/characters/16585/the-simpsons-dr-julius-hibbert",
+            "name": "Dr. Julius Hibbert",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2177.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2177.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16585"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 14854,
+            "url": "https://www.tvmaze.com/people/14854/dan-castellaneta",
+            "name": "Dan Castellaneta",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/963.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14854"
+                }
+            }
+        },
+        "character": {
+            "id": 16556,
+            "url": "https://www.tvmaze.com/characters/16556/the-simpsons-groundskeeper-willie",
+            "name": "Groundskeeper Willie",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2115.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2115.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16556"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14854,
+            "url": "https://www.tvmaze.com/people/14854/dan-castellaneta",
+            "name": "Dan Castellaneta",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/963.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14854"
+                }
+            }
+        },
+        "character": {
+            "id": 16557,
+            "url": "https://www.tvmaze.com/characters/16557/the-simpsons-sideshow-mel",
+            "name": "Sideshow Mel",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2196.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2196.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16557"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 250290,
+            "url": "https://www.tvmaze.com/characters/250290/the-simpsons-officer-lou",
+            "name": "Officer Lou",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/46/115590.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/46/115590.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/250290"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 25931,
+            "url": "https://www.tvmaze.com/people/25931/alex-desert",
+            "name": "Alex D\u00e9sert",
+            "country": {
+                "name": "Haiti",
+                "code": "HT",
+                "timezone": "America/Port-au-Prince"
+            },
+            "birthday": "1968-07-18",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/17983.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/17983.jpg"
+            },
+            "updated": 1668272280,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25931"
+                }
+            }
+        },
+        "character": {
+            "id": 250290,
+            "url": "https://www.tvmaze.com/characters/250290/the-simpsons-officer-lou",
+            "name": "Officer Lou",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/46/115590.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/46/115590.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/250290"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 16587,
+            "url": "https://www.tvmaze.com/characters/16587/the-simpsons-reverend-timothy-lovejoy",
+            "name": "Reverend Timothy Lovejoy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2113.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2113.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16587"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14854,
+            "url": "https://www.tvmaze.com/people/14854/dan-castellaneta",
+            "name": "Dan Castellaneta",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/963.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14854"
+                }
+            }
+        },
+        "character": {
+            "id": 16558,
+            "url": "https://www.tvmaze.com/characters/16558/the-simpsons-mayor-quimby",
+            "name": "Mayor Quimby",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2192.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2192.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16558"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 16583,
+            "url": "https://www.tvmaze.com/characters/16583/the-simpsons-otto-mann",
+            "name": "Otto Mann",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/42/107114.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/42/107114.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16583"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 16572,
+            "url": "https://www.tvmaze.com/characters/16572/the-simpsons-comic-book-guy",
+            "name": "Comic Book Guy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2199.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2199.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16572"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 44735,
+            "url": "https://www.tvmaze.com/people/44735/tress-macneille",
+            "name": "Tress MacNeille",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1951-06-20",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/123/307705.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/123/307705.jpg"
+            },
+            "updated": 1687571538,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/44735"
+                }
+            }
+        },
+        "character": {
+            "id": 93500,
+            "url": "https://www.tvmaze.com/characters/93500/the-simpsons-dolph",
+            "name": "Dolph",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/93/234063.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/93/234063.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/93500"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 16574,
+            "url": "https://www.tvmaze.com/characters/16574/the-simpsons-professor-john-nerdelbaum-frink-jr",
+            "name": "Professor John Nerdelbaum Frink, Jr.",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2191.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2191.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16574"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14855,
+            "url": "https://www.tvmaze.com/people/14855/julie-kavner",
+            "name": "Julie Kavner",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1950-09-07",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/967.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/967.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14855"
+                }
+            }
+        },
+        "character": {
+            "id": 16563,
+            "url": "https://www.tvmaze.com/characters/16563/the-simpsons-selma-bouvier",
+            "name": "Selma Bouvier",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2109.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2109.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16563"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 236280,
+            "url": "https://www.tvmaze.com/characters/236280/the-simpsons-superintendant-chalmers",
+            "name": "Superintendant Chalmers",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/41/102865.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/41/102865.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/236280"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 247499,
+            "url": "https://www.tvmaze.com/characters/247499/the-simpsons-cletus-spuckler",
+            "name": "Cletus Spuckler",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/252/632123.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/252/632123.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/247499"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14855,
+            "url": "https://www.tvmaze.com/people/14855/julie-kavner",
+            "name": "Julie Kavner",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1950-09-07",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/967.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/967.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14855"
+                }
+            }
+        },
+        "character": {
+            "id": 16562,
+            "url": "https://www.tvmaze.com/characters/16562/the-simpsons-patty-bouvier",
+            "name": "Patty Bouvier",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2202.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2202.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16562"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 250297,
+            "url": "https://www.tvmaze.com/characters/250297/the-simpsons-jasper-beardly",
+            "name": "Jasper Beardly",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/93/234144.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/93/234144.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/250297"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14854,
+            "url": "https://www.tvmaze.com/people/14854/dan-castellaneta",
+            "name": "Dan Castellaneta",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/963.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14854"
+                }
+            }
+        },
+        "character": {
+            "id": 250193,
+            "url": "https://www.tvmaze.com/characters/250193/the-simpsons-squeaky-voiced-teen",
+            "name": "Squeaky-Voiced Teen",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/46/115586.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/46/115586.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/250193"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 34651,
+            "url": "https://www.tvmaze.com/people/34651/pamela-hayden",
+            "name": "Pamela Hayden",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1953-11-28",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/41/102553.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/41/102553.jpg"
+            },
+            "updated": 1684341691,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/34651"
+                }
+            }
+        },
+        "character": {
+            "id": 93584,
+            "url": "https://www.tvmaze.com/characters/93584/the-simpsons-rod-flanders",
+            "name": "Rod Flanders",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/40/102371.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/40/102371.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/93584"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 234472,
+            "url": "https://www.tvmaze.com/characters/234472/the-simpsons-snake",
+            "name": "Snake",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/40/101692.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/40/101692.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/234472"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 241224,
+            "url": "https://www.tvmaze.com/characters/241224/the-simpsons-sea-captain-mccallister",
+            "name": "Sea Captain McCallister",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/43/108543.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/43/108543.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/241224"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 16577,
+            "url": "https://www.tvmaze.com/characters/16577/the-simpsons-kirk-van-houten",
+            "name": "Kirk Van Houten",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2175.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2175.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16577"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 44735,
+            "url": "https://www.tvmaze.com/people/44735/tress-macneille",
+            "name": "Tress MacNeille",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1951-06-20",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/123/307705.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/123/307705.jpg"
+            },
+            "updated": 1687571538,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/44735"
+                }
+            }
+        },
+        "character": {
+            "id": 93510,
+            "url": "https://www.tvmaze.com/characters/93510/the-simpsons-jimbo-jones",
+            "name": "Jimbo Jones",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/40/101698.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/40/101698.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/93510"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14854,
+            "url": "https://www.tvmaze.com/people/14854/dan-castellaneta",
+            "name": "Dan Castellaneta",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/963.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14854"
+                }
+            }
+        },
+        "character": {
+            "id": 16559,
+            "url": "https://www.tvmaze.com/characters/16559/the-simpsons-hans-moleman",
+            "name": "Hans Moleman",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/247/619511.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/247/619511.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16559"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14856,
+            "url": "https://www.tvmaze.com/people/14856/nancy-cartwright",
+            "name": "Nancy Cartwright",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/968.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/968.jpg"
+            },
+            "updated": 1684936500,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14856"
+                }
+            }
+        },
+        "character": {
+            "id": 16567,
+            "url": "https://www.tvmaze.com/characters/16567/the-simpsons-todd-flanders",
+            "name": "Todd Flanders",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2187.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2187.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16567"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14854,
+            "url": "https://www.tvmaze.com/people/14854/dan-castellaneta",
+            "name": "Dan Castellaneta",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/963.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14854"
+                }
+            }
+        },
+        "character": {
+            "id": 16561,
+            "url": "https://www.tvmaze.com/characters/16561/the-simpsons-itchy",
+            "name": "Itchy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2117.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2117.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16561"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14854,
+            "url": "https://www.tvmaze.com/people/14854/dan-castellaneta",
+            "name": "Dan Castellaneta",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/963.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14854"
+                }
+            }
+        },
+        "character": {
+            "id": 16560,
+            "url": "https://www.tvmaze.com/characters/16560/the-simpsons-gil-gunderson",
+            "name": "Gil Gunderson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/42/107113.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/42/107113.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16560"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 234473,
+            "url": "https://www.tvmaze.com/characters/234473/the-simpsons-scratchy",
+            "name": "Scratchy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/40/101695.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/40/101695.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/234473"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 243141,
+            "url": "https://www.tvmaze.com/characters/243141/the-simpsons-officer-eddie",
+            "name": "Officer Eddie",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/43/109987.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/43/109987.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/243141"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 236859,
+            "url": "https://www.tvmaze.com/characters/236859/the-simpsons-rainer-mcbain-wolfcastle",
+            "name": "Rainer \"McBain\" Wolfcastle",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/41/103893.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/41/103893.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/236859"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 239472,
+            "url": "https://www.tvmaze.com/characters/239472/the-simpsons-disco-stu",
+            "name": "Disco Stu",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/42/107110.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/42/107110.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/239472"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14854,
+            "url": "https://www.tvmaze.com/people/14854/dan-castellaneta",
+            "name": "Dan Castellaneta",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/963.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14854"
+                }
+            }
+        },
+        "character": {
+            "id": 238107,
+            "url": "https://www.tvmaze.com/characters/238107/the-simpsons-rich-texan",
+            "name": "Rich Texan",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/93/234155.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/93/234155.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/238107"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 250182,
+            "url": "https://www.tvmaze.com/characters/250182/the-simpsons-luigi",
+            "name": "Luigi",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/46/115587.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/46/115587.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/250182"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14856,
+            "url": "https://www.tvmaze.com/people/14856/nancy-cartwright",
+            "name": "Nancy Cartwright",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/968.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/968.jpg"
+            },
+            "updated": 1684936500,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14856"
+                }
+            }
+        },
+        "character": {
+            "id": 16568,
+            "url": "https://www.tvmaze.com/characters/16568/the-simpsons-kearney-zzyzwicz-sr",
+            "name": "Kearney Zzyzwicz Sr.",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2178.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2178.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16568"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 247498,
+            "url": "https://www.tvmaze.com/characters/247498/the-simpsons-dewey-largo",
+            "name": "Dewey Largo",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/45/112990.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/45/112990.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/247498"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 16573,
+            "url": "https://www.tvmaze.com/characters/16573/the-simpsons-dr-nick-riviera",
+            "name": "Dr. Nick Riviera",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2195.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2195.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16573"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 44735,
+            "url": "https://www.tvmaze.com/people/44735/tress-macneille",
+            "name": "Tress MacNeille",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1951-06-20",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/123/307705.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/123/307705.jpg"
+            },
+            "updated": 1687571538,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/44735"
+                }
+            }
+        },
+        "character": {
+            "id": 724282,
+            "url": "https://www.tvmaze.com/characters/724282/the-simpsons-brandine-spuckler",
+            "name": "Brandine Spuckler",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/252/632127.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/252/632127.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/724282"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 710942,
+            "url": "https://www.tvmaze.com/characters/710942/the-simpsons-drederick-tatum",
+            "name": "Drederick Tatum",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/247/619508.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/247/619508.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/710942"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 250191,
+            "url": "https://www.tvmaze.com/characters/250191/the-simpsons-judge-roy-snyder",
+            "name": "Judge Roy Snyder",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/46/115588.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/46/115588.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/250191"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 239165,
+            "url": "https://www.tvmaze.com/characters/239165/the-simpsons-duffman",
+            "name": "Duffman",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/42/106920.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/42/106920.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/239165"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14854,
+            "url": "https://www.tvmaze.com/people/14854/dan-castellaneta",
+            "name": "Dan Castellaneta",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/963.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14854"
+                }
+            }
+        },
+        "character": {
+            "id": 250344,
+            "url": "https://www.tvmaze.com/characters/250344/the-simpsons-mr-teeny",
+            "name": "Mr. Teeny",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/46/115613.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/46/115613.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/250344"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14854,
+            "url": "https://www.tvmaze.com/people/14854/dan-castellaneta",
+            "name": "Dan Castellaneta",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-10-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/963.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14854"
+                }
+            }
+        },
+        "character": {
+            "id": 242965,
+            "url": "https://www.tvmaze.com/characters/242965/the-simpsons-kodos",
+            "name": "Kodos",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/43/109830.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/43/109830.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/242965"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 242987,
+            "url": "https://www.tvmaze.com/characters/242987/the-simpsons-kang",
+            "name": "Kang",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/43/109831.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/43/109831.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/242987"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14855,
+            "url": "https://www.tvmaze.com/people/14855/julie-kavner",
+            "name": "Julie Kavner",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1950-09-07",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/967.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/967.jpg"
+            },
+            "updated": 1684936499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14855"
+                }
+            }
+        },
+        "character": {
+            "id": 16564,
+            "url": "https://www.tvmaze.com/characters/16564/the-simpsons-jacqueline-ingrid-bouvier",
+            "name": "Jacqueline Ingrid Bouvier",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/40/101693.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/40/101693.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16564"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14859,
+            "url": "https://www.tvmaze.com/people/14859/harry-shearer",
+            "name": "Harry Shearer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-12-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/966.jpg"
+            },
+            "updated": 1684028518,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14859"
+                }
+            }
+        },
+        "character": {
+            "id": 16580,
+            "url": "https://www.tvmaze.com/characters/16580/the-simpsons-dr-marvin-monroe",
+            "name": "Dr. Marvin Monroe",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2203.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2203.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/16580"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 14858,
+            "url": "https://www.tvmaze.com/people/14858/hank-azaria",
+            "name": "Hank Azaria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/964.jpg"
+            },
+            "updated": 1688348048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14858"
+                }
+            }
+        },
+        "character": {
+            "id": 836963,
+            "url": "https://www.tvmaze.com/characters/836963/the-simpsons-old-jewish-man",
+            "name": "Old Jewish Man",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/295/739347.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/295/739347.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/836963"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    }
+]

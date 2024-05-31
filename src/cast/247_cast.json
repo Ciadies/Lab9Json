@@ -1,0 +1,40 @@
+[
+    {
+        "person": {
+            "id": 37135,
+            "url": "https://www.tvmaze.com/people/37135/stephen-colbert",
+            "name": "Stephen Colbert",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-05-13",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/274/686090.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/274/686090.jpg"
+            },
+            "updated": 1687136729,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/37135"
+                }
+            }
+        },
+        "character": {
+            "id": 121368,
+            "url": "https://www.tvmaze.com/characters/121368/the-colbert-report-stephen-colbert",
+            "name": "Stephen Colbert",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/121368"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    }
+]

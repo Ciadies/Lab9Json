@@ -1,0 +1,412 @@
+[
+    {
+        "person": {
+            "id": 39487,
+            "url": "https://www.tvmaze.com/people/39487/jason-bateman",
+            "name": "Jason Bateman",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1969-01-14",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/264/660278.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/264/660278.jpg"
+            },
+            "updated": 1686251255,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/39487"
+                }
+            }
+        },
+        "character": {
+            "id": 64617,
+            "url": "https://www.tvmaze.com/characters/64617/arrested-development-michael-bluth",
+            "name": "Michael Bluth",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/257/643002.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/257/643002.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/64617"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19370,
+            "url": "https://www.tvmaze.com/people/19370/will-arnett",
+            "name": "Will Arnett",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1970-05-04",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1894.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1894.jpg"
+            },
+            "updated": 1685016461,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19370"
+                }
+            }
+        },
+        "character": {
+            "id": 64619,
+            "url": "https://www.tvmaze.com/characters/64619/arrested-development-george-gob-bluth-ii",
+            "name": "George \"G.O.B.\" Bluth II",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/257/643004.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/257/643004.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/64619"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 24054,
+            "url": "https://www.tvmaze.com/people/24054/jessica-walter",
+            "name": "Jessica Walter",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1941-01-31",
+            "deathday": "2021-03-24",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5105.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5105.jpg"
+            },
+            "updated": 1675996499,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/24054"
+                }
+            }
+        },
+        "character": {
+            "id": 64624,
+            "url": "https://www.tvmaze.com/characters/64624/arrested-development-lucille-bluth",
+            "name": "Lucille Bluth",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/257/643009.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/257/643009.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/64624"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20924,
+            "url": "https://www.tvmaze.com/people/20924/jeffrey-tambor",
+            "name": "Jeffrey Tambor",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1944-07-08",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1749.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1749.jpg"
+            },
+            "updated": 1686783367,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20924"
+                }
+            }
+        },
+        "character": {
+            "id": 64626,
+            "url": "https://www.tvmaze.com/characters/64626/arrested-development-george-oscar-bluth-sr",
+            "name": "George Oscar Bluth, Sr.",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5212.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5212.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/64626"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 39489,
+            "url": "https://www.tvmaze.com/people/39489/michael-cera",
+            "name": "Michael Cera",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1988-06-07",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10149.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10149.jpg"
+            },
+            "updated": 1688761699,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/39489"
+                }
+            }
+        },
+        "character": {
+            "id": 64620,
+            "url": "https://www.tvmaze.com/characters/64620/arrested-development-george-michael-bluth",
+            "name": "George Michael Bluth",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/257/643005.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/257/643005.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/64620"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 39490,
+            "url": "https://www.tvmaze.com/people/39490/alia-shawkat",
+            "name": "Alia Shawkat",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1989-04-18",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/82/205662.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/82/205662.jpg"
+            },
+            "updated": 1682517185,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/39490"
+                }
+            }
+        },
+        "character": {
+            "id": 64621,
+            "url": "https://www.tvmaze.com/characters/64621/arrested-development-mae-maeby-funke",
+            "name": "Mae \"Maeby\" F\u00fcnke",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/257/643006.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/257/643006.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/64621"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 12175,
+            "url": "https://www.tvmaze.com/people/12175/david-cross",
+            "name": "David Cross",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-04",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10150.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10150.jpg"
+            },
+            "updated": 1687132506,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/12175"
+                }
+            }
+        },
+        "character": {
+            "id": 64623,
+            "url": "https://www.tvmaze.com/characters/64623/arrested-development-tobias-funke",
+            "name": "Tobias F\u00fcnke",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/257/643008.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/257/643008.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/64623"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20861,
+            "url": "https://www.tvmaze.com/people/20861/tony-hale",
+            "name": "Tony Hale",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1970-09-30",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1978.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1978.jpg"
+            },
+            "updated": 1688233646,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20861"
+                }
+            }
+        },
+        "character": {
+            "id": 64622,
+            "url": "https://www.tvmaze.com/characters/64622/arrested-development-byron-buster-bluth",
+            "name": "Byron \"Buster\" Bluth",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/257/643007.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/257/643007.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/64622"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 39488,
+            "url": "https://www.tvmaze.com/people/39488/portia-de-rossi",
+            "name": "Portia de Rossi",
+            "country": {
+                "name": "Australia",
+                "code": "AU",
+                "timezone": "Australia/Sydney"
+            },
+            "birthday": "1973-01-31",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/36/90272.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/36/90272.jpg"
+            },
+            "updated": 1678413340,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/39488"
+                }
+            }
+        },
+        "character": {
+            "id": 64618,
+            "url": "https://www.tvmaze.com/characters/64618/arrested-development-lindsay-bluth-funke",
+            "name": "Lindsay Bluth F\u00fcnke",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/257/643003.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/257/643003.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/64618"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20924,
+            "url": "https://www.tvmaze.com/people/20924/jeffrey-tambor",
+            "name": "Jeffrey Tambor",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1944-07-08",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1749.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1749.jpg"
+            },
+            "updated": 1686783367,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20924"
+                }
+            }
+        },
+        "character": {
+            "id": 534375,
+            "url": "https://www.tvmaze.com/characters/534375/arrested-development-oscar-george-bluth",
+            "name": "Oscar George Bluth",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/157/394149.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/157/394149.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/534375"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

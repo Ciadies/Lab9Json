@@ -1,0 +1,412 @@
+[
+    {
+        "person": {
+            "id": 160,
+            "url": "https://www.tvmaze.com/people/160/linda-cardellini",
+            "name": "Linda Cardellini",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1975-06-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/256/641826.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/256/641826.jpg"
+            },
+            "updated": 1687915280,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/160"
+                }
+            }
+        },
+        "character": {
+            "id": 87903,
+            "url": "https://www.tvmaze.com/characters/87903/freaks-and-geeks-lindsay-weir",
+            "name": "Lindsay Weir",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15211.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15211.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87903"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 8630,
+            "url": "https://www.tvmaze.com/people/8630/john-francis-daley",
+            "name": "John Francis Daley",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1985-07-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/3900.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3900.jpg"
+            },
+            "updated": 1681670813,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/8630"
+                }
+            }
+        },
+        "character": {
+            "id": 87904,
+            "url": "https://www.tvmaze.com/characters/87904/freaks-and-geeks-sam-weir",
+            "name": "Sam Weir",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15210.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15210.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87904"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11119,
+            "url": "https://www.tvmaze.com/people/11119/james-franco",
+            "name": "James Franco",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1978-04-19",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18257.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18257.jpg"
+            },
+            "updated": 1680176548,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11119"
+                }
+            }
+        },
+        "character": {
+            "id": 87905,
+            "url": "https://www.tvmaze.com/characters/87905/freaks-and-geeks-daniel-desario",
+            "name": "Daniel Desario",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15213.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15213.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87905"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 10131,
+            "url": "https://www.tvmaze.com/people/10131/samm-levine",
+            "name": "Samm Levine",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1982-03-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/167/418981.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/167/418981.jpg"
+            },
+            "updated": 1670950825,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/10131"
+                }
+            }
+        },
+        "character": {
+            "id": 87906,
+            "url": "https://www.tvmaze.com/characters/87906/freaks-and-geeks-neil-schweiber",
+            "name": "Neil Schweiber",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15214.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15214.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87906"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 22160,
+            "url": "https://www.tvmaze.com/people/22160/jason-segel",
+            "name": "Jason Segel",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1980-01-18",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/432/1081516.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/432/1081516.jpg"
+            },
+            "updated": 1684739090,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/22160"
+                }
+            }
+        },
+        "character": {
+            "id": 87908,
+            "url": "https://www.tvmaze.com/characters/87908/freaks-and-geeks-nick-andopolis",
+            "name": "Nick Andopolis",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15217.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15217.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87908"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5083,
+            "url": "https://www.tvmaze.com/people/5083/martin-starr",
+            "name": "Martin Starr",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1982-07-30",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8322.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8322.jpg"
+            },
+            "updated": 1684459934,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5083"
+                }
+            }
+        },
+        "character": {
+            "id": 87909,
+            "url": "https://www.tvmaze.com/characters/87909/freaks-and-geeks-bill-haverchuck",
+            "name": "Bill Haverchuck",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15215.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15215.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87909"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19468,
+            "url": "https://www.tvmaze.com/people/19468/becky-ann-baker",
+            "name": "Becky Ann Baker",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1953-02-17",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/9/22924.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22924.jpg"
+            },
+            "updated": 1684893658,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19468"
+                }
+            }
+        },
+        "character": {
+            "id": 87910,
+            "url": "https://www.tvmaze.com/characters/87910/freaks-and-geeks-jean-weir",
+            "name": "Jean Weir",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15218.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15218.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87910"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50313,
+            "url": "https://www.tvmaze.com/people/50313/joe-flaherty",
+            "name": "Joe Flaherty",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1941-06-21",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/25/64954.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/25/64954.jpg"
+            },
+            "updated": 1683099563,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50313"
+                }
+            }
+        },
+        "character": {
+            "id": 87911,
+            "url": "https://www.tvmaze.com/characters/87911/freaks-and-geeks-harold-weir",
+            "name": "Harold Weir",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15219.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15219.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87911"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 115015,
+            "url": "https://www.tvmaze.com/people/115015/busy-philipps",
+            "name": "Busy Philipps",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1979-06-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8717.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8717.jpg"
+            },
+            "updated": 1687549974,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/115015"
+                }
+            }
+        },
+        "character": {
+            "id": 87912,
+            "url": "https://www.tvmaze.com/characters/87912/freaks-and-geeks-kim-kelly",
+            "name": "Kim Kelly",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15212.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15212.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87912"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11107,
+            "url": "https://www.tvmaze.com/people/11107/seth-rogen",
+            "name": "Seth Rogen",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1982-04-15",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/30883.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/30883.jpg"
+            },
+            "updated": 1688475426,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11107"
+                }
+            }
+        },
+        "character": {
+            "id": 87907,
+            "url": "https://www.tvmaze.com/characters/87907/freaks-and-geeks-ken-miller",
+            "name": "Ken Miller",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15216.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15216.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87907"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

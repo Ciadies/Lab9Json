@@ -1,0 +1,286 @@
+[
+    {
+        "person": {
+            "id": 50833,
+            "url": "https://www.tvmaze.com/people/50833/james-garner",
+            "name": "James Garner",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1928-04-07",
+            "deathday": "2014-07-19",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/20187.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/20187.jpg"
+            },
+            "updated": 1672434991,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50833"
+                }
+            }
+        },
+        "character": {
+            "id": 88667,
+            "url": "https://www.tvmaze.com/characters/88667/the-rockford-files-jim-rockford",
+            "name": "Jim Rockford",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/373/934549.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/373/934549.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88667"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50834,
+            "url": "https://www.tvmaze.com/people/50834/noah-beery-jr",
+            "name": "Noah Beery, Jr.",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1913-08-10",
+            "deathday": "1994-11-01",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/20/51055.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/20/51055.jpg"
+            },
+            "updated": 1683781452,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50834"
+                }
+            }
+        },
+        "character": {
+            "id": 88668,
+            "url": "https://www.tvmaze.com/characters/88668/the-rockford-files-joseph-rocky-rockford",
+            "name": "Joseph \"Rocky\" Rockford",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/417/1043297.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/417/1043297.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88668"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 237962,
+            "url": "https://www.tvmaze.com/people/237962/robert-donley",
+            "name": "Robert Donley",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1911-11-26",
+            "deathday": "2004-01-20",
+            "gender": "Male",
+            "image": null,
+            "updated": 1687616029,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/237962"
+                }
+            }
+        },
+        "character": {
+            "id": 88668,
+            "url": "https://www.tvmaze.com/characters/88668/the-rockford-files-joseph-rocky-rockford",
+            "name": "Joseph \"Rocky\" Rockford",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/417/1043297.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/417/1043297.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88668"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50839,
+            "url": "https://www.tvmaze.com/people/50839/joe-santos",
+            "name": "Joe Santos",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1931-06-09",
+            "deathday": "2016-03-18",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/49/123183.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/49/123183.jpg"
+            },
+            "updated": 1684802808,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50839"
+                }
+            }
+        },
+        "character": {
+            "id": 88669,
+            "url": "https://www.tvmaze.com/characters/88669/the-rockford-files-det-dennis-becker",
+            "name": "Det. Dennis Becker",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/355/888609.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/355/888609.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88669"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 35760,
+            "url": "https://www.tvmaze.com/people/35760/lindsay-wagner",
+            "name": "Lindsay Wagner",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1949-06-22",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/185/462922.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/185/462922.jpg"
+            },
+            "updated": 1684004383,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/35760"
+                }
+            }
+        },
+        "character": {
+            "id": 258382,
+            "url": "https://www.tvmaze.com/characters/258382/the-rockford-files-sara-butler",
+            "name": "Sara Butler",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/344/860055.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/344/860055.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/258382"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 61456,
+            "url": "https://www.tvmaze.com/people/61456/william-smith",
+            "name": "William Smith",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1933-03-24",
+            "deathday": "2021-07-05",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/49951.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/49951.jpg"
+            },
+            "updated": 1680882972,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/61456"
+                }
+            }
+        },
+        "character": {
+            "id": 893308,
+            "url": "https://www.tvmaze.com/characters/893308/the-rockford-files-jerry-grimes",
+            "name": "Jerry Grimes",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/344/860285.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/344/860285.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/893308"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 98915,
+            "url": "https://www.tvmaze.com/people/98915/nita-talbot",
+            "name": "Nita Talbot",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1930-08-08",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/32/81819.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/32/81819.jpg"
+            },
+            "updated": 1673614915,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/98915"
+                }
+            }
+        },
+        "character": {
+            "id": 893309,
+            "url": "https://www.tvmaze.com/characters/893309/the-rockford-files-mildred-elias",
+            "name": "Mildred Elias",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/344/860319.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/344/860319.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/893309"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

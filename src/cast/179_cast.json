@@ -1,0 +1,1478 @@
+[
+    {
+        "person": {
+            "id": 9696,
+            "url": "https://www.tvmaze.com/people/9696/lance-reddick",
+            "name": "Lance Reddick",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-06-07",
+            "deathday": "2023-03-17",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/147/369752.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/147/369752.jpg"
+            },
+            "updated": 1679090464,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/9696"
+                }
+            }
+        },
+        "character": {
+            "id": 48960,
+            "url": "https://www.tvmaze.com/characters/48960/the-wire-lt-cedric-daniels",
+            "name": "Lt. Cedric Daniels",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237209.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237209.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48960"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20082,
+            "url": "https://www.tvmaze.com/people/20082/sonja-sohn",
+            "name": "Sonja Sohn",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-05-09",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10304.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10304.jpg"
+            },
+            "updated": 1682709088,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20082"
+                }
+            }
+        },
+        "character": {
+            "id": 48965,
+            "url": "https://www.tvmaze.com/characters/48965/the-wire-det-shakima-kima-greggs",
+            "name": "Det. Shakima \"Kima\" Greggs",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237206.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237206.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48965"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 26965,
+            "url": "https://www.tvmaze.com/people/26965/dominic-west",
+            "name": "Dominic West",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1969-10-15",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/103/258397.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/103/258397.jpg"
+            },
+            "updated": 1684196788,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/26965"
+                }
+            }
+        },
+        "character": {
+            "id": 49349,
+            "url": "https://www.tvmaze.com/characters/49349/the-wire-off-james-jimmy-mcnulty",
+            "name": "Off. James \"Jimmy\" McNulty",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237208.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237208.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/49349"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 694,
+            "url": "https://www.tvmaze.com/people/694/clarke-peters",
+            "name": "Clarke Peters",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1952-04-07",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10299.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10299.jpg"
+            },
+            "updated": 1674322831,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/694"
+                }
+            }
+        },
+        "character": {
+            "id": 48951,
+            "url": "https://www.tvmaze.com/characters/48951/the-wire-det-lester-freamon",
+            "name": "Det. Lester Freamon",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237207.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237207.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48951"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19684,
+            "url": "https://www.tvmaze.com/people/19684/domenick-lombardozzi",
+            "name": "Domenick Lombardozzi",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1976-03-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/228/572079.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/228/572079.jpg"
+            },
+            "updated": 1673173102,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19684"
+                }
+            }
+        },
+        "character": {
+            "id": 48954,
+            "url": "https://www.tvmaze.com/characters/48954/the-wire-det-thomas-herc-hauk",
+            "name": "Det. Thomas \"Herc\" Hauk",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237204.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237204.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48954"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 28778,
+            "url": "https://www.tvmaze.com/people/28778/wendell-pierce",
+            "name": "Wendell Pierce",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-12-08",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10305.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10305.jpg"
+            },
+            "updated": 1688702791,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/28778"
+                }
+            }
+        },
+        "character": {
+            "id": 48966,
+            "url": "https://www.tvmaze.com/characters/48966/the-wire-det-william-bunk-moreland",
+            "name": "Det. William \"Bunk\" Moreland",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237221.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237221.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48966"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 1087,
+            "url": "https://www.tvmaze.com/people/1087/seth-gilliam",
+            "name": "Seth Gilliam",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-11-05",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6021.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6021.jpg"
+            },
+            "updated": 1685711045,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/1087"
+                }
+            }
+        },
+        "character": {
+            "id": 48981,
+            "url": "https://www.tvmaze.com/characters/48981/the-wire-det-ellis-carver",
+            "name": "Det. Ellis Carver",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2536.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2536.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48981"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20542,
+            "url": "https://www.tvmaze.com/people/20542/jim-true-frost",
+            "name": "Jim True-Frost",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-07-31",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10302.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10302.jpg"
+            },
+            "updated": 1673703909,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20542"
+                }
+            }
+        },
+        "character": {
+            "id": 48956,
+            "url": "https://www.tvmaze.com/characters/48956/the-wire-det-roland-prez-pryzbylewski",
+            "name": "Det. Roland \"Prez\" Pryzbylewski",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237205.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237205.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48956"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 2224,
+            "url": "https://www.tvmaze.com/people/2224/john-doman",
+            "name": "John Doman",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1945-01-09",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/167/419871.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/167/419871.jpg"
+            },
+            "updated": 1670598168,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/2224"
+                }
+            }
+        },
+        "character": {
+            "id": 49348,
+            "url": "https://www.tvmaze.com/characters/49348/the-wire-dep-comm-william-a-rawls",
+            "name": "Dep. Comm. William A. Rawls",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2596.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2596.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/49348"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 9619,
+            "url": "https://www.tvmaze.com/people/9619/deirdre-lovejoy",
+            "name": "Deirdre Lovejoy",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-06-30",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6849.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6849.jpg"
+            },
+            "updated": 1688722246,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/9619"
+                }
+            }
+        },
+        "character": {
+            "id": 48953,
+            "url": "https://www.tvmaze.com/characters/48953/the-wire-assistant-states-attorney-rhonda-pearlman",
+            "name": "Assistant State's Attorney Rhonda Pearlman",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237210.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237210.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48953"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18152,
+            "url": "https://www.tvmaze.com/people/18152/michael-k-williams",
+            "name": "Michael K. Williams",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-11-22",
+            "deathday": "2021-09-06",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/939.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/939.jpg"
+            },
+            "updated": 1679053237,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18152"
+                }
+            }
+        },
+        "character": {
+            "id": 48961,
+            "url": "https://www.tvmaze.com/characters/48961/the-wire-omar-little",
+            "name": "Omar Little",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237211.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237211.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48961"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 12821,
+            "url": "https://www.tvmaze.com/people/12821/andre-royo",
+            "name": "Andre Royo",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-07-18",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10298.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10298.jpg"
+            },
+            "updated": 1685832416,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/12821"
+                }
+            }
+        },
+        "character": {
+            "id": 48949,
+            "url": "https://www.tvmaze.com/characters/48949/the-wire-reginald-bubbles-cousins",
+            "name": "Reginald \"Bubbles\" Cousins",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2534.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2534.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48949"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 32741,
+            "url": "https://www.tvmaze.com/people/32741/idris-elba",
+            "name": "Idris Elba",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1972-09-06",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/112/281002.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/112/281002.jpg"
+            },
+            "updated": 1688471467,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/32741"
+                }
+            }
+        },
+        "character": {
+            "id": 48946,
+            "url": "https://www.tvmaze.com/characters/48946/the-wire-russell-stringer-bell",
+            "name": "Russell \"Stringer\" Bell",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237212.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237212.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48946"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 15768,
+            "url": "https://www.tvmaze.com/people/15768/frankie-faison",
+            "name": "Frankie Faison",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1949-06-10",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8807.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8807.jpg"
+            },
+            "updated": 1682709018,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/15768"
+                }
+            }
+        },
+        "character": {
+            "id": 48955,
+            "url": "https://www.tvmaze.com/characters/48955/the-wire-ervin-burrell",
+            "name": "Ervin Burrell",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237215.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237215.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48955"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 14083,
+            "url": "https://www.tvmaze.com/people/14083/aidan-gillen",
+            "name": "Aidan Gillen",
+            "country": {
+                "name": "Ireland",
+                "code": "IE",
+                "timezone": "Europe/Dublin"
+            },
+            "birthday": "1968-04-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/3240.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3240.jpg"
+            },
+            "updated": 1682724670,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14083"
+                }
+            }
+        },
+        "character": {
+            "id": 48947,
+            "url": "https://www.tvmaze.com/characters/48947/the-wire-councilman-thomas-tommy-carcetti",
+            "name": "Councilman Thomas \"Tommy\" Carcetti",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237214.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237214.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48947"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17660,
+            "url": "https://www.tvmaze.com/people/17660/jd-williams",
+            "name": "J.D. Williams",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1978-05-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5907.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5907.jpg"
+            },
+            "updated": 1501190625,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17660"
+                }
+            }
+        },
+        "character": {
+            "id": 49067,
+            "url": "https://www.tvmaze.com/characters/49067/the-wire-preston-bodie-broadus",
+            "name": "Preston \"Bodie\" Broadus",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237216.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237216.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/49067"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5117,
+            "url": "https://www.tvmaze.com/people/5117/wood-harris",
+            "name": "Wood Harris",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1969-10-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10306.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10306.jpg"
+            },
+            "updated": 1686326281,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5117"
+                }
+            }
+        },
+        "character": {
+            "id": 48967,
+            "url": "https://www.tvmaze.com/characters/48967/the-wire-avon-barksdale",
+            "name": "Avon Barksdale",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237217.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237217.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48967"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 4795,
+            "url": "https://www.tvmaze.com/people/4795/jamie-hector",
+            "name": "Jamie Hector",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1975-10-07",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18779.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18779.jpg"
+            },
+            "updated": 1661446145,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/4795"
+                }
+            }
+        },
+        "character": {
+            "id": 49106,
+            "url": "https://www.tvmaze.com/characters/49106/the-wire-marlo-black-stanfield",
+            "name": "Marlo \"Black\" Stanfield",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237195.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237195.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/49106"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 32742,
+            "url": "https://www.tvmaze.com/people/32742/corey-parker-robinson",
+            "name": "Corey Parker Robinson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1975-01-09",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10300.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10300.jpg"
+            },
+            "updated": 1496268002,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/32742"
+                }
+            }
+        },
+        "character": {
+            "id": 48952,
+            "url": "https://www.tvmaze.com/characters/48952/the-wire-det-leander-sydnor",
+            "name": "Det. Leander Sydnor",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237218.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237218.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48952"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17482,
+            "url": "https://www.tvmaze.com/people/17482/gbenga-akinnagbe",
+            "name": "Gbenga Akinnagbe",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1978-12-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2378.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2378.jpg"
+            },
+            "updated": 1683897244,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17482"
+                }
+            }
+        },
+        "character": {
+            "id": 49130,
+            "url": "https://www.tvmaze.com/characters/49130/the-wire-chris-partlow",
+            "name": "Chris Partlow",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237201.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237201.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/49130"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 3875,
+            "url": "https://www.tvmaze.com/people/3875/robert-wisdom",
+            "name": "Robert Wisdom",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1953-09-14",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10004.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10004.jpg"
+            },
+            "updated": 1685365366,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/3875"
+                }
+            }
+        },
+        "character": {
+            "id": 49079,
+            "url": "https://www.tvmaze.com/characters/49079/the-wire-maj-howard-bunny-colvin",
+            "name": "Maj. Howard \"Bunny\" Colvin",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237202.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237202.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/49079"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18409,
+            "url": "https://www.tvmaze.com/people/18409/isiah-whitlock-jr",
+            "name": "Isiah Whitlock Jr.",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1954-09-13",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/74/185537.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/74/185537.jpg"
+            },
+            "updated": 1685174489,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18409"
+                }
+            }
+        },
+        "character": {
+            "id": 49009,
+            "url": "https://www.tvmaze.com/characters/49009/the-wire-state-sen-r-clayton-clay-davis",
+            "name": "State Sen. R. Clayton \"Clay\" Davis",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237246.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237246.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/49009"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 1966,
+            "url": "https://www.tvmaze.com/people/1966/reg-e-cathey",
+            "name": "Reg E. Cathey",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1958-08-18",
+            "deathday": "2018-02-09",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/145/364141.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/145/364141.jpg"
+            },
+            "updated": 1638360161,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/1966"
+                }
+            }
+        },
+        "character": {
+            "id": 49159,
+            "url": "https://www.tvmaze.com/characters/49159/the-wire-norman-wilson",
+            "name": "Norman Wilson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2581.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2581.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/49159"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 2210,
+            "url": "https://www.tvmaze.com/people/2210/michael-kostroff",
+            "name": "Michael Kostroff",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-05-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/175/439580.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/439580.jpg"
+            },
+            "updated": 1687955165,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/2210"
+                }
+            }
+        },
+        "character": {
+            "id": 48975,
+            "url": "https://www.tvmaze.com/characters/48975/the-wire-maurice-maury-levy",
+            "name": "Maurice \"Maury\" Levy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2575.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2575.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48975"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 125,
+            "url": "https://www.tvmaze.com/people/125/jermaine-crawford",
+            "name": "Jermaine Crawford",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1992-10-28",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25907.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25907.jpg"
+            },
+            "updated": 1652124271,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/125"
+                }
+            }
+        },
+        "character": {
+            "id": 49156,
+            "url": "https://www.tvmaze.com/characters/49156/the-wire-duquan-dukie-weems",
+            "name": "Duquan \"Dukie\" Weems",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2577.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2577.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/49156"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 90609,
+            "url": "https://www.tvmaze.com/people/90609/chad-l-coleman",
+            "name": "Chad L. Coleman",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-09-06",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/178/446693.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/178/446693.jpg"
+            },
+            "updated": 1686326383,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/90609"
+                }
+            }
+        },
+        "character": {
+            "id": 49105,
+            "url": "https://www.tvmaze.com/characters/49105/the-wire-dennis-cutty-wise",
+            "name": "Dennis \"Cutty\" Wise",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237199.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237199.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/49105"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18367,
+            "url": "https://www.tvmaze.com/people/18367/amy-ryan",
+            "name": "Amy Ryan",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-05-03",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10297.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10297.jpg"
+            },
+            "updated": 1682115386,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18367"
+                }
+            }
+        },
+        "character": {
+            "id": 48948,
+            "url": "https://www.tvmaze.com/characters/48948/the-wire-off-beatrice-beadie-russell",
+            "name": "Off. Beatrice \"Beadie\" Russell",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237200.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237200.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48948"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 61603,
+            "url": "https://www.tvmaze.com/people/61603/lawrence-gilliard-jr",
+            "name": "Lawrence Gilliard Jr.",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1971-09-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5812.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5812.jpg"
+            },
+            "updated": 1685644020,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/61603"
+                }
+            }
+        },
+        "character": {
+            "id": 165366,
+            "url": "https://www.tvmaze.com/characters/165366/the-wire-dangelo-barksdale",
+            "name": "D'Angelo Barksdale",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237193.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237193.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/165366"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 13904,
+            "url": "https://www.tvmaze.com/people/13904/glynn-turman",
+            "name": "Glynn Turman",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1947-01-31",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8677.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8677.jpg"
+            },
+            "updated": 1685760204,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/13904"
+                }
+            }
+        },
+        "character": {
+            "id": 49147,
+            "url": "https://www.tvmaze.com/characters/49147/the-wire-mayor-clarence-v-royce",
+            "name": "Mayor Clarence V. Royce",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237245.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237245.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/49147"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 758,
+            "url": "https://www.tvmaze.com/people/758/paul-ben-victor",
+            "name": "Paul Ben-Victor",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-07-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10303.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10303.jpg"
+            },
+            "updated": 1686402493,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/758"
+                }
+            }
+        },
+        "character": {
+            "id": 49254,
+            "url": "https://www.tvmaze.com/characters/49254/the-wire-spiros-vondas-vondopoulos",
+            "name": "Spiros \"Vondas\" Vondopoulos",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237219.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237219.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/49254"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 32870,
+            "url": "https://www.tvmaze.com/people/32870/mack-wilds",
+            "name": "Mack Wilds",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1989-07-15",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/116/292072.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/116/292072.jpg"
+            },
+            "updated": 1688225278,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/32870"
+                }
+            }
+        },
+        "character": {
+            "id": 49162,
+            "url": "https://www.tvmaze.com/characters/49162/the-wire-michael-lee",
+            "name": "Michael Lee",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237254.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237254.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/49162"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 4935,
+            "url": "https://www.tvmaze.com/people/4935/chris-bauer",
+            "name": "Chris Bauer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-10-28",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5764.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5764.jpg"
+            },
+            "updated": 1663456459,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/4935"
+                }
+            }
+        },
+        "character": {
+            "id": 48950,
+            "url": "https://www.tvmaze.com/characters/48950/the-wire-frank-sobotka",
+            "name": "Frank Sobotka",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237220.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237220.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/48950"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17779,
+            "url": "https://www.tvmaze.com/people/17779/neal-huff",
+            "name": "Neal Huff",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/148/370337.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/148/370337.jpg"
+            },
+            "updated": 1678719361,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17779"
+                }
+            }
+        },
+        "character": {
+            "id": 49316,
+            "url": "https://www.tvmaze.com/characters/49316/the-wire-chief-of-staff-michael-steintorf",
+            "name": "Chief of Staff Michael Steintorf",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2578.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2578.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/49316"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 32952,
+            "url": "https://www.tvmaze.com/people/32952/michelle-paress",
+            "name": "Michelle Paress",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": null,
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/103/258922.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/103/258922.jpg"
+            },
+            "updated": 1490369865,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/32952"
+                }
+            }
+        },
+        "character": {
+            "id": 49315,
+            "url": "https://www.tvmaze.com/characters/49315/the-wire-alma-gutierrez",
+            "name": "Alma Gutierrez",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237239.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237239.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/49315"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 951,
+            "url": "https://www.tvmaze.com/people/951/clark-johnson",
+            "name": "Clark Johnson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1954-09-10",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/234/587001.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/234/587001.jpg"
+            },
+            "updated": 1684412670,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/951"
+                }
+            }
+        },
+        "character": {
+            "id": 49331,
+            "url": "https://www.tvmaze.com/characters/49331/the-wire-city-editor-augustus-gus-haynes",
+            "name": "City Editor Augustus \"Gus\" Haynes",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237237.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237237.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/49331"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 14106,
+            "url": "https://www.tvmaze.com/people/14106/thomas-mccarthy",
+            "name": "Thomas McCarthy",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-06-07",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/103/258930.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/103/258930.jpg"
+            },
+            "updated": 1680879252,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14106"
+                }
+            }
+        },
+        "character": {
+            "id": 373785,
+            "url": "https://www.tvmaze.com/characters/373785/the-wire-scott-templeton",
+            "name": "Scott Templeton",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/237264.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/237264.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/373785"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

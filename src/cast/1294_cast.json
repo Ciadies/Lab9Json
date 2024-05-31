@@ -1,0 +1,327 @@
+[
+    {
+        "person": {
+            "id": 27586,
+            "url": "https://www.tvmaze.com/people/27586/daniel-stern",
+            "name": "Daniel Stern",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-08-28",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/9/22828.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22828.jpg"
+            },
+            "updated": 1653108703,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/27586"
+                }
+            }
+        },
+        "character": {
+            "id": 911646,
+            "url": "https://www.tvmaze.com/characters/911646/the-wonder-years-adult-kevin-arnold",
+            "name": "Adult Kevin Arnold",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/911646"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 12161,
+            "url": "https://www.tvmaze.com/people/12161/fred-savage",
+            "name": "Fred Savage",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1976-07-09",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/3004.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3004.jpg"
+            },
+            "updated": 1685452460,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/12161"
+                }
+            }
+        },
+        "character": {
+            "id": 92945,
+            "url": "https://www.tvmaze.com/characters/92945/the-wonder-years-kevin-arnold",
+            "name": "Kevin Arnold",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18439.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18439.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/92945"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 53273,
+            "url": "https://www.tvmaze.com/people/53273/alley-mills",
+            "name": "Alley Mills",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1951-05-09",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/30/75882.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/30/75882.jpg"
+            },
+            "updated": 1685888259,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/53273"
+                }
+            }
+        },
+        "character": {
+            "id": 92947,
+            "url": "https://www.tvmaze.com/characters/92947/the-wonder-years-norma-arnold",
+            "name": "Norma Arnold",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18446.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18446.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/92947"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 53279,
+            "url": "https://www.tvmaze.com/people/53279/jason-hervey",
+            "name": "Jason Hervey",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1972-04-06",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/104/260578.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/104/260578.jpg"
+            },
+            "updated": 1522683610,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/53279"
+                }
+            }
+        },
+        "character": {
+            "id": 92952,
+            "url": "https://www.tvmaze.com/characters/92952/the-wonder-years-wayne-arnold",
+            "name": "Wayne Arnold",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18444.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18444.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/92952"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 34658,
+            "url": "https://www.tvmaze.com/people/34658/josh-saviano",
+            "name": "Josh Saviano",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1976-03-31",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5178.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5178.jpg"
+            },
+            "updated": 1505673670,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/34658"
+                }
+            }
+        },
+        "character": {
+            "id": 92950,
+            "url": "https://www.tvmaze.com/characters/92950/the-wonder-years-paul-joseph-pfeiffer",
+            "name": "Paul Joseph Pfeiffer",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18441.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18441.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/92950"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19483,
+            "url": "https://www.tvmaze.com/people/19483/dan-lauria",
+            "name": "Dan Lauria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1947-04-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/182/456287.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/182/456287.jpg"
+            },
+            "updated": 1683037361,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19483"
+                }
+            }
+        },
+        "character": {
+            "id": 92946,
+            "url": "https://www.tvmaze.com/characters/92946/the-wonder-years-jack-arnold",
+            "name": "Jack Arnold",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18442.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18442.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/92946"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 8617,
+            "url": "https://www.tvmaze.com/people/8617/danica-mckellar",
+            "name": "Danica McKellar",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1975-01-03",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/12184.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/12184.jpg"
+            },
+            "updated": 1679918376,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/8617"
+                }
+            }
+        },
+        "character": {
+            "id": 92949,
+            "url": "https://www.tvmaze.com/characters/92949/the-wonder-years-gwendolyn-winnie-cooper",
+            "name": "Gwendolyn \"Winnie\" Cooper",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18440.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18440.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/92949"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 27278,
+            "url": "https://www.tvmaze.com/people/27278/olivia-dabo",
+            "name": "Olivia d'Abo",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1969-01-22",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/144/362398.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/144/362398.jpg"
+            },
+            "updated": 1674346098,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/27278"
+                }
+            }
+        },
+        "character": {
+            "id": 92948,
+            "url": "https://www.tvmaze.com/characters/92948/the-wonder-years-karen-arnold",
+            "name": "Karen Arnold",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18453.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18453.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/92948"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

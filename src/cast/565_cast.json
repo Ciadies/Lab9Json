@@ -1,0 +1,863 @@
+[
+    {
+        "person": {
+            "id": 11152,
+            "url": "https://www.tvmaze.com/people/11152/timothy-olyphant",
+            "name": "Timothy Olyphant",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-05-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10176.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10176.jpg"
+            },
+            "updated": 1687945373,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11152"
+                }
+            }
+        },
+        "character": {
+            "id": 86071,
+            "url": "https://www.tvmaze.com/characters/86071/deadwood-seth-bullock",
+            "name": "Seth Bullock",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11725.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11725.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86071"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 9608,
+            "url": "https://www.tvmaze.com/people/9608/ian-mcshane",
+            "name": "Ian McShane",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1942-09-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/109/273989.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/109/273989.jpg"
+            },
+            "updated": 1679086155,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/9608"
+                }
+            }
+        },
+        "character": {
+            "id": 86072,
+            "url": "https://www.tvmaze.com/characters/86072/deadwood-al-swearengen",
+            "name": "Al Swearengen",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11726.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11726.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86072"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29855,
+            "url": "https://www.tvmaze.com/people/29855/molly-parker",
+            "name": "Molly Parker",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1972-06-30",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/82/207418.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/82/207418.jpg"
+            },
+            "updated": 1681709730,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29855"
+                }
+            }
+        },
+        "character": {
+            "id": 86073,
+            "url": "https://www.tvmaze.com/characters/86073/deadwood-alma-garret",
+            "name": "Alma Garret",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11734.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11734.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86073"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 2981,
+            "url": "https://www.tvmaze.com/people/2981/brad-dourif",
+            "name": "Brad Dourif",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1950-03-18",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/194/487127.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/194/487127.jpg"
+            },
+            "updated": 1669282206,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/2981"
+                }
+            }
+        },
+        "character": {
+            "id": 86075,
+            "url": "https://www.tvmaze.com/characters/86075/deadwood-doctor-amos-doc-cochran",
+            "name": "Doctor Amos \"Doc\" Cochran",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11727.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11727.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86075"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 22875,
+            "url": "https://www.tvmaze.com/people/22875/john-hawkes",
+            "name": "John Hawkes",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1959-09-11",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/47/119537.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/47/119537.jpg"
+            },
+            "updated": 1683040864,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/22875"
+                }
+            }
+        },
+        "character": {
+            "id": 86076,
+            "url": "https://www.tvmaze.com/characters/86076/deadwood-sol-star",
+            "name": "Sol Star",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11736.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11736.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86076"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11347,
+            "url": "https://www.tvmaze.com/people/11347/paula-malcomson",
+            "name": "Paula Malcomson",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1970-06-01",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9244.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9244.jpg"
+            },
+            "updated": 1656202952,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11347"
+                }
+            }
+        },
+        "character": {
+            "id": 86077,
+            "url": "https://www.tvmaze.com/characters/86077/deadwood-trixie",
+            "name": "Trixie",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11733.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11733.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86077"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 57,
+            "url": "https://www.tvmaze.com/people/57/leon-rippy",
+            "name": "Leon Rippy",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1949-10-30",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10289.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10289.jpg"
+            },
+            "updated": 1661376016,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/57"
+                }
+            }
+        },
+        "character": {
+            "id": 86078,
+            "url": "https://www.tvmaze.com/characters/86078/deadwood-tom-nuttall",
+            "name": "Tom Nuttall",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11728.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11728.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86078"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 4964,
+            "url": "https://www.tvmaze.com/people/4964/william-sanderson",
+            "name": "William Sanderson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1944-01-10",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8883.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8883.jpg"
+            },
+            "updated": 1668229287,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/4964"
+                }
+            }
+        },
+        "character": {
+            "id": 86079,
+            "url": "https://www.tvmaze.com/characters/86079/deadwood-eb-farnum",
+            "name": "E.B. Farnum",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11735.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11735.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86079"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 9530,
+            "url": "https://www.tvmaze.com/people/9530/w-earl-brown",
+            "name": "W. Earl Brown",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-09-07",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/182/455256.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/182/455256.jpg"
+            },
+            "updated": 1682101224,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/9530"
+                }
+            }
+        },
+        "character": {
+            "id": 86080,
+            "url": "https://www.tvmaze.com/characters/86080/deadwood-dan-dority",
+            "name": "Dan Dority",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11732.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11732.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86080"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11135,
+            "url": "https://www.tvmaze.com/people/11135/dayton-callie",
+            "name": "Dayton Callie",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/3307.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3307.jpg"
+            },
+            "updated": 1687706845,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11135"
+                }
+            }
+        },
+        "character": {
+            "id": 86081,
+            "url": "https://www.tvmaze.com/characters/86081/deadwood-charlie-utter",
+            "name": "Charlie Utter",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11731.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11731.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86081"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 7548,
+            "url": "https://www.tvmaze.com/people/7548/robin-weigert",
+            "name": "Robin Weigert",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1969-07-07",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/182/457199.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/182/457199.jpg"
+            },
+            "updated": 1664592498,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/7548"
+                }
+            }
+        },
+        "character": {
+            "id": 86082,
+            "url": "https://www.tvmaze.com/characters/86082/deadwood-calamity-jane",
+            "name": "Calamity Jane",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11730.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11730.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86082"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20829,
+            "url": "https://www.tvmaze.com/people/20829/jeffrey-jones",
+            "name": "Jeffrey Jones",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1946-09-28",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/16/41153.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/16/41153.jpg"
+            },
+            "updated": 1662414307,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20829"
+                }
+            }
+        },
+        "character": {
+            "id": 86084,
+            "url": "https://www.tvmaze.com/characters/86084/deadwood-aw-merrick",
+            "name": "A.W. Merrick",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11738.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11738.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86084"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 9897,
+            "url": "https://www.tvmaze.com/people/9897/sean-bridgers",
+            "name": "Sean Bridgers",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-03-15",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/16/41154.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/16/41154.jpg"
+            },
+            "updated": 1677242204,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/9897"
+                }
+            }
+        },
+        "character": {
+            "id": 86087,
+            "url": "https://www.tvmaze.com/characters/86087/deadwood-johnny-burns",
+            "name": "Johnny Burns",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11744.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11744.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86087"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 3564,
+            "url": "https://www.tvmaze.com/people/3564/jim-beaver",
+            "name": "Jim Beaver",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1950-08-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/238/597210.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/238/597210.jpg"
+            },
+            "updated": 1678299780,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/3564"
+                }
+            }
+        },
+        "character": {
+            "id": 86074,
+            "url": "https://www.tvmaze.com/characters/86074/deadwood-whitney-ellsworth",
+            "name": "Whitney Ellsworth",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11729.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11729.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86074"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11642,
+            "url": "https://www.tvmaze.com/people/11642/kim-dickens",
+            "name": "Kim Dickens",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-06-18",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/19798.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/19798.jpg"
+            },
+            "updated": 1686931234,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11642"
+                }
+            }
+        },
+        "character": {
+            "id": 86085,
+            "url": "https://www.tvmaze.com/characters/86085/deadwood-joanie-stubbs",
+            "name": "Joanie Stubbs",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11740.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11740.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86085"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49266,
+            "url": "https://www.tvmaze.com/people/49266/bree-seanna-wall",
+            "name": "Bree Seanna Wall",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1995-05-08",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/16/41155.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/16/41155.jpg"
+            },
+            "updated": 1496259077,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49266"
+                }
+            }
+        },
+        "character": {
+            "id": 86088,
+            "url": "https://www.tvmaze.com/characters/86088/deadwood-sofia-metz",
+            "name": "Sofia Metz",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11741.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11741.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86088"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 7215,
+            "url": "https://www.tvmaze.com/people/7215/powers-boothe",
+            "name": "Powers Boothe",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1948-06-01",
+            "deathday": "2017-05-14",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/68/171256.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/68/171256.jpg"
+            },
+            "updated": 1496766622,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/7215"
+                }
+            }
+        },
+        "character": {
+            "id": 86083,
+            "url": "https://www.tvmaze.com/characters/86083/deadwood-cy-tolliver",
+            "name": "Cy Tolliver",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11743.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11743.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86083"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 1695,
+            "url": "https://www.tvmaze.com/people/1695/titus-welliver",
+            "name": "Titus Welliver",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-03-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/3296.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3296.jpg"
+            },
+            "updated": 1686402834,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/1695"
+                }
+            }
+        },
+        "character": {
+            "id": 86089,
+            "url": "https://www.tvmaze.com/characters/86089/deadwood-silas-adams",
+            "name": "Silas Adams",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11742.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11742.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86089"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11207,
+            "url": "https://www.tvmaze.com/people/11207/anna-gunn",
+            "name": "Anna Gunn",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-08-11",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6596.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6596.jpg"
+            },
+            "updated": 1685793471,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11207"
+                }
+            }
+        },
+        "character": {
+            "id": 86086,
+            "url": "https://www.tvmaze.com/characters/86086/deadwood-martha-bullock",
+            "name": "Martha Bullock",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11739.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11739.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86086"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20981,
+            "url": "https://www.tvmaze.com/people/20981/gerald-mcraney",
+            "name": "Gerald McRaney",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1947-08-19",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/161/403957.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/161/403957.jpg"
+            },
+            "updated": 1684723051,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20981"
+                }
+            }
+        },
+        "character": {
+            "id": 595848,
+            "url": "https://www.tvmaze.com/characters/595848/deadwood-george-hearst",
+            "name": "George Hearst",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/183/458284.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/183/458284.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/595848"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6912,
+            "url": "https://www.tvmaze.com/people/6912/keith-carradine",
+            "name": "Keith Carradine",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1949-08-08",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/169/423224.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/169/423224.jpg"
+            },
+            "updated": 1683139157,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6912"
+                }
+            }
+        },
+        "character": {
+            "id": 86090,
+            "url": "https://www.tvmaze.com/characters/86090/deadwood-wild-bill-hickok",
+            "name": "Wild Bill Hickok",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11737.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11737.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86090"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

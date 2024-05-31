@@ -1,0 +1,617 @@
+[
+    {
+        "person": {
+            "id": 29251,
+            "url": "https://www.tvmaze.com/people/29251/keri-russell",
+            "name": "Keri Russell",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1976-03-23",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10140.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10140.jpg"
+            },
+            "updated": 1685628356,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29251"
+                }
+            }
+        },
+        "character": {
+            "id": 40558,
+            "url": "https://www.tvmaze.com/characters/40558/the-americans-elizabeth-jennings",
+            "name": "Elizabeth Jennings",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/56/140208.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/140208.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40558"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29252,
+            "url": "https://www.tvmaze.com/people/29252/matthew-rhys",
+            "name": "Matthew Rhys",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1974-11-08",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/464/1160705.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/464/1160705.jpg"
+            },
+            "updated": 1687469140,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29252"
+                }
+            }
+        },
+        "character": {
+            "id": 40559,
+            "url": "https://www.tvmaze.com/characters/40559/the-americans-philip-jennings",
+            "name": "Philip Jennings",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/56/140207.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/140207.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40559"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 10336,
+            "url": "https://www.tvmaze.com/people/10336/noah-emmerich",
+            "name": "Noah Emmerich",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-02-27",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5830.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5830.jpg"
+            },
+            "updated": 1685794510,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/10336"
+                }
+            }
+        },
+        "character": {
+            "id": 40566,
+            "url": "https://www.tvmaze.com/characters/40566/the-americans-fbi-agent-stan-beeman",
+            "name": "FBI Agent Stan Beeman",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/56/140206.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/140206.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40566"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29253,
+            "url": "https://www.tvmaze.com/people/29253/holly-taylor",
+            "name": "Holly Taylor",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1997-10-31",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/458/1145125.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/458/1145125.jpg"
+            },
+            "updated": 1685915724,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29253"
+                }
+            }
+        },
+        "character": {
+            "id": 40564,
+            "url": "https://www.tvmaze.com/characters/40564/the-americans-paige-jennings",
+            "name": "Paige Jennings",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/56/140205.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/140205.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40564"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 25245,
+            "url": "https://www.tvmaze.com/people/25245/keidrich-sellati",
+            "name": "Keidrich Sellati",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "2001-10-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/162/406818.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/162/406818.jpg"
+            },
+            "updated": 1545837023,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25245"
+                }
+            }
+        },
+        "character": {
+            "id": 40565,
+            "url": "https://www.tvmaze.com/characters/40565/the-americans-henry-jennings",
+            "name": "Henry Jennings",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/56/140204.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/140204.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40565"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29302,
+            "url": "https://www.tvmaze.com/people/29302/costa-ronin",
+            "name": "Costa Ronin",
+            "country": {
+                "name": "Russian Federation",
+                "code": "RU",
+                "timezone": "Asia/Kamchatka"
+            },
+            "birthday": "1979-02-03",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18718.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18718.jpg"
+            },
+            "updated": 1651578875,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29302"
+                }
+            }
+        },
+        "character": {
+            "id": 40674,
+            "url": "https://www.tvmaze.com/characters/40674/the-americans-oleg-igorevich-burov",
+            "name": "Oleg Igorevich Burov",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/56/140200.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/140200.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40674"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19001,
+            "url": "https://www.tvmaze.com/people/19001/richard-thomas",
+            "name": "Richard Thomas",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1951-06-13",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/9/23351.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/23351.jpg"
+            },
+            "updated": 1676363193,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19001"
+                }
+            }
+        },
+        "character": {
+            "id": 40567,
+            "url": "https://www.tvmaze.com/characters/40567/the-americans-fbi-agent-frank-gaad",
+            "name": "FBI Agent Frank Gaad",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/56/140199.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/140199.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40567"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11054,
+            "url": "https://www.tvmaze.com/people/11054/lev-gorn",
+            "name": "Lev Gorn",
+            "country": {
+                "name": "Russian Federation",
+                "code": "RU",
+                "timezone": "Asia/Kamchatka"
+            },
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/168/420889.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/420889.jpg"
+            },
+            "updated": 1682710527,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11054"
+                }
+            }
+        },
+        "character": {
+            "id": 40584,
+            "url": "https://www.tvmaze.com/characters/40584/the-americans-arkady-ivanovich-zotov",
+            "name": "Arkady Ivanovich Zotov",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/56/140201.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/140201.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40584"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 66252,
+            "url": "https://www.tvmaze.com/people/66252/brandon-j-dirden",
+            "name": "Brandon J. Dirden",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/51/128062.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/51/128062.jpg"
+            },
+            "updated": 1641046498,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/66252"
+                }
+            }
+        },
+        "character": {
+            "id": 265856,
+            "url": "https://www.tvmaze.com/characters/265856/the-americans-fbi-agent-dennis-aderholt",
+            "name": "FBI Agent Dennis Aderholt",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/175/439326.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/439326.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/265856"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17949,
+            "url": "https://www.tvmaze.com/people/17949/alison-wright",
+            "name": "Alison Wright",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1976-07-12",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2174.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2174.jpg"
+            },
+            "updated": 1659315348,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17949"
+                }
+            }
+        },
+        "character": {
+            "id": 40563,
+            "url": "https://www.tvmaze.com/characters/40563/the-americans-martha-hanson",
+            "name": "Martha Hanson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/56/140202.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/140202.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40563"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 26779,
+            "url": "https://www.tvmaze.com/people/26779/annet-mahendru",
+            "name": "Annet Mahendru",
+            "country": {
+                "name": "Afghanistan",
+                "code": "AF",
+                "timezone": "Asia/Kabul"
+            },
+            "birthday": "1989-08-21",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/249/624097.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/249/624097.jpg"
+            },
+            "updated": 1684381920,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/26779"
+                }
+            }
+        },
+        "character": {
+            "id": 40561,
+            "url": "https://www.tvmaze.com/characters/40561/the-americans-nina-sergeevna-krilova",
+            "name": "Nina Sergeevna Krilova",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/56/140203.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/140203.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40561"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 8117,
+            "url": "https://www.tvmaze.com/people/8117/margo-martindale",
+            "name": "Margo Martindale",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1951-07-18",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1895.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1895.jpg"
+            },
+            "updated": 1682713565,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/8117"
+                }
+            }
+        },
+        "character": {
+            "id": 40599,
+            "url": "https://www.tvmaze.com/characters/40599/the-americans-claudia",
+            "name": "Claudia",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/175/439327.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/439327.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40599"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 115,
+            "url": "https://www.tvmaze.com/people/115/susan-misner",
+            "name": "Susan Misner",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1971-02-08",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/88/222028.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/88/222028.jpg"
+            },
+            "updated": 1659849536,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/115"
+                }
+            }
+        },
+        "character": {
+            "id": 40562,
+            "url": "https://www.tvmaze.com/characters/40562/the-americans-sandra-beeman",
+            "name": "Sandra Beeman",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/175/439325.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/439325.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40562"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 4891,
+            "url": "https://www.tvmaze.com/people/4891/maximiliano-hernandez",
+            "name": "Maximiliano Hern\u00e1ndez",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1973-09-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6442.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6442.jpg"
+            },
+            "updated": 1636298121,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/4891"
+                }
+            }
+        },
+        "character": {
+            "id": 40560,
+            "url": "https://www.tvmaze.com/characters/40560/the-americans-fbi-agent-chris-amador",
+            "name": "FBI Agent Chris Amador",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/56/140209.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/56/140209.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40560"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 7639,
+            "url": "https://www.tvmaze.com/people/7639/dylan-baker",
+            "name": "Dylan Baker",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1959-10-07",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/192/480997.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/192/480997.jpg"
+            },
+            "updated": 1677070948,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/7639"
+                }
+            }
+        },
+        "character": {
+            "id": 260493,
+            "url": "https://www.tvmaze.com/characters/260493/the-americans-william-crandall",
+            "name": "William Crandall",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/50/125421.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/50/125421.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/260493"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

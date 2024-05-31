@@ -1,0 +1,78 @@
+[
+    {
+        "person": {
+            "id": 38266,
+            "url": "https://www.tvmaze.com/people/38266/bill-maher",
+            "name": "Bill Maher",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1956-01-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/47/119187.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/47/119187.jpg"
+            },
+            "updated": 1684928675,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/38266"
+                }
+            }
+        },
+        "character": {
+            "id": 120332,
+            "url": "https://www.tvmaze.com/characters/120332/real-time-with-bill-maher-bill-maher",
+            "name": "Bill Maher",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/120332"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 21182,
+            "url": "https://www.tvmaze.com/people/21182/paul-f-tompkins",
+            "name": "Paul F. Tompkins",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-09-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/175/439661.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/439661.jpg"
+            },
+            "updated": 1688236648,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/21182"
+                }
+            }
+        },
+        "character": {
+            "id": 120333,
+            "url": "https://www.tvmaze.com/characters/120333/real-time-with-bill-maher-paul-f-tompkins",
+            "name": "Paul F. Tompkins",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/120333"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    }
+]

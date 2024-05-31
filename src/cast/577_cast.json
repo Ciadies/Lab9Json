@@ -1,0 +1,326 @@
+[
+    {
+        "person": {
+            "id": 43636,
+            "url": "https://www.tvmaze.com/people/43636/john-cleese",
+            "name": "John Cleese",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1939-10-27",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/12648.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/12648.jpg"
+            },
+            "updated": 1684492693,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/43636"
+                }
+            }
+        },
+        "character": {
+            "id": 86183,
+            "url": "https://www.tvmaze.com/characters/86183/fawlty-towers-basil-fawlty",
+            "name": "Basil Fawlty",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/65/163518.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/65/163518.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86183"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49339,
+            "url": "https://www.tvmaze.com/people/49339/prunella-scales",
+            "name": "Prunella Scales",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1932-06-22",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/12649.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/12649.jpg"
+            },
+            "updated": 1668327446,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49339"
+                }
+            }
+        },
+        "character": {
+            "id": 86184,
+            "url": "https://www.tvmaze.com/characters/86184/fawlty-towers-sybil-fawlty",
+            "name": "Sybil Fawlty",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/65/163520.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/65/163520.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86184"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49340,
+            "url": "https://www.tvmaze.com/people/49340/connie-booth",
+            "name": "Connie Booth",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1944-01-31",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/12657.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/12657.jpg"
+            },
+            "updated": 1660046443,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49340"
+                }
+            }
+        },
+        "character": {
+            "id": 86185,
+            "url": "https://www.tvmaze.com/characters/86185/fawlty-towers-polly-sherman",
+            "name": "Polly Sherman",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11845.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11845.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86185"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49341,
+            "url": "https://www.tvmaze.com/people/49341/andrew-sachs",
+            "name": "Andrew Sachs",
+            "country": {
+                "name": "Germany",
+                "code": "DE",
+                "timezone": "Europe/Busingen"
+            },
+            "birthday": "1930-04-07",
+            "deathday": "2016-11-23",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/162/405305.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/162/405305.jpg"
+            },
+            "updated": 1660046443,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49341"
+                }
+            }
+        },
+        "character": {
+            "id": 86186,
+            "url": "https://www.tvmaze.com/characters/86186/fawlty-towers-manuel",
+            "name": "Manuel",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/65/163519.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/65/163519.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86186"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49342,
+            "url": "https://www.tvmaze.com/people/49342/ballard-berkeley",
+            "name": "Ballard Berkeley",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1904-08-06",
+            "deathday": "1988-01-16",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/12659.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/12659.jpg"
+            },
+            "updated": 1671324576,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49342"
+                }
+            }
+        },
+        "character": {
+            "id": 86187,
+            "url": "https://www.tvmaze.com/characters/86187/fawlty-towers-the-major",
+            "name": "The Major",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/65/163521.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/65/163521.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86187"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49343,
+            "url": "https://www.tvmaze.com/people/49343/gilly-flower",
+            "name": "Gilly Flower",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1908-08-26",
+            "deathday": "2001-02-17",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/12660.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/12660.jpg"
+            },
+            "updated": 1660046443,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49343"
+                }
+            }
+        },
+        "character": {
+            "id": 86188,
+            "url": "https://www.tvmaze.com/characters/86188/fawlty-towers-miss-tibbs",
+            "name": "Miss Tibbs",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/227/568501.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/227/568501.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86188"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49344,
+            "url": "https://www.tvmaze.com/people/49344/renee-roberts",
+            "name": "Renee Roberts",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": null,
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/12661.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/12661.jpg"
+            },
+            "updated": 1660046443,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49344"
+                }
+            }
+        },
+        "character": {
+            "id": 86189,
+            "url": "https://www.tvmaze.com/characters/86189/fawlty-towers-miss-gatsby",
+            "name": "Miss Gatsby",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/227/568500.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/227/568500.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86189"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49345,
+            "url": "https://www.tvmaze.com/people/49345/brian-hall",
+            "name": "Brian Hall",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1937-11-20",
+            "deathday": "1997-09-17",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/12662.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/12662.jpg"
+            },
+            "updated": 1668924712,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49345"
+                }
+            }
+        },
+        "character": {
+            "id": 86190,
+            "url": "https://www.tvmaze.com/characters/86190/fawlty-towers-terry",
+            "name": "Terry",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/65/163522.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/65/163522.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86190"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

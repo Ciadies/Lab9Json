@@ -1,0 +1,230 @@
+[
+    {
+        "person": {
+            "id": 43636,
+            "url": "https://www.tvmaze.com/people/43636/john-cleese",
+            "name": "John Cleese",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1939-10-27",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/12648.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/12648.jpg"
+            },
+            "updated": 1684492693,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/43636"
+                }
+            }
+        },
+        "character": {
+            "id": 893892,
+            "url": "https://www.tvmaze.com/characters/893892/monty-pythons-flying-circus-various-characters",
+            "name": "Various Characters",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/893892"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 53590,
+            "url": "https://www.tvmaze.com/people/53590/eric-idle",
+            "name": "Eric Idle",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1943-03-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/21/54344.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/21/54344.jpg"
+            },
+            "updated": 1670573422,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/53590"
+                }
+            }
+        },
+        "character": {
+            "id": 893893,
+            "url": "https://www.tvmaze.com/characters/893893/monty-pythons-flying-circus-various-characters",
+            "name": "Various Characters",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/893893"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 70431,
+            "url": "https://www.tvmaze.com/people/70431/terry-gilliam",
+            "name": "Terry Gilliam",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1940-11-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/145/362552.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/145/362552.jpg"
+            },
+            "updated": 1680262574,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/70431"
+                }
+            }
+        },
+        "character": {
+            "id": 893894,
+            "url": "https://www.tvmaze.com/characters/893894/monty-pythons-flying-circus-various-characters",
+            "name": "Various Characters",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/893894"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 89409,
+            "url": "https://www.tvmaze.com/people/89409/graham-chapman",
+            "name": "Graham Chapman",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1941-01-08",
+            "deathday": "1989-10-04",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/21/54342.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/21/54342.jpg"
+            },
+            "updated": 1647543037,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/89409"
+                }
+            }
+        },
+        "character": {
+            "id": 893895,
+            "url": "https://www.tvmaze.com/characters/893895/monty-pythons-flying-circus-various-characters",
+            "name": "Various Characters",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/893895"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 70430,
+            "url": "https://www.tvmaze.com/people/70430/terry-jones",
+            "name": "Terry Jones",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1942-02-01",
+            "deathday": "2020-01-21",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/237/593375.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/237/593375.jpg"
+            },
+            "updated": 1688051461,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/70430"
+                }
+            }
+        },
+        "character": {
+            "id": 894043,
+            "url": "https://www.tvmaze.com/characters/894043/monty-pythons-flying-circus-various-characters",
+            "name": "Various Characters",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/894043"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 65591,
+            "url": "https://www.tvmaze.com/people/65591/michael-palin",
+            "name": "Michael Palin",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1943-05-05",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/32/80666.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/32/80666.jpg"
+            },
+            "updated": 1688629240,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/65591"
+                }
+            }
+        },
+        "character": {
+            "id": 894046,
+            "url": "https://www.tvmaze.com/characters/894046/monty-pythons-flying-circus-various-characters",
+            "name": "Various Characters",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/894046"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

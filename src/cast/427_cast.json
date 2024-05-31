@@ -1,0 +1,494 @@
+[
+    {
+        "person": {
+            "id": 35928,
+            "url": "https://www.tvmaze.com/people/35928/sarah-michelle-gellar",
+            "name": "Sarah Michelle Gellar",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1977-04-14",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/456/1140224.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/456/1140224.jpg"
+            },
+            "updated": 1680997236,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/35928"
+                }
+            }
+        },
+        "character": {
+            "id": 74456,
+            "url": "https://www.tvmaze.com/characters/74456/buffy-the-vampire-slayer-buffy-anne-summers",
+            "name": "Buffy Anne Summers",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/7491.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/7491.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/74456"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 31570,
+            "url": "https://www.tvmaze.com/people/31570/alyson-hannigan",
+            "name": "Alyson Hannigan",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1974-03-24",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/161/402580.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/161/402580.jpg"
+            },
+            "updated": 1684853522,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/31570"
+                }
+            }
+        },
+        "character": {
+            "id": 74458,
+            "url": "https://www.tvmaze.com/characters/74458/buffy-the-vampire-slayer-willow-rosenberg",
+            "name": "Willow Rosenberg",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/7493.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/7493.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/74458"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 12685,
+            "url": "https://www.tvmaze.com/people/12685/nicholas-brendon",
+            "name": "Nicholas Brendon",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1971-04-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7800.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7800.jpg"
+            },
+            "updated": 1459821158,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/12685"
+                }
+            }
+        },
+        "character": {
+            "id": 74457,
+            "url": "https://www.tvmaze.com/characters/74457/buffy-the-vampire-slayer-alexander-xander-harris",
+            "name": "Alexander \"Xander\" Harris",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/7492.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/7492.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/74457"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20279,
+            "url": "https://www.tvmaze.com/people/20279/anthony-stewart-head",
+            "name": "Anthony Stewart Head",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1954-02-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/91/227808.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/91/227808.jpg"
+            },
+            "updated": 1687700806,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20279"
+                }
+            }
+        },
+        "character": {
+            "id": 74459,
+            "url": "https://www.tvmaze.com/characters/74459/buffy-the-vampire-slayer-rupert-giles",
+            "name": "Rupert Giles",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/7496.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/7496.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/74459"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 4292,
+            "url": "https://www.tvmaze.com/people/4292/james-marsters",
+            "name": "James Marsters",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-08-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/120/301571.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/120/301571.jpg"
+            },
+            "updated": 1633760162,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/4292"
+                }
+            }
+        },
+        "character": {
+            "id": 74463,
+            "url": "https://www.tvmaze.com/characters/74463/buffy-the-vampire-slayer-spike",
+            "name": "Spike",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/7497.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/7497.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/74463"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 2983,
+            "url": "https://www.tvmaze.com/people/2983/emma-caulfield",
+            "name": "Emma Caulfield",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1973-04-08",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/38/95048.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/38/95048.jpg"
+            },
+            "updated": 1678184852,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/2983"
+                }
+            }
+        },
+        "character": {
+            "id": 74464,
+            "url": "https://www.tvmaze.com/characters/74464/buffy-the-vampire-slayer-anya-jenkins",
+            "name": "Anya Jenkins",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/7494.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/7494.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/74464"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 13739,
+            "url": "https://www.tvmaze.com/people/13739/michelle-trachtenberg",
+            "name": "Michelle Trachtenberg",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1985-10-11",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7806.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7806.jpg"
+            },
+            "updated": 1683327513,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/13739"
+                }
+            }
+        },
+        "character": {
+            "id": 74465,
+            "url": "https://www.tvmaze.com/characters/74465/buffy-the-vampire-slayer-dawn-summers",
+            "name": "Dawn Summers",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/82/207410.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/82/207410.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/74465"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 8627,
+            "url": "https://www.tvmaze.com/people/8627/david-boreanaz",
+            "name": "David Boreanaz",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1969-05-16",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7567.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7567.jpg"
+            },
+            "updated": 1685017837,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/8627"
+                }
+            }
+        },
+        "character": {
+            "id": 74460,
+            "url": "https://www.tvmaze.com/characters/74460/buffy-the-vampire-slayer-angel",
+            "name": "Angel",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7500.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7500.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/74460"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 4293,
+            "url": "https://www.tvmaze.com/people/4293/charisma-carpenter",
+            "name": "Charisma Carpenter",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1970-07-23",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7803.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7803.jpg"
+            },
+            "updated": 1655621188,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/4293"
+                }
+            }
+        },
+        "character": {
+            "id": 74461,
+            "url": "https://www.tvmaze.com/characters/74461/buffy-the-vampire-slayer-cordelia-chase",
+            "name": "Cordelia Chase",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7505.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7505.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/74461"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 3584,
+            "url": "https://www.tvmaze.com/people/3584/amber-benson",
+            "name": "Amber Benson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1977-01-08",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/13489.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/13489.jpg"
+            },
+            "updated": 1674793735,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/3584"
+                }
+            }
+        },
+        "character": {
+            "id": 74826,
+            "url": "https://www.tvmaze.com/characters/74826/buffy-the-vampire-slayer-tara-maclay",
+            "name": "Tara Maclay",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/82/207408.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/82/207408.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/74826"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 14897,
+            "url": "https://www.tvmaze.com/people/14897/seth-green",
+            "name": "Seth Green",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1974-02-08",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/929.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/929.jpg"
+            },
+            "updated": 1684748076,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14897"
+                }
+            }
+        },
+        "character": {
+            "id": 74462,
+            "url": "https://www.tvmaze.com/characters/74462/buffy-the-vampire-slayer-daniel-oz-osbourne",
+            "name": "Daniel \"Oz\" Osbourne",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/7499.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/7499.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/74462"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17921,
+            "url": "https://www.tvmaze.com/people/17921/marc-blucas",
+            "name": "Marc Blucas",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1972-01-11",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7807.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7807.jpg"
+            },
+            "updated": 1639353269,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17921"
+                }
+            }
+        },
+        "character": {
+            "id": 74466,
+            "url": "https://www.tvmaze.com/characters/74466/buffy-the-vampire-slayer-riley-finn",
+            "name": "Riley Finn",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7501.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7501.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/74466"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

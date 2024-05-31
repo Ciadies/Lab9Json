@@ -1,0 +1,904 @@
+[
+    {
+        "person": {
+            "id": 48973,
+            "url": "https://www.tvmaze.com/people/48973/james-gandolfini",
+            "name": "James Gandolfini",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-09-18",
+            "deathday": "2013-06-19",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/277/694150.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/277/694150.jpg"
+            },
+            "updated": 1658836805,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/48973"
+                }
+            }
+        },
+        "character": {
+            "id": 85573,
+            "url": "https://www.tvmaze.com/characters/85573/the-sopranos-tony-soprano",
+            "name": "Tony Soprano",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11342.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11342.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85573"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 28002,
+            "url": "https://www.tvmaze.com/people/28002/edie-falco",
+            "name": "Edie Falco",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-07-05",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/114/286370.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/114/286370.jpg"
+            },
+            "updated": 1687482860,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/28002"
+                }
+            }
+        },
+        "character": {
+            "id": 85574,
+            "url": "https://www.tvmaze.com/characters/85574/the-sopranos-carmela-soprano",
+            "name": "Carmela Soprano",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11343.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11343.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85574"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6446,
+            "url": "https://www.tvmaze.com/people/6446/jamie-lynn-sigler",
+            "name": "Jamie-Lynn Sigler",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1981-05-15",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/177/442834.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/442834.jpg"
+            },
+            "updated": 1681942085,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6446"
+                }
+            }
+        },
+        "character": {
+            "id": 85575,
+            "url": "https://www.tvmaze.com/characters/85575/the-sopranos-meadow-soprano",
+            "name": "Meadow Soprano",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11356.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11356.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85575"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 14745,
+            "url": "https://www.tvmaze.com/people/14745/michael-imperioli",
+            "name": "Michael Imperioli",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-03-26",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18019.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18019.jpg"
+            },
+            "updated": 1684422928,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14745"
+                }
+            }
+        },
+        "character": {
+            "id": 85576,
+            "url": "https://www.tvmaze.com/characters/85576/the-sopranos-christopher-moltisanti",
+            "name": "Christopher Moltisanti",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11346.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11346.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85576"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20211,
+            "url": "https://www.tvmaze.com/people/20211/robert-iler",
+            "name": "Robert Iler",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1985-03-02",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18017.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18017.jpg"
+            },
+            "updated": 1463432250,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20211"
+                }
+            }
+        },
+        "character": {
+            "id": 85577,
+            "url": "https://www.tvmaze.com/characters/85577/the-sopranos-anthony-soprano",
+            "name": "Anthony Soprano",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11355.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11355.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85577"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17335,
+            "url": "https://www.tvmaze.com/people/17335/dominic-chianese",
+            "name": "Dominic Chianese",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1931-02-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18018.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18018.jpg"
+            },
+            "updated": 1502146795,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17335"
+                }
+            }
+        },
+        "character": {
+            "id": 85579,
+            "url": "https://www.tvmaze.com/characters/85579/the-sopranos-corrado-junior-soprano",
+            "name": "Corrado \"Junior\" Soprano",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11344.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11344.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85579"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 48975,
+            "url": "https://www.tvmaze.com/people/48975/steve-van-zandt",
+            "name": "Steve Van Zandt",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1950-11-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18026.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18026.jpg"
+            },
+            "updated": 1680406625,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/48975"
+                }
+            }
+        },
+        "character": {
+            "id": 85585,
+            "url": "https://www.tvmaze.com/characters/85585/the-sopranos-silvio-dante",
+            "name": "Silvio Dante",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11351.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11351.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85585"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 40899,
+            "url": "https://www.tvmaze.com/people/40899/lorraine-bracco",
+            "name": "Lorraine Bracco",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1954-10-02",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11127.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11127.jpg"
+            },
+            "updated": 1681404907,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/40899"
+                }
+            }
+        },
+        "character": {
+            "id": 85580,
+            "url": "https://www.tvmaze.com/characters/85580/the-sopranos-dr-jennifer-melfi",
+            "name": "Dr. Jennifer Melfi",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11349.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11349.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85580"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 30930,
+            "url": "https://www.tvmaze.com/people/30930/tony-sirico",
+            "name": "Tony Sirico",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1942-07-29",
+            "deathday": "2022-07-08",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/4489.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/4489.jpg"
+            },
+            "updated": 1657355233,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/30930"
+                }
+            }
+        },
+        "character": {
+            "id": 85581,
+            "url": "https://www.tvmaze.com/characters/85581/the-sopranos-paulie-walnuts-gualtieri",
+            "name": "Paulie 'Walnuts' Gualtieri",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11354.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11354.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85581"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17813,
+            "url": "https://www.tvmaze.com/people/17813/vincent-pastore",
+            "name": "Vincent Pastore",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1946-07-14",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/156/390207.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/156/390207.jpg"
+            },
+            "updated": 1647785777,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17813"
+                }
+            }
+        },
+        "character": {
+            "id": 85586,
+            "url": "https://www.tvmaze.com/characters/85586/the-sopranos-salvatore-big-pussy-bonpensiero",
+            "name": "Salvatore \"Big Pussy\" Bonpensiero",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11358.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11358.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85586"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11136,
+            "url": "https://www.tvmaze.com/people/11136/drea-de-matteo",
+            "name": "Drea de Matteo",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1972-01-19",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/7342.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/7342.jpg"
+            },
+            "updated": 1661681535,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11136"
+                }
+            }
+        },
+        "character": {
+            "id": 85589,
+            "url": "https://www.tvmaze.com/characters/85589/the-sopranos-adriana-la-cerva",
+            "name": "Adriana La Cerva",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11353.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11353.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85589"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17979,
+            "url": "https://www.tvmaze.com/people/17979/aida-turturro",
+            "name": "Aida Turturro",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-09-24",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18021.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18021.jpg"
+            },
+            "updated": 1688722262,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17979"
+                }
+            }
+        },
+        "character": {
+            "id": 85582,
+            "url": "https://www.tvmaze.com/characters/85582/the-sopranos-janice-soprano",
+            "name": "Janice Soprano",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11352.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11352.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85582"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19756,
+            "url": "https://www.tvmaze.com/people/19756/steven-r-schirripa",
+            "name": "Steven R. Schirripa",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-09-03",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18023.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18023.jpg"
+            },
+            "updated": 1687367574,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19756"
+                }
+            }
+        },
+        "character": {
+            "id": 85583,
+            "url": "https://www.tvmaze.com/characters/85583/the-sopranos-bobby-bacala-baccalieri",
+            "name": "Bobby \"Bacala\" Baccalieri",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11359.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11359.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85583"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 48974,
+            "url": "https://www.tvmaze.com/people/48974/john-ventimiglia",
+            "name": "John Ventimiglia",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-07-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18024.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18024.jpg"
+            },
+            "updated": 1655049523,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/48974"
+                }
+            }
+        },
+        "character": {
+            "id": 85584,
+            "url": "https://www.tvmaze.com/characters/85584/the-sopranos-artie-bucco",
+            "name": "Artie Bucco",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/223/558682.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/223/558682.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85584"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 34496,
+            "url": "https://www.tvmaze.com/people/34496/frank-vincent",
+            "name": "Frank Vincent",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1939-08-04",
+            "deathday": "2017-09-13",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18034.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18034.jpg"
+            },
+            "updated": 1668472325,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/34496"
+                }
+            }
+        },
+        "character": {
+            "id": 85590,
+            "url": "https://www.tvmaze.com/characters/85590/the-sopranos-phil-leotardo",
+            "name": "Phil Leotardo",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/223/558681.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/223/558681.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85590"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 48979,
+            "url": "https://www.tvmaze.com/people/48979/nancy-marchand",
+            "name": "Nancy Marchand",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1928-06-19",
+            "deathday": "2000-06-18",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18042.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18042.jpg"
+            },
+            "updated": 1666393401,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/48979"
+                }
+            }
+        },
+        "character": {
+            "id": 85593,
+            "url": "https://www.tvmaze.com/characters/85593/the-sopranos-livia-soprano",
+            "name": "Livia Soprano",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11357.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11357.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85593"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18146,
+            "url": "https://www.tvmaze.com/people/18146/steve-buscemi",
+            "name": "Steve Buscemi",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-12-13",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/938.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/938.jpg"
+            },
+            "updated": 1686599822,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18146"
+                }
+            }
+        },
+        "character": {
+            "id": 85594,
+            "url": "https://www.tvmaze.com/characters/85594/the-sopranos-tony-blundetto",
+            "name": "Tony Blundetto",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/223/558683.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/223/558683.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85594"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 48977,
+            "url": "https://www.tvmaze.com/people/48977/david-proval",
+            "name": "David Proval",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1942-05-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18032.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18032.jpg"
+            },
+            "updated": 1686841093,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/48977"
+                }
+            }
+        },
+        "character": {
+            "id": 85588,
+            "url": "https://www.tvmaze.com/characters/85588/the-sopranos-richie-aprile",
+            "name": "Richie Aprile",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11348.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11348.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85588"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18102,
+            "url": "https://www.tvmaze.com/people/18102/vincent-curatola",
+            "name": "Vincent Curatola",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1953-08-16",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/114/285596.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/114/285596.jpg"
+            },
+            "updated": 1517207256,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18102"
+                }
+            }
+        },
+        "character": {
+            "id": 85595,
+            "url": "https://www.tvmaze.com/characters/85595/the-sopranos-johnny-sack-sacrimoni",
+            "name": "Johnny \"Sack\" Sacrimoni",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11350.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11350.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85595"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 48976,
+            "url": "https://www.tvmaze.com/people/48976/federico-castelluccio",
+            "name": "Federico Castelluccio",
+            "country": {
+                "name": "Italy",
+                "code": "IT",
+                "timezone": "Europe/Rome"
+            },
+            "birthday": "1964-04-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18030.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18030.jpg"
+            },
+            "updated": 1507057235,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/48976"
+                }
+            }
+        },
+        "character": {
+            "id": 85587,
+            "url": "https://www.tvmaze.com/characters/85587/the-sopranos-furio-giunta",
+            "name": "Furio Giunta",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11345.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11345.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85587"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 48978,
+            "url": "https://www.tvmaze.com/people/48978/joe-pantoliano",
+            "name": "Joe Pantoliano",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1951-09-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18036.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18036.jpg"
+            },
+            "updated": 1685824869,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/48978"
+                }
+            }
+        },
+        "character": {
+            "id": 85591,
+            "url": "https://www.tvmaze.com/characters/85591/the-sopranos-ralph-cifaretto",
+            "name": "Ralph Cifaretto",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11347.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11347.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85591"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 39770,
+            "url": "https://www.tvmaze.com/people/39770/joseph-r-gannascoli",
+            "name": "Joseph R. Gannascoli",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1959-02-15",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18038.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18038.jpg"
+            },
+            "updated": 1463431980,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/39770"
+                }
+            }
+        },
+        "character": {
+            "id": 85592,
+            "url": "https://www.tvmaze.com/characters/85592/the-sopranos-vito-spatafore",
+            "name": "Vito Spatafore",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/223/558680.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/223/558680.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85592"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

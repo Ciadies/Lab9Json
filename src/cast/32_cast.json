@@ -1,0 +1,1282 @@
+[
+    {
+        "person": {
+            "id": 6039,
+            "url": "https://www.tvmaze.com/people/6039/allison-tolman",
+            "name": "Allison Tolman",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1981-11-18",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/286/715188.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/286/715188.jpg"
+            },
+            "updated": 1685367530,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6039"
+                }
+            }
+        },
+        "character": {
+            "id": 6047,
+            "url": "https://www.tvmaze.com/characters/6047/fargo-deputy-molly-solverson",
+            "name": "Deputy Molly Solverson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1662.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1662.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/6047"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6040,
+            "url": "https://www.tvmaze.com/people/6040/colin-hanks",
+            "name": "Colin Hanks",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1977-11-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/163/408129.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/163/408129.jpg"
+            },
+            "updated": 1682293229,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6040"
+                }
+            }
+        },
+        "character": {
+            "id": 6048,
+            "url": "https://www.tvmaze.com/characters/6048/fargo-deputy-gus-grimly",
+            "name": "Deputy Gus Grimly",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1663.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1663.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/6048"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6038,
+            "url": "https://www.tvmaze.com/people/6038/billy-bob-thornton",
+            "name": "Billy Bob Thornton",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1955-08-04",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8739.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8739.jpg"
+            },
+            "updated": 1686089162,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6038"
+                }
+            }
+        },
+        "character": {
+            "id": 6046,
+            "url": "https://www.tvmaze.com/characters/6046/fargo-lorne-malvo",
+            "name": "Lorne Malvo",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/303.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/303.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/6046"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6041,
+            "url": "https://www.tvmaze.com/people/6041/martin-freeman",
+            "name": "Martin Freeman",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1971-09-08",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/466/1166009.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/466/1166009.jpg"
+            },
+            "updated": 1687648681,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6041"
+                }
+            }
+        },
+        "character": {
+            "id": 6049,
+            "url": "https://www.tvmaze.com/characters/6049/fargo-lester-nygaard",
+            "name": "Lester Nygaard",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/304.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/304.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/6049"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 8813,
+            "url": "https://www.tvmaze.com/people/8813/jesse-plemons",
+            "name": "Jesse Plemons",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1988-04-02",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/137/343720.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/137/343720.jpg"
+            },
+            "updated": 1685020246,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/8813"
+                }
+            }
+        },
+        "character": {
+            "id": 102683,
+            "url": "https://www.tvmaze.com/characters/102683/fargo-ed-blomquist",
+            "name": "Ed Blomquist",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/25/62947.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/25/62947.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/102683"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 21355,
+            "url": "https://www.tvmaze.com/people/21355/ted-danson",
+            "name": "Ted Danson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1947-12-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/242/605148.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605148.jpg"
+            },
+            "updated": 1683934836,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/21355"
+                }
+            }
+        },
+        "character": {
+            "id": 102685,
+            "url": "https://www.tvmaze.com/characters/102685/fargo-hank-larsson",
+            "name": "Hank Larsson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/25/62943.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/25/62943.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/102685"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 27460,
+            "url": "https://www.tvmaze.com/people/27460/patrick-wilson",
+            "name": "Patrick Wilson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1973-07-03",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8042.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8042.jpg"
+            },
+            "updated": 1688691460,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/27460"
+                }
+            }
+        },
+        "character": {
+            "id": 218039,
+            "url": "https://www.tvmaze.com/characters/218039/fargo-state-trooper-lou-solverson",
+            "name": "State Trooper Lou Solverson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/35/87846.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/35/87846.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/218039"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 25072,
+            "url": "https://www.tvmaze.com/people/25072/carrie-coon",
+            "name": "Carrie Coon",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1981-01-24",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/79/198124.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/79/198124.jpg"
+            },
+            "updated": 1678576674,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25072"
+                }
+            }
+        },
+        "character": {
+            "id": 307566,
+            "url": "https://www.tvmaze.com/characters/307566/fargo-gloria-burgle",
+            "name": "Gloria Burgle",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/104/261294.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/104/261294.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/307566"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 32133,
+            "url": "https://www.tvmaze.com/people/32133/jason-schwartzman",
+            "name": "Jason Schwartzman",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1980-06-26",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/463/1158116.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/463/1158116.jpg"
+            },
+            "updated": 1688068875,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/32133"
+                }
+            }
+        },
+        "character": {
+            "id": 766943,
+            "url": "https://www.tvmaze.com/characters/766943/fargo-josto-fadda",
+            "name": "Josto Fadda",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682417.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682417.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/766943"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49926,
+            "url": "https://www.tvmaze.com/people/49926/chris-rock",
+            "name": "Chris Rock",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-02-07",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/72/180384.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/72/180384.jpg"
+            },
+            "updated": 1685542187,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49926"
+                }
+            }
+        },
+        "character": {
+            "id": 766944,
+            "url": "https://www.tvmaze.com/characters/766944/fargo-loy-cannon",
+            "name": "Loy Cannon",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/267/669641.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/267/669641.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/766944"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 24417,
+            "url": "https://www.tvmaze.com/people/24417/james-vincent-meredith",
+            "name": "James Vincent Meredith",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/101/252925.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/101/252925.jpg"
+            },
+            "updated": 1676647546,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/24417"
+                }
+            }
+        },
+        "character": {
+            "id": 780870,
+            "url": "https://www.tvmaze.com/characters/780870/fargo-opal-rackley",
+            "name": "Opal Rackley",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682431.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682431.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/780870"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 113769,
+            "url": "https://www.tvmaze.com/people/113769/emyri-crutchfield",
+            "name": "Emyri Crutchfield",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/87/219897.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/87/219897.jpg"
+            },
+            "updated": 1481011350,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/113769"
+                }
+            }
+        },
+        "character": {
+            "id": 780877,
+            "url": "https://www.tvmaze.com/characters/780877/fargo-ethelrida-pearl-smutny",
+            "name": "Ethelrida Pearl Smutny",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682440.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682440.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/780877"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 68900,
+            "url": "https://www.tvmaze.com/people/68900/jessie-buckley",
+            "name": "Jessie Buckley",
+            "country": {
+                "name": "Ireland",
+                "code": "IE",
+                "timezone": "Europe/Dublin"
+            },
+            "birthday": "1988-12-28",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682444.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682444.jpg"
+            },
+            "updated": 1676425330,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/68900"
+                }
+            }
+        },
+        "character": {
+            "id": 780878,
+            "url": "https://www.tvmaze.com/characters/780878/fargo-oraetta-mayflower",
+            "name": "Oraetta Mayflower",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682441.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682441.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/780878"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 42355,
+            "url": "https://www.tvmaze.com/people/42355/kirsten-dunst",
+            "name": "Kirsten Dunst",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1982-04-30",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/9/23428.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/23428.jpg"
+            },
+            "updated": 1685368036,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/42355"
+                }
+            }
+        },
+        "character": {
+            "id": 102682,
+            "url": "https://www.tvmaze.com/characters/102682/fargo-peggy-blomquist",
+            "name": "Peggy Blomquist",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/25/62944.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/25/62944.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/102682"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5067,
+            "url": "https://www.tvmaze.com/people/5067/jean-smart",
+            "name": "Jean Smart",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1951-09-13",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10198.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10198.jpg"
+            },
+            "updated": 1684196153,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5067"
+                }
+            }
+        },
+        "character": {
+            "id": 102684,
+            "url": "https://www.tvmaze.com/characters/102684/fargo-floyd-gerhardt",
+            "name": "Floyd Gerhardt",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/25/62948.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/25/62948.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/102684"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 72339,
+            "url": "https://www.tvmaze.com/people/72339/ewan-mcgregor",
+            "name": "Ewan McGregor",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1971-03-31",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/31155.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/31155.jpg"
+            },
+            "updated": 1684325109,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/72339"
+                }
+            }
+        },
+        "character": {
+            "id": 307572,
+            "url": "https://www.tvmaze.com/characters/307572/fargo-emmit-stussy",
+            "name": "Emmit Stussy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/104/261297.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/104/261297.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/307572"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 46360,
+            "url": "https://www.tvmaze.com/people/46360/mary-elizabeth-winstead",
+            "name": "Mary Elizabeth Winstead",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1984-11-28",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/24/61549.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/24/61549.jpg"
+            },
+            "updated": 1684021089,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/46360"
+                }
+            }
+        },
+        "character": {
+            "id": 370722,
+            "url": "https://www.tvmaze.com/characters/370722/fargo-nikki-swango",
+            "name": "Nikki Swango",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/104/261296.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/104/261296.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/370722"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 54116,
+            "url": "https://www.tvmaze.com/people/54116/david-thewlis",
+            "name": "David Thewlis",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1963-03-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/104/261293.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/104/261293.jpg"
+            },
+            "updated": 1686512942,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/54116"
+                }
+            }
+        },
+        "character": {
+            "id": 400386,
+            "url": "https://www.tvmaze.com/characters/400386/fargo-vm-varga",
+            "name": "V.M. Varga",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/104/261295.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/104/261295.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/400386"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18038,
+            "url": "https://www.tvmaze.com/people/18038/jeremie-harris",
+            "name": "Jeremie Harris",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/61/153980.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/61/153980.jpg"
+            },
+            "updated": 1541203951,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18038"
+                }
+            }
+        },
+        "character": {
+            "id": 780868,
+            "url": "https://www.tvmaze.com/characters/780868/fargo-leon-bittle",
+            "name": "Leon Bittle",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682425.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682425.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/780868"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 57973,
+            "url": "https://www.tvmaze.com/people/57973/corey-hendrix",
+            "name": "Corey Hendrix",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/84/210547.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/84/210547.jpg"
+            },
+            "updated": 1687794116,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/57973"
+                }
+            }
+        },
+        "character": {
+            "id": 780869,
+            "url": "https://www.tvmaze.com/characters/780869/fargo-omie-sparkman",
+            "name": "Omie Sparkman",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682429.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682429.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/780869"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 216566,
+            "url": "https://www.tvmaze.com/people/216566/matthew-elam",
+            "name": "Matthew Elam",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682430.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682430.jpg"
+            },
+            "updated": 1653923708,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/216566"
+                }
+            }
+        },
+        "character": {
+            "id": 780871,
+            "url": "https://www.tvmaze.com/characters/780871/fargo-lemuel-cannon",
+            "name": "Lemuel Cannon",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682433.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682433.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/780871"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 71944,
+            "url": "https://www.tvmaze.com/people/71944/salvatore-esposito",
+            "name": "Salvatore Esposito",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/30987.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/30987.jpg"
+            },
+            "updated": 1435108577,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/71944"
+                }
+            }
+        },
+        "character": {
+            "id": 780872,
+            "url": "https://www.tvmaze.com/characters/780872/fargo-gaetano-fadda",
+            "name": "Gaetano Fadda",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682434.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682434.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/780872"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 285621,
+            "url": "https://www.tvmaze.com/people/285621/gaetano-bruno",
+            "name": "Gaetano Bruno",
+            "country": {
+                "name": "Italy",
+                "code": "IT",
+                "timezone": "Europe/Rome"
+            },
+            "birthday": "1973-07-26",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682427.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682427.jpg"
+            },
+            "updated": 1647125468,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/285621"
+                }
+            }
+        },
+        "character": {
+            "id": 780873,
+            "url": "https://www.tvmaze.com/characters/780873/fargo-constant-calamita",
+            "name": "Constant Calamita",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682435.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682435.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/780873"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 187907,
+            "url": "https://www.tvmaze.com/people/187907/francesco-acquaroli",
+            "name": "Francesco Acquaroli",
+            "country": {
+                "name": "Italy",
+                "code": "IT",
+                "timezone": "Europe/Rome"
+            },
+            "birthday": "1962-03-27",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/127/317983.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/127/317983.jpg"
+            },
+            "updated": 1686507010,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/187907"
+                }
+            }
+        },
+        "character": {
+            "id": 780874,
+            "url": "https://www.tvmaze.com/characters/780874/fargo-ebal-violante",
+            "name": "Ebal Violante",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682436.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682436.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/780874"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 171025,
+            "url": "https://www.tvmaze.com/people/171025/anji-white",
+            "name": "Anji White",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682424.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682424.jpg"
+            },
+            "updated": 1636461902,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/171025"
+                }
+            }
+        },
+        "character": {
+            "id": 780876,
+            "url": "https://www.tvmaze.com/characters/780876/fargo-dibrell-smutny",
+            "name": "Dibrell Smutny",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682439.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682439.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/780876"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18155,
+            "url": "https://www.tvmaze.com/people/18155/jack-huston",
+            "name": "Jack Huston",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1982-12-07",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6341.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6341.jpg"
+            },
+            "updated": 1684841790,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18155"
+                }
+            }
+        },
+        "character": {
+            "id": 780879,
+            "url": "https://www.tvmaze.com/characters/780879/fargo-detective-odis-weff",
+            "name": "Detective Odis Weff",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682446.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682446.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/780879"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 52700,
+            "url": "https://www.tvmaze.com/people/52700/ben-whishaw",
+            "name": "Ben Whishaw",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1980-10-14",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/16/40091.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/16/40091.jpg"
+            },
+            "updated": 1685881967,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/52700"
+                }
+            }
+        },
+        "character": {
+            "id": 766945,
+            "url": "https://www.tvmaze.com/characters/766945/fargo-patrick-rabbi-milligan",
+            "name": "Patrick \"Rabbi\" Milligan",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682418.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682418.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/766945"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 152598,
+            "url": "https://www.tvmaze.com/people/152598/andrew-bird",
+            "name": "Andrew Bird",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1973-07-11",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/97/243116.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/97/243116.jpg"
+            },
+            "updated": 1599937087,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/152598"
+                }
+            }
+        },
+        "character": {
+            "id": 780875,
+            "url": "https://www.tvmaze.com/characters/780875/fargo-thurman-smutny",
+            "name": "Thurman Smutny",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/682437.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/682437.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/780875"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 7989,
+            "url": "https://www.tvmaze.com/people/7989/karen-aldridge",
+            "name": "Karen Aldridge",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/76/190319.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/76/190319.jpg"
+            },
+            "updated": 1688665807,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/7989"
+                }
+            }
+        },
+        "character": {
+            "id": 787200,
+            "url": "https://www.tvmaze.com/characters/787200/fargo-zelmare-roulette",
+            "name": "Zelmare Roulette",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/276/691780.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/276/691780.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/787200"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 95407,
+            "url": "https://www.tvmaze.com/people/95407/goran-bogdan",
+            "name": "Goran Bogdan",
+            "country": {
+                "name": "Bosnia and Herzegovina",
+                "code": "BA",
+                "timezone": "Europe/Sarajevo"
+            },
+            "birthday": "1980-10-02",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/26/66093.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/26/66093.jpg"
+            },
+            "updated": 1524208446,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/95407"
+                }
+            }
+        },
+        "character": {
+            "id": 412904,
+            "url": "https://www.tvmaze.com/characters/412904/fargo-yuri-gurka",
+            "name": "Yuri Gurka",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/108/272478.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/108/272478.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/412904"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 152746,
+            "url": "https://www.tvmaze.com/people/152746/stephen-spencer",
+            "name": "Stephen Spencer",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/275/688783.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/275/688783.jpg"
+            },
+            "updated": 1601278688,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/152746"
+                }
+            }
+        },
+        "character": {
+            "id": 787158,
+            "url": "https://www.tvmaze.com/characters/787158/fargo-dr-david-harvard",
+            "name": "Dr. David Harvard",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/276/691959.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/276/691959.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/787158"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 72339,
+            "url": "https://www.tvmaze.com/people/72339/ewan-mcgregor",
+            "name": "Ewan McGregor",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1971-03-31",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/31155.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/31155.jpg"
+            },
+            "updated": 1684325109,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/72339"
+                }
+            }
+        },
+        "character": {
+            "id": 400384,
+            "url": "https://www.tvmaze.com/characters/400384/fargo-ray-stussy",
+            "name": "Ray Stussy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/104/261298.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/104/261298.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/400384"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

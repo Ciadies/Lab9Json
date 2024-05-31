@@ -1,0 +1,531 @@
+[
+    {
+        "person": {
+            "id": 27156,
+            "url": "https://www.tvmaze.com/people/27156/roseanne-barr",
+            "name": "Roseanne Barr",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1952-11-03",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/21884.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/21884.jpg"
+            },
+            "updated": 1662435024,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/27156"
+                }
+            }
+        },
+        "character": {
+            "id": 87285,
+            "url": "https://www.tvmaze.com/characters/87285/roseanne-roseanne-conner",
+            "name": "Roseanne Conner",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/150/377186.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/150/377186.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87285"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 39290,
+            "url": "https://www.tvmaze.com/people/39290/john-goodman",
+            "name": "John Goodman",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1952-06-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/167/417593.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/167/417593.jpg"
+            },
+            "updated": 1688384948,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/39290"
+                }
+            }
+        },
+        "character": {
+            "id": 87286,
+            "url": "https://www.tvmaze.com/characters/87286/roseanne-dan-conner",
+            "name": "Dan Conner",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/150/377185.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/150/377185.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87286"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 27251,
+            "url": "https://www.tvmaze.com/people/27251/laurie-metcalf",
+            "name": "Laurie Metcalf",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1955-06-16",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1927.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1927.jpg"
+            },
+            "updated": 1685736784,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/27251"
+                }
+            }
+        },
+        "character": {
+            "id": 87287,
+            "url": "https://www.tvmaze.com/characters/87287/roseanne-jackie-harris",
+            "name": "Jackie Harris",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/150/377189.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/150/377189.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87287"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 8687,
+            "url": "https://www.tvmaze.com/people/8687/sara-gilbert",
+            "name": "Sara Gilbert",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1975-01-29",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1079.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1079.jpg"
+            },
+            "updated": 1683157949,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/8687"
+                }
+            }
+        },
+        "character": {
+            "id": 87290,
+            "url": "https://www.tvmaze.com/characters/87290/roseanne-darlene-conner",
+            "name": "Darlene Conner",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/150/377190.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/150/377190.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87290"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49919,
+            "url": "https://www.tvmaze.com/people/49919/michael-fishman",
+            "name": "Michael Fishman",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1981-10-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/21908.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/21908.jpg"
+            },
+            "updated": 1652984806,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49919"
+                }
+            }
+        },
+        "character": {
+            "id": 87291,
+            "url": "https://www.tvmaze.com/characters/87291/roseanne-dj-conner",
+            "name": "D.J. Conner",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/150/377187.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/150/377187.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87291"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20350,
+            "url": "https://www.tvmaze.com/people/20350/lecy-goranson",
+            "name": "Lecy Goranson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1974-06-22",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/21907.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/21907.jpg"
+            },
+            "updated": 1683157949,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20350"
+                }
+            }
+        },
+        "character": {
+            "id": 87288,
+            "url": "https://www.tvmaze.com/characters/87288/roseanne-becky-conner",
+            "name": "Becky Conner",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/150/377188.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/150/377188.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87288"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 31796,
+            "url": "https://www.tvmaze.com/people/31796/sarah-chalke",
+            "name": "Sarah Chalke",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1976-08-27",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/178/447340.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/178/447340.jpg"
+            },
+            "updated": 1686145893,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/31796"
+                }
+            }
+        },
+        "character": {
+            "id": 87288,
+            "url": "https://www.tvmaze.com/characters/87288/roseanne-becky-conner",
+            "name": "Becky Conner",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/150/377188.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/150/377188.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87288"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 204311,
+            "url": "https://www.tvmaze.com/people/204311/ames-mcnamara",
+            "name": "Ames McNamara",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "2007-09-27",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/423/1057912.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/423/1057912.jpg"
+            },
+            "updated": 1683157949,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/204311"
+                }
+            }
+        },
+        "character": {
+            "id": 516935,
+            "url": "https://www.tvmaze.com/characters/516935/roseanne-mark-conner-healy",
+            "name": "Mark Conner-Healy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/150/377191.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/150/377191.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/516935"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19515,
+            "url": "https://www.tvmaze.com/people/19515/emma-kenney",
+            "name": "Emma Kenney",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1999-09-14",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10551.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10551.jpg"
+            },
+            "updated": 1683157949,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19515"
+                }
+            }
+        },
+        "character": {
+            "id": 516934,
+            "url": "https://www.tvmaze.com/characters/516934/roseanne-harris-conner-healy",
+            "name": "Harris Conner-Healy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/150/377184.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/150/377184.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/516934"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 15819,
+            "url": "https://www.tvmaze.com/people/15819/jayden-rey",
+            "name": "Jayden Rey",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/150/377253.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/150/377253.jpg"
+            },
+            "updated": 1681948768,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/15819"
+                }
+            }
+        },
+        "character": {
+            "id": 516936,
+            "url": "https://www.tvmaze.com/characters/516936/roseanne-mary-conner",
+            "name": "Mary Conner",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/150/377192.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/150/377192.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/516936"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49920,
+            "url": "https://www.tvmaze.com/people/49920/natalie-west",
+            "name": "Natalie West",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1956-01-23",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/21909.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/21909.jpg"
+            },
+            "updated": 1544000217,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49920"
+                }
+            }
+        },
+        "character": {
+            "id": 87294,
+            "url": "https://www.tvmaze.com/characters/87294/roseanne-crystal-anderson",
+            "name": "Crystal Anderson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/112/280687.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/112/280687.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87294"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 8679,
+            "url": "https://www.tvmaze.com/people/8679/johnny-galecki",
+            "name": "Johnny Galecki",
+            "country": {
+                "name": "Belgium",
+                "code": "BE",
+                "timezone": "Europe/Brussels"
+            },
+            "birthday": "1975-04-30",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1078.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1078.jpg"
+            },
+            "updated": 1680634145,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/8679"
+                }
+            }
+        },
+        "character": {
+            "id": 87292,
+            "url": "https://www.tvmaze.com/characters/87292/roseanne-david-healy",
+            "name": "David Healy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/112/280690.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/112/280690.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87292"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 44225,
+            "url": "https://www.tvmaze.com/people/44225/glenn-quinn",
+            "name": "Glenn Quinn",
+            "country": {
+                "name": "Ireland",
+                "code": "IE",
+                "timezone": "Europe/Dublin"
+            },
+            "birthday": "1970-05-28",
+            "deathday": "2002-12-03",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7862.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7862.jpg"
+            },
+            "updated": 1497850270,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/44225"
+                }
+            }
+        },
+        "character": {
+            "id": 87293,
+            "url": "https://www.tvmaze.com/characters/87293/roseanne-mark-healy",
+            "name": "Mark Healy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/112/280689.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/112/280689.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87293"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

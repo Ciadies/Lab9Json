@@ -1,0 +1,154 @@
+[
+    {
+        "person": {
+            "id": 25924,
+            "url": "https://www.tvmaze.com/people/25924/carl-reiner",
+            "name": "Carl Reiner",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1922-03-20",
+            "deathday": "2020-06-29",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/45/112627.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/45/112627.jpg"
+            },
+            "updated": 1686290375,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25924"
+                }
+            }
+        },
+        "character": {
+            "id": 757614,
+            "url": "https://www.tvmaze.com/characters/757614/your-show-of-shows-himself",
+            "name": "Himself",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/757614"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 59120,
+            "url": "https://www.tvmaze.com/people/59120/sid-caesar",
+            "name": "Sid Caesar",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1922-09-08",
+            "deathday": "2014-02-12",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/46/115616.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/46/115616.jpg"
+            },
+            "updated": 1673420117,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/59120"
+                }
+            }
+        },
+        "character": {
+            "id": 757614,
+            "url": "https://www.tvmaze.com/characters/757614/your-show-of-shows-himself",
+            "name": "Himself",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/757614"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 69565,
+            "url": "https://www.tvmaze.com/people/69565/howard-morris",
+            "name": "Howard Morris",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1919-09-04",
+            "deathday": "2005-05-21",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/73/184269.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/73/184269.jpg"
+            },
+            "updated": 1688657120,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/69565"
+                }
+            }
+        },
+        "character": {
+            "id": 757614,
+            "url": "https://www.tvmaze.com/characters/757614/your-show-of-shows-himself",
+            "name": "Himself",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/757614"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 97242,
+            "url": "https://www.tvmaze.com/people/97242/imogene-coca",
+            "name": "Imogene Coca",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1908-11-08",
+            "deathday": "2001-06-02",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/90/225971.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/90/225971.jpg"
+            },
+            "updated": 1684628033,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/97242"
+                }
+            }
+        },
+        "character": {
+            "id": 757615,
+            "url": "https://www.tvmaze.com/characters/757615/your-show-of-shows-herself",
+            "name": "Herself",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/757615"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    }
+]

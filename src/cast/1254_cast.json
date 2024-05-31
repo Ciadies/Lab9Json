@@ -1,0 +1,364 @@
+[
+    {
+        "person": {
+            "id": 881,
+            "url": "https://www.tvmaze.com/people/881/claire-danes",
+            "name": "Claire Danes",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1979-04-12",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/26/65654.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/26/65654.jpg"
+            },
+            "updated": 1686241998,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/881"
+                }
+            }
+        },
+        "character": {
+            "id": 92572,
+            "url": "https://www.tvmaze.com/characters/92572/my-so-called-life-angela-chase",
+            "name": "Angela Chase",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/17957.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/17957.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/92572"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 53144,
+            "url": "https://www.tvmaze.com/people/53144/aj-langer",
+            "name": "A.J. Langer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1974-05-22",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/204/511830.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/204/511830.jpg"
+            },
+            "updated": 1633524887,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/53144"
+                }
+            }
+        },
+        "character": {
+            "id": 92573,
+            "url": "https://www.tvmaze.com/characters/92573/my-so-called-life-rayanne-graff",
+            "name": "Rayanne Graff",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/17958.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/17958.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/92573"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 7496,
+            "url": "https://www.tvmaze.com/people/7496/wilson-cruz",
+            "name": "Wilson Cruz",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1973-12-27",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/460/1151659.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/460/1151659.jpg"
+            },
+            "updated": 1686533190,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/7496"
+                }
+            }
+        },
+        "character": {
+            "id": 92574,
+            "url": "https://www.tvmaze.com/characters/92574/my-so-called-life-enrique-rickie-vasquez",
+            "name": "Enrique \"Rickie\" Vasquez",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/17960.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/17960.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/92574"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 21837,
+            "url": "https://www.tvmaze.com/people/21837/devon-gummersall",
+            "name": "Devon Gummersall",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1978-10-15",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25975.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25975.jpg"
+            },
+            "updated": 1647914340,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/21837"
+                }
+            }
+        },
+        "character": {
+            "id": 92575,
+            "url": "https://www.tvmaze.com/characters/92575/my-so-called-life-brian-krakow",
+            "name": "Brian Krakow",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/17965.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/17965.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/92575"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 53145,
+            "url": "https://www.tvmaze.com/people/53145/jared-leto",
+            "name": "Jared Leto",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1971-12-26",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/47/119506.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/47/119506.jpg"
+            },
+            "updated": 1683719270,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/53145"
+                }
+            }
+        },
+        "character": {
+            "id": 92576,
+            "url": "https://www.tvmaze.com/characters/92576/my-so-called-life-jordan-catalano",
+            "name": "Jordan Catalano",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/17962.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/17962.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/92576"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 53146,
+            "url": "https://www.tvmaze.com/people/53146/devon-odessa",
+            "name": "Devon Odessa",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1974-01-18",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/188/470238.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/188/470238.jpg"
+            },
+            "updated": 1552690016,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/53146"
+                }
+            }
+        },
+        "character": {
+            "id": 92577,
+            "url": "https://www.tvmaze.com/characters/92577/my-so-called-life-sharon-cherski",
+            "name": "Sharon Cherski",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/17964.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/17964.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/92577"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 10988,
+            "url": "https://www.tvmaze.com/people/10988/bess-armstrong",
+            "name": "Bess Armstrong",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1953-12-11",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/28/70528.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/28/70528.jpg"
+            },
+            "updated": 1668298934,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/10988"
+                }
+            }
+        },
+        "character": {
+            "id": 92578,
+            "url": "https://www.tvmaze.com/characters/92578/my-so-called-life-patty-chase",
+            "name": "Patty Chase",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/17959.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/17959.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/92578"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 13883,
+            "url": "https://www.tvmaze.com/people/13883/tom-irwin",
+            "name": "Tom Irwin",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1956-06-01",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/351074.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/351074.jpg"
+            },
+            "updated": 1682763550,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/13883"
+                }
+            }
+        },
+        "character": {
+            "id": 92579,
+            "url": "https://www.tvmaze.com/characters/92579/my-so-called-life-graham-chase",
+            "name": "Graham Chase",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/17961.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/17961.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/92579"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 48702,
+            "url": "https://www.tvmaze.com/people/48702/lisa-wilhoit",
+            "name": "Lisa Wilhoit",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": null,
+            "image": null,
+            "updated": 1664657636,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/48702"
+                }
+            }
+        },
+        "character": {
+            "id": 92580,
+            "url": "https://www.tvmaze.com/characters/92580/my-so-called-life-danielle-chase",
+            "name": "Danielle Chase",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/17963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/17963.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/92580"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

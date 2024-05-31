@@ -1,0 +1,535 @@
+[
+    {
+        "person": {
+            "id": 24466,
+            "url": "https://www.tvmaze.com/people/24466/henry-winkler",
+            "name": "Henry Winkler",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1945-10-30",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/17754.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/17754.jpg"
+            },
+            "updated": 1687178277,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/24466"
+                }
+            }
+        },
+        "character": {
+            "id": 99504,
+            "url": "https://www.tvmaze.com/characters/99504/happy-days-arthur-herbert-fonzie-fonzarelli",
+            "name": "Arthur Herbert \"Fonzie\" Fonzarelli",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/21117.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/21117.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/99504"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11816,
+            "url": "https://www.tvmaze.com/people/11816/marion-ross",
+            "name": "Marion Ross",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1928-10-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/14/36451.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/36451.jpg"
+            },
+            "updated": 1686152282,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11816"
+                }
+            }
+        },
+        "character": {
+            "id": 99505,
+            "url": "https://www.tvmaze.com/characters/99505/happy-days-marion-mrs-c-cunningham",
+            "name": "Marion \"Mrs. C\" Cunningham",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/21119.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/21119.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/99505"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 54063,
+            "url": "https://www.tvmaze.com/people/54063/tom-bosley",
+            "name": "Tom Bosley",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1927-10-01",
+            "deathday": "2010-10-19",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/14/36454.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/36454.jpg"
+            },
+            "updated": 1682742930,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/54063"
+                }
+            }
+        },
+        "character": {
+            "id": 99509,
+            "url": "https://www.tvmaze.com/characters/99509/happy-days-howard-c-cunningham",
+            "name": "Howard C. Cunningham",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/21120.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/21120.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/99509"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 55738,
+            "url": "https://www.tvmaze.com/people/55738/erin-moran",
+            "name": "Erin Moran",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1960-10-18",
+            "deathday": "2017-04-22",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/31391.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/31391.jpg"
+            },
+            "updated": 1669798657,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/55738"
+                }
+            }
+        },
+        "character": {
+            "id": 99508,
+            "url": "https://www.tvmaze.com/characters/99508/happy-days-joanie-louise-cunningham",
+            "name": "Joanie Louise Cunningham",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/54/136872.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/54/136872.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/99508"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 47243,
+            "url": "https://www.tvmaze.com/people/47243/anson-williams",
+            "name": "Anson Williams",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1949-09-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/188/470741.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/188/470741.jpg"
+            },
+            "updated": 1685064235,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/47243"
+                }
+            }
+        },
+        "character": {
+            "id": 99506,
+            "url": "https://www.tvmaze.com/characters/99506/happy-days-warren-potsie-weber",
+            "name": "Warren \"Potsie\" Weber",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/54/136869.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/54/136869.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/99506"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 16302,
+            "url": "https://www.tvmaze.com/people/16302/ron-howard",
+            "name": "Ron Howard",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1954-03-01",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/445/1112648.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/445/1112648.jpg"
+            },
+            "updated": 1680920531,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/16302"
+                }
+            }
+        },
+        "character": {
+            "id": 99503,
+            "url": "https://www.tvmaze.com/characters/99503/happy-days-richard-j-richie-cunningham",
+            "name": "Richard J. \"Richie\" Cunningham",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/21116.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/21116.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/99503"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 47380,
+            "url": "https://www.tvmaze.com/people/47380/don-most",
+            "name": "Don Most",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1953-08-08",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/14/36453.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/36453.jpg"
+            },
+            "updated": 1684239838,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/47380"
+                }
+            }
+        },
+        "character": {
+            "id": 99507,
+            "url": "https://www.tvmaze.com/characters/99507/happy-days-ralph-malph",
+            "name": "Ralph Malph",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/54/136870.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/54/136870.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/99507"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 39589,
+            "url": "https://www.tvmaze.com/people/39589/scott-baio",
+            "name": "Scott Baio",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1960-09-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8375.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8375.jpg"
+            },
+            "updated": 1673998152,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/39589"
+                }
+            }
+        },
+        "character": {
+            "id": 99511,
+            "url": "https://www.tvmaze.com/characters/99511/happy-days-charles-chachi-arcola",
+            "name": "Charles \"Chachi\" Arcola",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/54/136871.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/54/136871.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/99511"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 55739,
+            "url": "https://www.tvmaze.com/people/55739/al-molinaro",
+            "name": "Al Molinaro",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1919-06-24",
+            "deathday": "2015-10-30",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/14/36458.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/36458.jpg"
+            },
+            "updated": 1669709817,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/55739"
+                }
+            }
+        },
+        "character": {
+            "id": 99510,
+            "url": "https://www.tvmaze.com/characters/99510/happy-days-alfredo-al-delvecchio",
+            "name": "Alfredo \"Al\" Delvecchio",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/21121.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/21121.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/99510"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 41448,
+            "url": "https://www.tvmaze.com/people/41448/ted-mcginley",
+            "name": "Ted McGinley",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1958-05-30",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10543.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10543.jpg"
+            },
+            "updated": 1687955127,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/41448"
+                }
+            }
+        },
+        "character": {
+            "id": 99514,
+            "url": "https://www.tvmaze.com/characters/99514/happy-days-roger-phillips",
+            "name": "Roger Phillips",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/21122.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/21122.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/99514"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 55740,
+            "url": "https://www.tvmaze.com/people/55740/lynda-goodfriend",
+            "name": "Lynda Goodfriend",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1953-10-31",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/14/36455.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/36455.jpg"
+            },
+            "updated": 1687964214,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/55740"
+                }
+            }
+        },
+        "character": {
+            "id": 99512,
+            "url": "https://www.tvmaze.com/characters/99512/happy-days-lori-beth-allen-cunningham",
+            "name": "Lori Beth Allen Cunningham",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/225/564765.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/225/564765.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/99512"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 945,
+            "url": "https://www.tvmaze.com/people/945/linda-purl",
+            "name": "Linda Purl",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1955-09-02",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6292.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6292.jpg"
+            },
+            "updated": 1682204200,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/945"
+                }
+            }
+        },
+        "character": {
+            "id": 99515,
+            "url": "https://www.tvmaze.com/characters/99515/happy-days-ashley-pfister",
+            "name": "Ashley Pfister",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/54/136876.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/54/136876.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/99515"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 161787,
+            "url": "https://www.tvmaze.com/people/161787/catherine-silvers",
+            "name": "Catherine Silvers",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-05-27",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/430/1075010.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/430/1075010.jpg"
+            },
+            "updated": 1668582811,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/161787"
+                }
+            }
+        },
+        "character": {
+            "id": 99513,
+            "url": "https://www.tvmaze.com/characters/99513/happy-days-jenny-piccalo",
+            "name": "Jenny Piccalo",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/54/136875.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/54/136875.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/99513"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

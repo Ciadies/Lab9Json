@@ -1,0 +1,166 @@
+[
+    {
+        "person": {
+            "id": 29438,
+            "url": "https://www.tvmaze.com/people/29438/leonard-nimoy",
+            "name": "Leonard Nimoy",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1931-03-26",
+            "deathday": "2015-02-27",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/429/1073299.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/429/1073299.jpg"
+            },
+            "updated": 1686368619,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29438"
+                }
+            }
+        },
+        "character": {
+            "id": 80830,
+            "url": "https://www.tvmaze.com/characters/80830/star-trek-mr-spock",
+            "name": "Mr. Spock",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/430/1075002.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/430/1075002.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/80830"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 41258,
+            "url": "https://www.tvmaze.com/people/41258/william-shatner",
+            "name": "William Shatner",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1931-03-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9684.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9684.jpg"
+            },
+            "updated": 1687880480,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/41258"
+                }
+            }
+        },
+        "character": {
+            "id": 80714,
+            "url": "https://www.tvmaze.com/characters/80714/star-trek-captain-james-tiberius-kirk",
+            "name": "Captain James Tiberius Kirk",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/430/1075001.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/430/1075001.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/80714"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 46617,
+            "url": "https://www.tvmaze.com/people/46617/deforest-kelley",
+            "name": "DeForest Kelley",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1920-01-20",
+            "deathday": "1999-06-11",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/90/225255.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/90/225255.jpg"
+            },
+            "updated": 1682596411,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/46617"
+                }
+            }
+        },
+        "character": {
+            "id": 80716,
+            "url": "https://www.tvmaze.com/characters/80716/star-trek-dr-leonard-horatio-bones-mccoy",
+            "name": "Dr. Leonard Horatio \"Bones\" McCoy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/430/1077230.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/430/1077230.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/80716"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 46734,
+            "url": "https://www.tvmaze.com/people/46734/jeffrey-hunter",
+            "name": "Jeffrey Hunter",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1926-11-25",
+            "deathday": "1969-05-27",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/121/304966.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/121/304966.jpg"
+            },
+            "updated": 1681217066,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/46734"
+                }
+            }
+        },
+        "character": {
+            "id": 882379,
+            "url": "https://www.tvmaze.com/characters/882379/star-trek-captain-christopher-pike",
+            "name": "Captain Christopher Pike",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/331/828922.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/331/828922.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/882379"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

@@ -1,0 +1,1106 @@
+[
+    {
+        "person": {
+            "id": 16968,
+            "url": "https://www.tvmaze.com/people/16968/noah-wyle",
+            "name": "Noah Wyle",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1971-06-04",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9837.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9837.jpg"
+            },
+            "updated": 1685748272,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/16968"
+                }
+            }
+        },
+        "character": {
+            "id": 85778,
+            "url": "https://www.tvmaze.com/characters/85778/er-dr-john-carter",
+            "name": "Dr. John Carter",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11503.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11503.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85778"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 25630,
+            "url": "https://www.tvmaze.com/people/25630/laura-innes",
+            "name": "Laura Innes",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-08-16",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9959.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9959.jpg"
+            },
+            "updated": 1670841649,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25630"
+                }
+            }
+        },
+        "character": {
+            "id": 85793,
+            "url": "https://www.tvmaze.com/characters/85793/er-dr-kerry-weaver",
+            "name": "Dr. Kerry Weaver",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11501.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11501.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85793"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20557,
+            "url": "https://www.tvmaze.com/people/20557/maura-tierney",
+            "name": "Maura Tierney",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-02-03",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2731.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2731.jpg"
+            },
+            "updated": 1678655875,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20557"
+                }
+            }
+        },
+        "character": {
+            "id": 85787,
+            "url": "https://www.tvmaze.com/characters/85787/er-dr-abby-lockhart",
+            "name": "Dr. Abby Lockhart",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11491.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11491.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85787"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 33016,
+            "url": "https://www.tvmaze.com/people/33016/goran-visnjic",
+            "name": "Goran Vi\u0161nji\u0107",
+            "country": {
+                "name": "Croatia",
+                "code": "HR",
+                "timezone": "Europe/Zagreb"
+            },
+            "birthday": "1972-09-09",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/80/201385.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/80/201385.jpg"
+            },
+            "updated": 1645631508,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/33016"
+                }
+            }
+        },
+        "character": {
+            "id": 85786,
+            "url": "https://www.tvmaze.com/characters/85786/er-dr-luka-kovac",
+            "name": "Dr. Luka Kovac",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11494.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11494.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85786"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49122,
+            "url": "https://www.tvmaze.com/people/49122/anthony-edwards",
+            "name": "Anthony Edwards",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-07-19",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/201/502580.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/201/502580.jpg"
+            },
+            "updated": 1660069423,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49122"
+                }
+            }
+        },
+        "character": {
+            "id": 85785,
+            "url": "https://www.tvmaze.com/characters/85785/er-dr-mark-greene",
+            "name": "Dr. Mark Greene",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11502.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11502.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85785"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 65946,
+            "url": "https://www.tvmaze.com/people/65946/eriq-la-salle",
+            "name": "Eriq La Salle",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-07-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/459/1147775.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/459/1147775.jpg"
+            },
+            "updated": 1682745294,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/65946"
+                }
+            }
+        },
+        "character": {
+            "id": 85798,
+            "url": "https://www.tvmaze.com/characters/85798/er-dr-peter-benton",
+            "name": "Dr. Peter Benton",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11511.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11511.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85798"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 444,
+            "url": "https://www.tvmaze.com/people/444/alex-kingston",
+            "name": "Alex Kingston",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1963-03-11",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/127/318348.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/127/318348.jpg"
+            },
+            "updated": 1672079550,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/444"
+                }
+            }
+        },
+        "character": {
+            "id": 85792,
+            "url": "https://www.tvmaze.com/characters/85792/er-dr-elizabeth-corday",
+            "name": "Dr. Elizabeth Corday",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11500.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11500.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85792"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 15404,
+            "url": "https://www.tvmaze.com/people/15404/sherry-stringfield",
+            "name": "Sherry Stringfield",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1967-06-24",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10393.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10393.jpg"
+            },
+            "updated": 1685823244,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/15404"
+                }
+            }
+        },
+        "character": {
+            "id": 85794,
+            "url": "https://www.tvmaze.com/characters/85794/er-dr-susan-lewis",
+            "name": "Dr. Susan Lewis",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11510.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11510.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85794"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6079,
+            "url": "https://www.tvmaze.com/people/6079/ming-na-wen",
+            "name": "Ming-Na Wen",
+            "country": {
+                "name": "Macao",
+                "code": "MO",
+                "timezone": "Asia/Macau"
+            },
+            "birthday": "1963-11-20",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5935.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5935.jpg"
+            },
+            "updated": 1687469140,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6079"
+                }
+            }
+        },
+        "character": {
+            "id": 85795,
+            "url": "https://www.tvmaze.com/characters/85795/er-dr-jing-mei-deb-chen",
+            "name": "Dr. Jing-Mei \"Deb\" Chen",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11509.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11509.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85795"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18120,
+            "url": "https://www.tvmaze.com/people/18120/julianna-margulies",
+            "name": "Julianna Margulies",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-06-08",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/78/195559.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/78/195559.jpg"
+            },
+            "updated": 1680922468,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18120"
+                }
+            }
+        },
+        "character": {
+            "id": 85790,
+            "url": "https://www.tvmaze.com/characters/85790/er-nurse-carol-hathaway",
+            "name": "Nurse Carol Hathaway",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11504.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11504.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85790"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 24445,
+            "url": "https://www.tvmaze.com/people/24445/george-clooney",
+            "name": "George Clooney",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-05-06",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2987.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2987.jpg"
+            },
+            "updated": 1684236657,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/24445"
+                }
+            }
+        },
+        "character": {
+            "id": 85788,
+            "url": "https://www.tvmaze.com/characters/85788/er-dr-douglas-doug-ross",
+            "name": "Dr. Douglas \"Doug\" Ross",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11495.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11495.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85788"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17009,
+            "url": "https://www.tvmaze.com/people/17009/gloria-reuben",
+            "name": "Gloria Reuben",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1964-06-09",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/459/1149019.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/459/1149019.jpg"
+            },
+            "updated": 1683073649,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17009"
+                }
+            }
+        },
+        "character": {
+            "id": 85802,
+            "url": "https://www.tvmaze.com/characters/85802/er-pa-jeanie-boulet",
+            "name": "P.A. Jeanie Boulet",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11512.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11512.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85802"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 9248,
+            "url": "https://www.tvmaze.com/people/9248/parminder-nagra",
+            "name": "Parminder Nagra",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1975-10-05",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/167/417670.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/167/417670.jpg"
+            },
+            "updated": 1674243769,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/9248"
+                }
+            }
+        },
+        "character": {
+            "id": 85779,
+            "url": "https://www.tvmaze.com/characters/85779/er-dr-neela-rasgotra",
+            "name": "Dr. Neela Rasgotra",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11493.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11493.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85779"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 160,
+            "url": "https://www.tvmaze.com/people/160/linda-cardellini",
+            "name": "Linda Cardellini",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1975-06-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/256/641826.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/256/641826.jpg"
+            },
+            "updated": 1687915280,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/160"
+                }
+            }
+        },
+        "character": {
+            "id": 85781,
+            "url": "https://www.tvmaze.com/characters/85781/er-nurse-samantha-taggart",
+            "name": "Nurse Samantha Taggart",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11499.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11499.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85781"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 10331,
+            "url": "https://www.tvmaze.com/people/10331/scott-grimes",
+            "name": "Scott Grimes",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1971-07-09",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/71/179111.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/71/179111.jpg"
+            },
+            "updated": 1685455258,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/10331"
+                }
+            }
+        },
+        "character": {
+            "id": 85782,
+            "url": "https://www.tvmaze.com/characters/85782/er-dr-archie-morris",
+            "name": "Dr. Archie Morris",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11497.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11497.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85782"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 24543,
+            "url": "https://www.tvmaze.com/people/24543/john-stamos",
+            "name": "John Stamos",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-08-19",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/40/101893.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/40/101893.jpg"
+            },
+            "updated": 1686009021,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/24543"
+                }
+            }
+        },
+        "character": {
+            "id": 85780,
+            "url": "https://www.tvmaze.com/characters/85780/er-dr-tony-gates",
+            "name": "Dr. Tony Gates",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11498.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11498.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85780"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 36424,
+            "url": "https://www.tvmaze.com/people/36424/david-lyons",
+            "name": "David Lyons",
+            "country": {
+                "name": "Australia",
+                "code": "AU",
+                "timezone": "Australia/Sydney"
+            },
+            "birthday": "1976-04-16",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8391.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8391.jpg"
+            },
+            "updated": 1679687327,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/36424"
+                }
+            }
+        },
+        "character": {
+            "id": 85783,
+            "url": "https://www.tvmaze.com/characters/85783/er-dr-simon-brenner",
+            "name": "Dr. Simon Brenner",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11515.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11515.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85783"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 39774,
+            "url": "https://www.tvmaze.com/people/39774/mekhi-phifer",
+            "name": "Mekhi Phifer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1974-12-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/12011.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/12011.jpg"
+            },
+            "updated": 1682016961,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/39774"
+                }
+            }
+        },
+        "character": {
+            "id": 85789,
+            "url": "https://www.tvmaze.com/characters/85789/er-dr-gregory-pratt",
+            "name": "Dr. Gregory Pratt",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11507.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11507.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85789"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 115015,
+            "url": "https://www.tvmaze.com/people/115015/busy-philipps",
+            "name": "Busy Philipps",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1979-06-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8717.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8717.jpg"
+            },
+            "updated": 1687549974,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/115015"
+                }
+            }
+        },
+        "character": {
+            "id": 858175,
+            "url": "https://www.tvmaze.com/characters/858175/er-dr-hope-bobeck",
+            "name": "Dr. Hope Bobeck",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/858175"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5867,
+            "url": "https://www.tvmaze.com/people/5867/angela-bassett",
+            "name": "Angela Bassett",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1958-08-16",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/44/110817.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/44/110817.jpg"
+            },
+            "updated": 1685787392,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5867"
+                }
+            }
+        },
+        "character": {
+            "id": 85784,
+            "url": "https://www.tvmaze.com/characters/85784/er-dr-cate-banfield",
+            "name": "Dr. Cate Banfield",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11514.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11514.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85784"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 26208,
+            "url": "https://www.tvmaze.com/people/26208/shane-west",
+            "name": "Shane West",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1978-06-10",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7959.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7959.jpg"
+            },
+            "updated": 1656314809,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/26208"
+                }
+            }
+        },
+        "character": {
+            "id": 85791,
+            "url": "https://www.tvmaze.com/characters/85791/er-dr-ray-barnett",
+            "name": "Dr. Ray Barnett",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11492.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11492.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85791"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 12994,
+            "url": "https://www.tvmaze.com/people/12994/sharif-atkins",
+            "name": "Sharif Atkins",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1975-01-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/33/82578.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/33/82578.jpg"
+            },
+            "updated": 1681228940,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/12994"
+                }
+            }
+        },
+        "character": {
+            "id": 85796,
+            "url": "https://www.tvmaze.com/characters/85796/er-dr-michael-gallant",
+            "name": "Dr. Michael Gallant",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11508.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11508.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85796"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 7250,
+            "url": "https://www.tvmaze.com/people/7250/paul-mccrane",
+            "name": "Paul McCrane",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-01-19",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/3738.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3738.jpg"
+            },
+            "updated": 1687118535,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/7250"
+                }
+            }
+        },
+        "character": {
+            "id": 85797,
+            "url": "https://www.tvmaze.com/characters/85797/er-dr-robert-romano",
+            "name": "Dr. Robert Romano",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/131/328265.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/131/328265.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85797"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 23103,
+            "url": "https://www.tvmaze.com/people/23103/michael-michele",
+            "name": "Michael Michele",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-08-30",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/265/664919.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/664919.jpg"
+            },
+            "updated": 1662197802,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/23103"
+                }
+            }
+        },
+        "character": {
+            "id": 85799,
+            "url": "https://www.tvmaze.com/characters/85799/er-dr-cleo-finch",
+            "name": "Dr. Cleo Finch",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11505.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11505.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85799"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 9434,
+            "url": "https://www.tvmaze.com/people/9434/erik-palladino",
+            "name": "Erik Palladino",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-05-10",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8823.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8823.jpg"
+            },
+            "updated": 1684767523,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/9434"
+                }
+            }
+        },
+        "character": {
+            "id": 85800,
+            "url": "https://www.tvmaze.com/characters/85800/er-dr-dave-malucci",
+            "name": "Dr. Dave Malucci",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11506.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11506.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85800"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19917,
+            "url": "https://www.tvmaze.com/people/19917/kellie-martin",
+            "name": "Kellie Martin",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1975-10-16",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/16/40124.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/16/40124.jpg"
+            },
+            "updated": 1684095043,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19917"
+                }
+            }
+        },
+        "character": {
+            "id": 85801,
+            "url": "https://www.tvmaze.com/characters/85801/er-lucy-knight",
+            "name": "Lucy Knight",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11496.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11496.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85801"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 24481,
+            "url": "https://www.tvmaze.com/people/24481/maria-bello",
+            "name": "Maria Bello",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1967-04-18",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/168/421645.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/421645.jpg"
+            },
+            "updated": 1671627407,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/24481"
+                }
+            }
+        },
+        "character": {
+            "id": 85803,
+            "url": "https://www.tvmaze.com/characters/85803/er-dr-anna-del-amico",
+            "name": "Dr. Anna Del Amico",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11513.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11513.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85803"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

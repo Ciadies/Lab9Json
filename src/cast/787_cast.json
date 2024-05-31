@@ -1,0 +1,43 @@
+[
+    {
+        "person": {
+            "id": 57093,
+            "url": "https://www.tvmaze.com/people/57093/rod-serling",
+            "name": "Rod Serling",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1924-12-25",
+            "deathday": "1975-06-28",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/9/24030.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/24030.jpg"
+            },
+            "updated": 1681991386,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/57093"
+                }
+            }
+        },
+        "character": {
+            "id": 102953,
+            "url": "https://www.tvmaze.com/characters/102953/the-twilight-zone-narrator",
+            "name": "Narrator",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/9/23689.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/23689.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/102953"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    }
+]

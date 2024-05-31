@@ -1,0 +1,607 @@
+[
+    {
+        "person": {
+            "id": 39635,
+            "url": "https://www.tvmaze.com/people/39635/john-slattery",
+            "name": "John Slattery",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-08-13",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8095.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8095.jpg"
+            },
+            "updated": 1686257679,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/39635"
+                }
+            }
+        },
+        "character": {
+            "id": 71025,
+            "url": "https://www.tvmaze.com/characters/71025/mad-men-roger-sterling",
+            "name": "Roger Sterling",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5595.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5595.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/71025"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 39167,
+            "url": "https://www.tvmaze.com/people/39167/jon-hamm",
+            "name": "Jon Hamm",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1971-03-10",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6594.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6594.jpg"
+            },
+            "updated": 1688051255,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/39167"
+                }
+            }
+        },
+        "character": {
+            "id": 71015,
+            "url": "https://www.tvmaze.com/characters/71015/mad-men-don-draper",
+            "name": "Don Draper",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5590.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5590.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/71015"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 35133,
+            "url": "https://www.tvmaze.com/people/35133/elisabeth-moss",
+            "name": "Elisabeth Moss",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1982-07-24",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8088.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8088.jpg"
+            },
+            "updated": 1685368515,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/35133"
+                }
+            }
+        },
+        "character": {
+            "id": 71016,
+            "url": "https://www.tvmaze.com/characters/71016/mad-men-peggy-olson",
+            "name": "Peggy Olson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5592.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5592.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/71016"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 27859,
+            "url": "https://www.tvmaze.com/people/27859/kiernan-shipka",
+            "name": "Kiernan Shipka",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1999-11-10",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6319.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6319.jpg"
+            },
+            "updated": 1685413893,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/27859"
+                }
+            }
+        },
+        "character": {
+            "id": 71023,
+            "url": "https://www.tvmaze.com/characters/71023/mad-men-sally-draper",
+            "name": "Sally Draper",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5597.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5597.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/71023"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 42553,
+            "url": "https://www.tvmaze.com/people/42553/vincent-kartheiser",
+            "name": "Vincent Kartheiser",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1979-05-05",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7864.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7864.jpg"
+            },
+            "updated": 1659875654,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/42553"
+                }
+            }
+        },
+        "character": {
+            "id": 71017,
+            "url": "https://www.tvmaze.com/characters/71017/mad-men-pete-campbell",
+            "name": "Pete Campbell",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5593.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5593.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/71017"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 10679,
+            "url": "https://www.tvmaze.com/people/10679/robert-morse",
+            "name": "Robert Morse",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1931-05-18",
+            "deathday": "2022-04-20",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8094.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8094.jpg"
+            },
+            "updated": 1672352382,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/10679"
+                }
+            }
+        },
+        "character": {
+            "id": 71024,
+            "url": "https://www.tvmaze.com/characters/71024/mad-men-bertram-cooper",
+            "name": "Bertram Cooper",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5601.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5601.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/71024"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 32974,
+            "url": "https://www.tvmaze.com/people/32974/christina-hendricks",
+            "name": "Christina Hendricks",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1975-05-03",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/265/664572.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/265/664572.jpg"
+            },
+            "updated": 1684422334,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/32974"
+                }
+            }
+        },
+        "character": {
+            "id": 71019,
+            "url": "https://www.tvmaze.com/characters/71019/mad-men-joan-holloway",
+            "name": "Joan Holloway",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5594.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5594.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/71019"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 23972,
+            "url": "https://www.tvmaze.com/people/23972/rich-sommer",
+            "name": "Rich Sommer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1978-02-02",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8093.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8093.jpg"
+            },
+            "updated": 1687332778,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/23972"
+                }
+            }
+        },
+        "character": {
+            "id": 71022,
+            "url": "https://www.tvmaze.com/characters/71022/mad-men-harry-crane",
+            "name": "Harry Crane",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5605.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5605.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/71022"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 42554,
+            "url": "https://www.tvmaze.com/people/42554/january-jones",
+            "name": "January Jones",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1978-01-05",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/177/444115.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/444115.jpg"
+            },
+            "updated": 1681689814,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/42554"
+                }
+            }
+        },
+        "character": {
+            "id": 71018,
+            "url": "https://www.tvmaze.com/characters/71018/mad-men-betty-draper",
+            "name": "Betty Draper",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5591.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5591.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/71018"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20451,
+            "url": "https://www.tvmaze.com/people/20451/aaron-staton",
+            "name": "Aaron Staton",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1980-08-10",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/175/437978.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/437978.jpg"
+            },
+            "updated": 1686249935,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20451"
+                }
+            }
+        },
+        "character": {
+            "id": 71021,
+            "url": "https://www.tvmaze.com/characters/71021/mad-men-ken-cosgrove",
+            "name": "Ken Cosgrove",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5603.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5603.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/71021"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 42629,
+            "url": "https://www.tvmaze.com/people/42629/jessica-pare",
+            "name": "Jessica Par\u00e9",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1980-12-05",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/24/61661.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/24/61661.jpg"
+            },
+            "updated": 1668945221,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/42629"
+                }
+            }
+        },
+        "character": {
+            "id": 71336,
+            "url": "https://www.tvmaze.com/characters/71336/mad-men-megan-calvet",
+            "name": "Megan Calvet",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5596.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5596.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/71336"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 23455,
+            "url": "https://www.tvmaze.com/people/23455/jared-harris",
+            "name": "Jared Harris",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1961-08-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8091.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8091.jpg"
+            },
+            "updated": 1679795186,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/23455"
+                }
+            }
+        },
+        "character": {
+            "id": 71020,
+            "url": "https://www.tvmaze.com/characters/71020/mad-men-lane-pryce",
+            "name": "Lane Pryce",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5600.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5600.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/71020"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20068,
+            "url": "https://www.tvmaze.com/people/20068/michael-gladis",
+            "name": "Michael Gladis",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1977-08-30",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/189/473983.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/189/473983.jpg"
+            },
+            "updated": 1683505791,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20068"
+                }
+            }
+        },
+        "character": {
+            "id": 71026,
+            "url": "https://www.tvmaze.com/characters/71026/mad-men-paul-kinsey",
+            "name": "Paul Kinsey",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5604.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5604.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/71026"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 42561,
+            "url": "https://www.tvmaze.com/people/42561/bryan-batt",
+            "name": "Bryan Batt",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8097.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8097.jpg"
+            },
+            "updated": 1673377494,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/42561"
+                }
+            }
+        },
+        "character": {
+            "id": 71028,
+            "url": "https://www.tvmaze.com/characters/71028/mad-men-salvatore-romano",
+            "name": "Salvatore Romano",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/71028"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11133,
+            "url": "https://www.tvmaze.com/people/11133/maggie-siff",
+            "name": "Maggie Siff",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1974-06-21",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/66/166068.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/66/166068.jpg"
+            },
+            "updated": 1679011086,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11133"
+                }
+            }
+        },
+        "character": {
+            "id": 71027,
+            "url": "https://www.tvmaze.com/characters/71027/mad-men-rachel-menken",
+            "name": "Rachel Menken",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/71027"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

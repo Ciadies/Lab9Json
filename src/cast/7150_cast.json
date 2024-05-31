@@ -1,0 +1,197 @@
+[
+    {
+        "person": {
+            "id": 96226,
+            "url": "https://www.tvmaze.com/people/96226/david-janssen",
+            "name": "David Janssen",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1931-03-27",
+            "deathday": "1980-02-13",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/54/135888.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/54/135888.jpg"
+            },
+            "updated": 1674109164,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/96226"
+                }
+            }
+        },
+        "character": {
+            "id": 192687,
+            "url": "https://www.tvmaze.com/characters/192687/the-fugitive-dr-richard-kimble",
+            "name": "Dr. Richard Kimble",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/26/66920.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/26/66920.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/192687"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 85345,
+            "url": "https://www.tvmaze.com/people/85345/william-conrad",
+            "name": "William Conrad",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1920-09-27",
+            "deathday": "1994-02-11",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/18/46739.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/18/46739.jpg"
+            },
+            "updated": 1677911791,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/85345"
+                }
+            }
+        },
+        "character": {
+            "id": 192691,
+            "url": "https://www.tvmaze.com/characters/192691/the-fugitive-narrator",
+            "name": "Narrator",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/192691"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 85626,
+            "url": "https://www.tvmaze.com/people/85626/barry-morse",
+            "name": "Barry Morse",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1918-06-10",
+            "deathday": "2008-02-02",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/42/107231.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/42/107231.jpg"
+            },
+            "updated": 1683436203,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/85626"
+                }
+            }
+        },
+        "character": {
+            "id": 192688,
+            "url": "https://www.tvmaze.com/characters/192688/the-fugitive-lt-philip-gerard",
+            "name": "Lt. Philip Gerard",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/26/66921.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/26/66921.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/192688"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 96228,
+            "url": "https://www.tvmaze.com/people/96228/jacqueline-scott",
+            "name": "Jacqueline Scott",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1931-06-25",
+            "deathday": "2020-07-23",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/65/164344.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/65/164344.jpg"
+            },
+            "updated": 1683002058,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/96228"
+                }
+            }
+        },
+        "character": {
+            "id": 192690,
+            "url": "https://www.tvmaze.com/characters/192690/the-fugitive-donna-kimble-taft",
+            "name": "Donna Kimble Taft",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/26/66923.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/26/66923.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/192690"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 96227,
+            "url": "https://www.tvmaze.com/people/96227/bill-raisch",
+            "name": "Bill Raisch",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": null,
+            "image": null,
+            "updated": 1446155617,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/96227"
+                }
+            }
+        },
+        "character": {
+            "id": 192689,
+            "url": "https://www.tvmaze.com/characters/192689/the-fugitive-fred-johnson",
+            "name": "Fred Johnson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/26/66922.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/26/66922.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/192689"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

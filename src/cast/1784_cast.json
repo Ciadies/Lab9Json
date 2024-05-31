@@ -1,0 +1,207 @@
+[
+    {
+        "person": {
+            "id": 58016,
+            "url": "https://www.tvmaze.com/people/58016/jean-stapleton",
+            "name": "Jean Stapleton",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1923-01-19",
+            "deathday": "2013-05-31",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25405.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25405.jpg"
+            },
+            "updated": 1645557092,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/58016"
+                }
+            }
+        },
+        "character": {
+            "id": 104918,
+            "url": "https://www.tvmaze.com/characters/104918/all-in-the-family-edith-bunker",
+            "name": "Edith Bunker",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25353.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25353.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/104918"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 58015,
+            "url": "https://www.tvmaze.com/people/58015/carroll-oconnor",
+            "name": "Carroll O'Connor",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1924-08-02",
+            "deathday": "2001-06-21",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25404.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25404.jpg"
+            },
+            "updated": 1667357634,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/58015"
+                }
+            }
+        },
+        "character": {
+            "id": 104917,
+            "url": "https://www.tvmaze.com/characters/104917/all-in-the-family-archie-bunker",
+            "name": "Archie Bunker",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25352.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25352.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/104917"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 7904,
+            "url": "https://www.tvmaze.com/people/7904/rob-reiner",
+            "name": "Rob Reiner",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1947-03-06",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25406.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25406.jpg"
+            },
+            "updated": 1685042174,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/7904"
+                }
+            }
+        },
+        "character": {
+            "id": 104919,
+            "url": "https://www.tvmaze.com/characters/104919/all-in-the-family-michael-stivic",
+            "name": "Michael Stivic",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25354.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25354.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/104919"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 58017,
+            "url": "https://www.tvmaze.com/people/58017/sally-struthers",
+            "name": "Sally Struthers",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1947-07-28",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/465/1164255.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/465/1164255.jpg"
+            },
+            "updated": 1687173532,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/58017"
+                }
+            }
+        },
+        "character": {
+            "id": 104920,
+            "url": "https://www.tvmaze.com/characters/104920/all-in-the-family-gloria-stivic",
+            "name": "Gloria Stivic",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/406/1017461.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/406/1017461.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/104920"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 58018,
+            "url": "https://www.tvmaze.com/people/58018/danielle-brisebois",
+            "name": "Danielle Brisebois",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1969-06-28",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25409.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25409.jpg"
+            },
+            "updated": 1656763874,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/58018"
+                }
+            }
+        },
+        "character": {
+            "id": 104921,
+            "url": "https://www.tvmaze.com/characters/104921/all-in-the-family-stephanie-mills",
+            "name": "Stephanie Mills",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/406/1017462.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/406/1017462.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/104921"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

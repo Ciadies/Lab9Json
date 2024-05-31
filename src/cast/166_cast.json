@@ -1,0 +1,576 @@
+[
+    {
+        "person": {
+            "id": 29854,
+            "url": "https://www.tvmaze.com/people/29854/edward-james-olmos",
+            "name": "Edward James Olmos",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1947-02-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8712.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8712.jpg"
+            },
+            "updated": 1688649101,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29854"
+                }
+            }
+        },
+        "character": {
+            "id": 43658,
+            "url": "https://www.tvmaze.com/characters/43658/battlestar-galactica-william-adama",
+            "name": "William Adama",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2314.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2314.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/43658"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 30401,
+            "url": "https://www.tvmaze.com/people/30401/mary-mcdonnell",
+            "name": "Mary McDonnell",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1952-04-28",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8715.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8715.jpg"
+            },
+            "updated": 1664498218,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/30401"
+                }
+            }
+        },
+        "character": {
+            "id": 43665,
+            "url": "https://www.tvmaze.com/characters/43665/battlestar-galactica-laura-roslin",
+            "name": "Laura Roslin",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2322.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2322.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/43665"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 26143,
+            "url": "https://www.tvmaze.com/people/26143/jamie-bamber",
+            "name": "Jamie Bamber",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1973-04-03",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/155/388746.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/155/388746.jpg"
+            },
+            "updated": 1688379677,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/26143"
+                }
+            }
+        },
+        "character": {
+            "id": 43660,
+            "url": "https://www.tvmaze.com/characters/43660/battlestar-galactica-lee-apollo-adama",
+            "name": "Lee \"Apollo\" Adama",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2315.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2315.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/43660"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 4309,
+            "url": "https://www.tvmaze.com/people/4309/michael-hogan",
+            "name": "Michael Hogan",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1949-03-13",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/4437.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/4437.jpg"
+            },
+            "updated": 1675729824,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/4309"
+                }
+            }
+        },
+        "character": {
+            "id": 43704,
+            "url": "https://www.tvmaze.com/characters/43704/battlestar-galactica-saul-tigh",
+            "name": "Saul Tigh",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2318.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2318.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/43704"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 23922,
+            "url": "https://www.tvmaze.com/people/23922/katee-sackhoff",
+            "name": "Katee Sackhoff",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1980-04-08",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/432/1081923.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/432/1081923.jpg"
+            },
+            "updated": 1687985599,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/23922"
+                }
+            }
+        },
+        "character": {
+            "id": 43659,
+            "url": "https://www.tvmaze.com/characters/43659/battlestar-galactica-kara-starbuck-thrace",
+            "name": "Kara \"Starbuck\" Thrace",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2316.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2316.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/43659"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 3672,
+            "url": "https://www.tvmaze.com/people/3672/tricia-helfer",
+            "name": "Tricia Helfer",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1974-04-11",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/458/1145114.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/458/1145114.jpg"
+            },
+            "updated": 1684528582,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/3672"
+                }
+            }
+        },
+        "character": {
+            "id": 43662,
+            "url": "https://www.tvmaze.com/characters/43662/battlestar-galactica-number-six",
+            "name": "Number Six",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2323.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2323.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/43662"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 4830,
+            "url": "https://www.tvmaze.com/people/4830/aaron-douglas",
+            "name": "Aaron Douglas",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1971-08-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/70/177056.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/177056.jpg"
+            },
+            "updated": 1680002692,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/4830"
+                }
+            }
+        },
+        "character": {
+            "id": 43769,
+            "url": "https://www.tvmaze.com/characters/43769/battlestar-galactica-galen-tyrol",
+            "name": "Galen Tyrol",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/44/111126.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/44/111126.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/43769"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 436,
+            "url": "https://www.tvmaze.com/people/436/james-callis",
+            "name": "James Callis",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1971-06-04",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/186/466982.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/186/466982.jpg"
+            },
+            "updated": 1680024107,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/436"
+                }
+            }
+        },
+        "character": {
+            "id": 43661,
+            "url": "https://www.tvmaze.com/characters/43661/battlestar-galactica-dr-gaius-baltar",
+            "name": "Dr. Gaius Baltar",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2321.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2321.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/43661"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 380,
+            "url": "https://www.tvmaze.com/people/380/tahmoh-penikett",
+            "name": "Tahmoh Penikett",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1975-05-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/72/181229.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/72/181229.jpg"
+            },
+            "updated": 1678538834,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/380"
+                }
+            }
+        },
+        "character": {
+            "id": 43705,
+            "url": "https://www.tvmaze.com/characters/43705/battlestar-galactica-karl-helo-agathon",
+            "name": "Karl \"Helo\" Agathon",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/31/79845.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/31/79845.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/43705"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5026,
+            "url": "https://www.tvmaze.com/people/5026/grace-park",
+            "name": "Grace Park",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1974-03-14",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1132.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1132.jpg"
+            },
+            "updated": 1683223721,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5026"
+                }
+            }
+        },
+        "character": {
+            "id": 43664,
+            "url": "https://www.tvmaze.com/characters/43664/battlestar-galactica-sharon-athena-agathon",
+            "name": "Sharon \"Athena\" Agathon",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/44/110785.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/44/110785.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/43664"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 808,
+            "url": "https://www.tvmaze.com/people/808/alessandro-juliani",
+            "name": "Alessandro Juliani",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1978-04-03",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/461/1153459.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/461/1153459.jpg"
+            },
+            "updated": 1685655189,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/808"
+                }
+            }
+        },
+        "character": {
+            "id": 43780,
+            "url": "https://www.tvmaze.com/characters/43780/battlestar-galactica-felix-gaeta",
+            "name": "Felix Gaeta",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/44/111139.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/44/111139.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/43780"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 10577,
+            "url": "https://www.tvmaze.com/people/10577/kandyse-mcclure",
+            "name": "Kandyse McClure",
+            "country": {
+                "name": "South Africa",
+                "code": "ZA",
+                "timezone": "Africa/Johannesburg"
+            },
+            "birthday": "1980-03-22",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/71/179840.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/71/179840.jpg"
+            },
+            "updated": 1677617254,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/10577"
+                }
+            }
+        },
+        "character": {
+            "id": 43781,
+            "url": "https://www.tvmaze.com/characters/43781/battlestar-galactica-anastasia-dee-dualla",
+            "name": "Anastasia \"Dee\" Dualla",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2319.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2319.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/43781"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 1344,
+            "url": "https://www.tvmaze.com/people/1344/michael-trucco",
+            "name": "Michael Trucco",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1970-06-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10007.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10007.jpg"
+            },
+            "updated": 1688260312,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/1344"
+                }
+            }
+        },
+        "character": {
+            "id": 43768,
+            "url": "https://www.tvmaze.com/characters/43768/battlestar-galactica-samuel-sam-anders",
+            "name": "Samuel \"Sam\" Anders",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/44/111122.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/44/111122.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/43768"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5026,
+            "url": "https://www.tvmaze.com/people/5026/grace-park",
+            "name": "Grace Park",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1974-03-14",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1132.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1132.jpg"
+            },
+            "updated": 1683223721,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5026"
+                }
+            }
+        },
+        "character": {
+            "id": 43663,
+            "url": "https://www.tvmaze.com/characters/43663/battlestar-galactica-sharon-boomer-valerii",
+            "name": "Sharon \"Boomer\" Valerii",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2320.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2320.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/43663"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

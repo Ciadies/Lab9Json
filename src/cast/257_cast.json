@@ -1,0 +1,84 @@
+[
+    {
+        "person": {
+            "id": 14481,
+            "url": "https://www.tvmaze.com/people/14481/jordan-peele",
+            "name": "Jordan Peele",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1979-02-21",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/16/41193.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/16/41193.jpg"
+            },
+            "updated": 1676425240,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14481"
+                }
+            }
+        },
+        "character": {
+            "id": 123962,
+            "url": "https://www.tvmaze.com/characters/123962/key-peele-jordan-peele",
+            "name": "Jordan Peele",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/16/41119.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/16/41119.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/123962"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11851,
+            "url": "https://www.tvmaze.com/people/11851/keegan-michael-key",
+            "name": "Keegan-Michael Key",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1971-03-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/317/794376.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/317/794376.jpg"
+            },
+            "updated": 1685543728,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11851"
+                }
+            }
+        },
+        "character": {
+            "id": 123963,
+            "url": "https://www.tvmaze.com/characters/123963/key-peele-keegan-michael-key",
+            "name": "Keegan-Michael Key",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/16/41120.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/16/41120.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/123963"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    }
+]

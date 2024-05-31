@@ -1,0 +1,576 @@
+[
+    {
+        "person": {
+            "id": 5869,
+            "url": "https://www.tvmaze.com/people/5869/michael-chiklis",
+            "name": "Michael Chiklis",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-08-30",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1229.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1229.jpg"
+            },
+            "updated": 1684409985,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5869"
+                }
+            }
+        },
+        "character": {
+            "id": 86990,
+            "url": "https://www.tvmaze.com/characters/86990/the-shield-detective-vic-mackey",
+            "name": "Detective Vic Mackey",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14707.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14707.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86990"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 10146,
+            "url": "https://www.tvmaze.com/people/10146/catherine-dent",
+            "name": "Catherine Dent",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-04-14",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/213/534770.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/213/534770.jpg"
+            },
+            "updated": 1679365488,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/10146"
+                }
+            }
+        },
+        "character": {
+            "id": 86991,
+            "url": "https://www.tvmaze.com/characters/86991/the-shield-officer-danielle-danny-sofer",
+            "name": "Officer Danielle \"Danny\" Sofer",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14718.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14718.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86991"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 23845,
+            "url": "https://www.tvmaze.com/people/23845/michael-jace",
+            "name": "Michael Jace",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-07-13",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/9/23594.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/23594.jpg"
+            },
+            "updated": 1680121371,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/23845"
+                }
+            }
+        },
+        "character": {
+            "id": 86993,
+            "url": "https://www.tvmaze.com/characters/86993/the-shield-officer-julien-lowe",
+            "name": "Officer Julien Lowe",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14717.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14717.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86993"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 1992,
+            "url": "https://www.tvmaze.com/people/1992/jay-karnes",
+            "name": "Jay Karnes",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-06-27",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/152/381594.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/152/381594.jpg"
+            },
+            "updated": 1676753647,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/1992"
+                }
+            }
+        },
+        "character": {
+            "id": 86994,
+            "url": "https://www.tvmaze.com/characters/86994/the-shield-detective-holland-dutch-wagenbach",
+            "name": "Detective Holland \"Dutch\" Wagenbach",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14716.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14716.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86994"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 4268,
+            "url": "https://www.tvmaze.com/people/4268/benito-martinez",
+            "name": "Benito Martinez",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1971-06-28",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/190/476916.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476916.jpg"
+            },
+            "updated": 1685832426,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/4268"
+                }
+            }
+        },
+        "character": {
+            "id": 86995,
+            "url": "https://www.tvmaze.com/characters/86995/the-shield-david-aceveda",
+            "name": "David Aceveda",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14708.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14708.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86995"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 1259,
+            "url": "https://www.tvmaze.com/people/1259/cch-pounder",
+            "name": "CCH Pounder",
+            "country": {
+                "name": "Guyana",
+                "code": "GY",
+                "timezone": "America/Guyana"
+            },
+            "birthday": "1952-12-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1282.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1282.jpg"
+            },
+            "updated": 1686242046,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/1259"
+                }
+            }
+        },
+        "character": {
+            "id": 86997,
+            "url": "https://www.tvmaze.com/characters/86997/the-shield-detective-claudette-wyms",
+            "name": "Detective Claudette Wyms",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14709.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14709.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86997"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11611,
+            "url": "https://www.tvmaze.com/people/11611/walton-goggins",
+            "name": "Walton Goggins",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1971-11-10",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10179.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10179.jpg"
+            },
+            "updated": 1688385044,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11611"
+                }
+            }
+        },
+        "character": {
+            "id": 86992,
+            "url": "https://www.tvmaze.com/characters/86992/the-shield-detective-shane-vendrell",
+            "name": "Detective Shane Vendrell",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14719.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14719.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86992"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11329,
+            "url": "https://www.tvmaze.com/people/11329/kenny-johnson",
+            "name": "Kenny Johnson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-07-13",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/9/23599.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/23599.jpg"
+            },
+            "updated": 1684581076,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11329"
+                }
+            }
+        },
+        "character": {
+            "id": 87002,
+            "url": "https://www.tvmaze.com/characters/87002/the-shield-detective-curtis-lemonhead-lemansky",
+            "name": "Detective Curtis \"Lemonhead\" Lemansky",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14712.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14712.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87002"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20449,
+            "url": "https://www.tvmaze.com/people/20449/paula-garces",
+            "name": "Paula Garc\u00e9s",
+            "country": {
+                "name": "Colombia",
+                "code": "CO",
+                "timezone": "America/Bogota"
+            },
+            "birthday": "1974-03-20",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2732.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2732.jpg"
+            },
+            "updated": 1675515739,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20449"
+                }
+            }
+        },
+        "character": {
+            "id": 87004,
+            "url": "https://www.tvmaze.com/characters/87004/the-shield-officer-tina-hanlon",
+            "name": "Officer Tina Hanlon",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14711.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14711.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87004"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 892,
+            "url": "https://www.tvmaze.com/people/892/david-marciano",
+            "name": "David Marciano",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1960-01-07",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/106/267414.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/106/267414.jpg"
+            },
+            "updated": 1685381002,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/892"
+                }
+            }
+        },
+        "character": {
+            "id": 87003,
+            "url": "https://www.tvmaze.com/characters/87003/the-shield-detective-steve-billings",
+            "name": "Detective Steve Billings",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14710.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14710.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87003"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20965,
+            "url": "https://www.tvmaze.com/people/20965/cathy-cahlin-ryan",
+            "name": "Cathy Cahlin Ryan",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": null,
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/9/23596.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/23596.jpg"
+            },
+            "updated": 1676118013,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20965"
+                }
+            }
+        },
+        "character": {
+            "id": 86998,
+            "url": "https://www.tvmaze.com/characters/86998/the-shield-corrine-mackey",
+            "name": "Corrine Mackey",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14713.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14713.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86998"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5631,
+            "url": "https://www.tvmaze.com/people/5631/david-rees-snell",
+            "name": "David Rees Snell",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-08-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/9/23597.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/23597.jpg"
+            },
+            "updated": 1679604713,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5631"
+                }
+            }
+        },
+        "character": {
+            "id": 86999,
+            "url": "https://www.tvmaze.com/characters/86999/the-shield-detective-ronald-ronnie-gardocki",
+            "name": "Detective Ronald \"Ronnie\" Gardocki",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14714.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14714.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86999"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49735,
+            "url": "https://www.tvmaze.com/people/49735/glenn-close",
+            "name": "Glenn Close",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1947-03-19",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/116/291355.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/116/291355.jpg"
+            },
+            "updated": 1685285054,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49735"
+                }
+            }
+        },
+        "character": {
+            "id": 87001,
+            "url": "https://www.tvmaze.com/characters/87001/the-shield-captain-monica-rawling",
+            "name": "Captain Monica Rawling",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/44/111099.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/44/111099.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87001"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6224,
+            "url": "https://www.tvmaze.com/people/6224/reed-diamond",
+            "name": "Reed Diamond",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1967-07-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/177/443409.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/177/443409.jpg"
+            },
+            "updated": 1673046300,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6224"
+                }
+            }
+        },
+        "character": {
+            "id": 87000,
+            "url": "https://www.tvmaze.com/characters/87000/the-shield-detective-terry-crowley",
+            "name": "Detective Terry Crowley",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/44/111097.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/44/111097.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87000"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

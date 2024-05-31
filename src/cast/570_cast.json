@@ -1,0 +1,980 @@
+[
+    {
+        "person": {
+            "id": 6225,
+            "url": "https://www.tvmaze.com/people/6225/henry-simmons",
+            "name": "Henry Simmons",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1970-07-01",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5630.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5630.jpg"
+            },
+            "updated": 1669586301,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6225"
+                }
+            }
+        },
+        "character": {
+            "id": 86139,
+            "url": "https://www.tvmaze.com/characters/86139/nypd-blue-det-baldwin-jones",
+            "name": "Det. Baldwin Jones",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11797.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11797.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86139"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49303,
+            "url": "https://www.tvmaze.com/people/49303/dennis-franz",
+            "name": "Dennis Franz",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1944-10-28",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/13544.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/13544.jpg"
+            },
+            "updated": 1686880747,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49303"
+                }
+            }
+        },
+        "character": {
+            "id": 86148,
+            "url": "https://www.tvmaze.com/characters/86148/nypd-blue-sgt-andy-sipowicz",
+            "name": "Sgt. Andy Sipowicz",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/221/553688.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/221/553688.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86148"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 12631,
+            "url": "https://www.tvmaze.com/people/12631/gordon-clapp",
+            "name": "Gordon Clapp",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1948-09-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/13546.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/13546.jpg"
+            },
+            "updated": 1685806060,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/12631"
+                }
+            }
+        },
+        "character": {
+            "id": 86125,
+            "url": "https://www.tvmaze.com/characters/86125/nypd-blue-det-greg-medavoy",
+            "name": "Det. Greg Medavoy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11790.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11790.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86125"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6775,
+            "url": "https://www.tvmaze.com/people/6775/james-mcdaniel",
+            "name": "James McDaniel",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1958-03-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/13557.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/13557.jpg"
+            },
+            "updated": 1685805379,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6775"
+                }
+            }
+        },
+        "character": {
+            "id": 86130,
+            "url": "https://www.tvmaze.com/characters/86130/nypd-blue-lt-arthur-fancy",
+            "name": "Lt. Arthur Fancy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11791.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11791.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86130"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17285,
+            "url": "https://www.tvmaze.com/people/17285/nicholas-turturro",
+            "name": "Nicholas Turturro",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-01-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2748.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2748.jpg"
+            },
+            "updated": 1685805610,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17285"
+                }
+            }
+        },
+        "character": {
+            "id": 86129,
+            "url": "https://www.tvmaze.com/characters/86129/nypd-blue-det-james-martinez",
+            "name": "Det. James Martinez",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11787.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11787.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86129"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11137,
+            "url": "https://www.tvmaze.com/people/11137/jimmy-smits",
+            "name": "Jimmy Smits",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1955-07-09",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/7343.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/7343.jpg"
+            },
+            "updated": 1685808197,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11137"
+                }
+            }
+        },
+        "character": {
+            "id": 86133,
+            "url": "https://www.tvmaze.com/characters/86133/nypd-blue-det-bobby-simone",
+            "name": "Det. Bobby Simone",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11799.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11799.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86133"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19281,
+            "url": "https://www.tvmaze.com/people/19281/sharon-lawrence",
+            "name": "Sharon Lawrence",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-06-29",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8371.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8371.jpg"
+            },
+            "updated": 1688904847,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19281"
+                }
+            }
+        },
+        "character": {
+            "id": 86132,
+            "url": "https://www.tvmaze.com/characters/86132/nypd-blue-ada-sylvia-costas",
+            "name": "A.D.A Sylvia Costas",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11784.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11784.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86132"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 1455,
+            "url": "https://www.tvmaze.com/people/1455/gail-ogrady",
+            "name": "Gail O'Grady",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-01-23",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/182/455201.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/182/455201.jpg"
+            },
+            "updated": 1687799989,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/1455"
+                }
+            }
+        },
+        "character": {
+            "id": 86131,
+            "url": "https://www.tvmaze.com/characters/86131/nypd-blue-donna-abandando",
+            "name": "Donna Abandando",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11798.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11798.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86131"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 23154,
+            "url": "https://www.tvmaze.com/people/23154/kim-delaney",
+            "name": "Kim Delaney",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-11-29",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/31753.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/31753.jpg"
+            },
+            "updated": 1685829237,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/23154"
+                }
+            }
+        },
+        "character": {
+            "id": 86135,
+            "url": "https://www.tvmaze.com/characters/86135/nypd-blue-det-diane-russell",
+            "name": "Det. Diane Russell",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11788.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11788.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86135"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 45107,
+            "url": "https://www.tvmaze.com/people/45107/justine-miceli",
+            "name": "Justine Miceli",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1959-04-30",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/463/1158952.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/463/1158952.jpg"
+            },
+            "updated": 1685831628,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/45107"
+                }
+            }
+        },
+        "character": {
+            "id": 86134,
+            "url": "https://www.tvmaze.com/characters/86134/nypd-blue-det-adrianne-lesniak",
+            "name": "Det. Adrianne Lesniak",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86134"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 21735,
+            "url": "https://www.tvmaze.com/people/21735/david-caruso",
+            "name": "David Caruso",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1956-01-07",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/13551.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/13551.jpg"
+            },
+            "updated": 1677344568,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/21735"
+                }
+            }
+        },
+        "character": {
+            "id": 86126,
+            "url": "https://www.tvmaze.com/characters/86126/nypd-blue-det-john-kelly",
+            "name": "Det. John Kelly",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11801.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11801.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86126"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 15173,
+            "url": "https://www.tvmaze.com/people/15173/amy-brenneman",
+            "name": "Amy Brenneman",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-06-22",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10244.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10244.jpg"
+            },
+            "updated": 1680177522,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/15173"
+                }
+            }
+        },
+        "character": {
+            "id": 86128,
+            "url": "https://www.tvmaze.com/characters/86128/nypd-blue-det-janice-licalsi",
+            "name": "Det. Janice Licalsi",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11800.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11800.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86128"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 15404,
+            "url": "https://www.tvmaze.com/people/15404/sherry-stringfield",
+            "name": "Sherry Stringfield",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1967-06-24",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10393.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10393.jpg"
+            },
+            "updated": 1685823244,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/15404"
+                }
+            }
+        },
+        "character": {
+            "id": 86127,
+            "url": "https://www.tvmaze.com/characters/86127/nypd-blue-laura-michaels",
+            "name": "Laura Michaels",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11793.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11793.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86127"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 28486,
+            "url": "https://www.tvmaze.com/people/28486/bill-brochtrup",
+            "name": "Bill Brochtrup",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-03-07",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/13567.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/13567.jpg"
+            },
+            "updated": 1687790387,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/28486"
+                }
+            }
+        },
+        "character": {
+            "id": 86136,
+            "url": "https://www.tvmaze.com/characters/86136/nypd-blue-john-irvin",
+            "name": "John Irvin",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11794.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11794.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86136"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19100,
+            "url": "https://www.tvmaze.com/people/19100/mark-paul-gosselaar",
+            "name": "Mark-Paul Gosselaar",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1974-03-01",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/439/1098574.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/439/1098574.jpg"
+            },
+            "updated": 1683381224,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19100"
+                }
+            }
+        },
+        "character": {
+            "id": 86144,
+            "url": "https://www.tvmaze.com/characters/86144/nypd-blue-det-john-clark-jr",
+            "name": "Det. John Clark Jr.",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11781.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11781.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86144"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 10033,
+            "url": "https://www.tvmaze.com/people/10033/jacqueline-obradors",
+            "name": "Jacqueline Obradors",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-10-06",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/87/218997.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/87/218997.jpg"
+            },
+            "updated": 1680002484,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/10033"
+                }
+            }
+        },
+        "character": {
+            "id": 86145,
+            "url": "https://www.tvmaze.com/characters/86145/nypd-blue-det-rita-ortiz",
+            "name": "Det. Rita Ortiz",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11795.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11795.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86145"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 30208,
+            "url": "https://www.tvmaze.com/people/30208/garcelle-beauvais",
+            "name": "Garcelle Beauvais",
+            "country": {
+                "name": "Haiti",
+                "code": "HT",
+                "timezone": "America/Port-au-Prince"
+            },
+            "birthday": "1966-11-26",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8297.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8297.jpg"
+            },
+            "updated": 1688670628,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/30208"
+                }
+            }
+        },
+        "character": {
+            "id": 86141,
+            "url": "https://www.tvmaze.com/characters/86141/nypd-blue-ada-valerie-haywood",
+            "name": "ADA Valerie Haywood",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11789.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11789.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86141"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 21656,
+            "url": "https://www.tvmaze.com/people/21656/john-f-odonohue",
+            "name": "John F. O'Donohue",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/13941.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/13941.jpg"
+            },
+            "updated": 1685804759,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/21656"
+                }
+            }
+        },
+        "character": {
+            "id": 86140,
+            "url": "https://www.tvmaze.com/characters/86140/nypd-blue-sgt-eddie-gibson",
+            "name": "Sgt. Eddie Gibson",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86140"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 7396,
+            "url": "https://www.tvmaze.com/people/7396/charlotte-ross",
+            "name": "Charlotte Ross",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-01-21",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/7285.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/7285.jpg"
+            },
+            "updated": 1671298272,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/7396"
+                }
+            }
+        },
+        "character": {
+            "id": 86142,
+            "url": "https://www.tvmaze.com/characters/86142/nypd-blue-det-connie-mcdowell",
+            "name": "Det. Connie McDowell",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11782.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11782.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86142"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 367,
+            "url": "https://www.tvmaze.com/people/367/currie-graham",
+            "name": "Currie Graham",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1967-02-26",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/98/245382.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/98/245382.jpg"
+            },
+            "updated": 1681571088,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/367"
+                }
+            }
+        },
+        "character": {
+            "id": 86146,
+            "url": "https://www.tvmaze.com/characters/86146/nypd-blue-lt-thomas-bale",
+            "name": "Lt. Thomas Bale",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11783.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11783.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86146"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 45778,
+            "url": "https://www.tvmaze.com/people/45778/bonnie-somerville",
+            "name": "Bonnie Somerville",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1974-02-24",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/13589.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/13589.jpg"
+            },
+            "updated": 1670067276,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/45778"
+                }
+            }
+        },
+        "character": {
+            "id": 86147,
+            "url": "https://www.tvmaze.com/characters/86147/nypd-blue-det-laura-murphy",
+            "name": "Det. Laura Murphy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11796.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11796.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86147"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 13062,
+            "url": "https://www.tvmaze.com/people/13062/andrea-thompson",
+            "name": "Andrea Thompson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1960-01-06",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9658.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9658.jpg"
+            },
+            "updated": 1664129889,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/13062"
+                }
+            }
+        },
+        "character": {
+            "id": 86137,
+            "url": "https://www.tvmaze.com/characters/86137/nypd-blue-det-jill-kirkendall",
+            "name": "Det. Jill Kirkendall",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11786.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11786.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86137"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 13869,
+            "url": "https://www.tvmaze.com/people/13869/esai-morales",
+            "name": "Esai Morales",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-10-01",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9243.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9243.jpg"
+            },
+            "updated": 1661193266,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/13869"
+                }
+            }
+        },
+        "character": {
+            "id": 86143,
+            "url": "https://www.tvmaze.com/characters/86143/nypd-blue-lt-tony-rodriguez",
+            "name": "Lt. Tony Rodriguez",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11785.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11785.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86143"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 30711,
+            "url": "https://www.tvmaze.com/people/30711/rick-schroder",
+            "name": "Rick Schroder",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1970-04-13",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/13576.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/13576.jpg"
+            },
+            "updated": 1683554187,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/30711"
+                }
+            }
+        },
+        "character": {
+            "id": 86138,
+            "url": "https://www.tvmaze.com/characters/86138/nypd-blue-det-danny-sorenson",
+            "name": "Det. Danny Sorenson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11792.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11792.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86138"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

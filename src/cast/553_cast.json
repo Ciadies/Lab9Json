@@ -1,0 +1,412 @@
+[
+    {
+        "person": {
+            "id": 41240,
+            "url": "https://www.tvmaze.com/people/41240/george-wendt",
+            "name": "George Wendt",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1948-10-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/136/342277.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/136/342277.jpg"
+            },
+            "updated": 1672324332,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/41240"
+                }
+            }
+        },
+        "character": {
+            "id": 85906,
+            "url": "https://www.tvmaze.com/characters/85906/cheers-norm-peterson",
+            "name": "Norm Peterson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11601.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11601.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85906"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 24193,
+            "url": "https://www.tvmaze.com/people/24193/john-ratzenberger",
+            "name": "John Ratzenberger",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1947-04-06",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/32/80731.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/32/80731.jpg"
+            },
+            "updated": 1674743968,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/24193"
+                }
+            }
+        },
+        "character": {
+            "id": 85907,
+            "url": "https://www.tvmaze.com/characters/85907/cheers-cliff-clavin",
+            "name": "Cliff Clavin",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11607.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11607.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85907"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11215,
+            "url": "https://www.tvmaze.com/people/11215/rhea-perlman",
+            "name": "Rhea Perlman",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1948-03-31",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11011.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11011.jpg"
+            },
+            "updated": 1686882414,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11215"
+                }
+            }
+        },
+        "character": {
+            "id": 85905,
+            "url": "https://www.tvmaze.com/characters/85905/cheers-carla-lozupone-tortelli-lebec",
+            "name": "Carla Lozupone Tortelli LeBec",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11603.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11603.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85905"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 21355,
+            "url": "https://www.tvmaze.com/people/21355/ted-danson",
+            "name": "Ted Danson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1947-12-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/242/605148.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605148.jpg"
+            },
+            "updated": 1683934836,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/21355"
+                }
+            }
+        },
+        "character": {
+            "id": 85902,
+            "url": "https://www.tvmaze.com/characters/85902/cheers-sam-malone",
+            "name": "Sam Malone",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11600.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11600.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85902"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 40598,
+            "url": "https://www.tvmaze.com/people/40598/kelsey-grammer",
+            "name": "Kelsey Grammer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1955-02-21",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/461/1154631.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/461/1154631.jpg"
+            },
+            "updated": 1684478580,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/40598"
+                }
+            }
+        },
+        "character": {
+            "id": 85909,
+            "url": "https://www.tvmaze.com/characters/85909/cheers-dr-frasier-w-crane",
+            "name": "Dr. Frasier W. Crane",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11609.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11609.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85909"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 673,
+            "url": "https://www.tvmaze.com/people/673/woody-harrelson",
+            "name": "Woody Harrelson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-07-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/4450.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/4450.jpg"
+            },
+            "updated": 1687898374,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/673"
+                }
+            }
+        },
+        "character": {
+            "id": 85910,
+            "url": "https://www.tvmaze.com/characters/85910/cheers-woodrow-tiberius-woody-boyd",
+            "name": "Woodrow Tiberius \"Woody\" Boyd",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11602.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11602.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85910"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 41263,
+            "url": "https://www.tvmaze.com/people/41263/kirstie-alley",
+            "name": "Kirstie Alley",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1951-01-12",
+            "deathday": "2022-12-05",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/25/64187.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/25/64187.jpg"
+            },
+            "updated": 1670829863,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/41263"
+                }
+            }
+        },
+        "character": {
+            "id": 85911,
+            "url": "https://www.tvmaze.com/characters/85911/cheers-rebecca-howe",
+            "name": "Rebecca Howe",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11606.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11606.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85911"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 12034,
+            "url": "https://www.tvmaze.com/people/12034/shelley-long",
+            "name": "Shelley Long",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1949-08-23",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/70/175210.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175210.jpg"
+            },
+            "updated": 1686325854,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/12034"
+                }
+            }
+        },
+        "character": {
+            "id": 85903,
+            "url": "https://www.tvmaze.com/characters/85903/cheers-diane-chambers",
+            "name": "Diane Chambers",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11605.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11605.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85903"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6900,
+            "url": "https://www.tvmaze.com/people/6900/bebe-neuwirth",
+            "name": "Bebe Neuwirth",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1958-12-31",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/162/406951.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/162/406951.jpg"
+            },
+            "updated": 1687133831,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6900"
+                }
+            }
+        },
+        "character": {
+            "id": 85912,
+            "url": "https://www.tvmaze.com/characters/85912/cheers-dr-lilith-sternin-crane",
+            "name": "Dr. Lilith Sternin-Crane",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/96/241432.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/96/241432.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85912"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49177,
+            "url": "https://www.tvmaze.com/people/49177/nicholas-colasanto",
+            "name": "Nicholas Colasanto",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1924-01-19",
+            "deathday": "1985-02-12",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/33/84045.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/33/84045.jpg"
+            },
+            "updated": 1677148815,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49177"
+                }
+            }
+        },
+        "character": {
+            "id": 85904,
+            "url": "https://www.tvmaze.com/characters/85904/cheers-ernie-coach-pantusso",
+            "name": "Ernie \"Coach\" Pantusso",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11608.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11608.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85904"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

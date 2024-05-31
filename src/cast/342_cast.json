@@ -1,0 +1,43 @@
+[
+    {
+        "person": {
+            "id": 31982,
+            "url": "https://www.tvmaze.com/people/31982/louis-ck",
+            "name": "Louis C.K.",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1967-09-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/30655.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/30655.jpg"
+            },
+            "updated": 1687053267,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/31982"
+                }
+            }
+        },
+        "character": {
+            "id": 132553,
+            "url": "https://www.tvmaze.com/characters/132553/louie-louis-ck",
+            "name": "Louis C.K.",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/139/348073.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/139/348073.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/132553"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

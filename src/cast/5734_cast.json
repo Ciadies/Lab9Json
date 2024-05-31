@@ -1,0 +1,248 @@
+[
+    {
+        "person": {
+            "id": 10207,
+            "url": "https://www.tvmaze.com/people/10207/bob-newhart",
+            "name": "Bob Newhart",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1929-09-05",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10537.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10537.jpg"
+            },
+            "updated": 1684586538,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/10207"
+                }
+            }
+        },
+        "character": {
+            "id": 182130,
+            "url": "https://www.tvmaze.com/characters/182130/the-bob-newhart-show-dr-robert-bob-hartley",
+            "name": "Dr. Robert 'Bob' Hartley",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/57189.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/57189.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/182130"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 59507,
+            "url": "https://www.tvmaze.com/people/59507/suzanne-pleshette",
+            "name": "Suzanne Pleshette",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1937-01-31",
+            "deathday": "2008-01-19",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/49/123222.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/49/123222.jpg"
+            },
+            "updated": 1682771111,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/59507"
+                }
+            }
+        },
+        "character": {
+            "id": 182131,
+            "url": "https://www.tvmaze.com/characters/182131/the-bob-newhart-show-emily-hartley",
+            "name": "Emily Hartley",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/57190.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/57190.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/182131"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 61737,
+            "url": "https://www.tvmaze.com/people/61737/bill-daily",
+            "name": "Bill Daily",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1927-08-30",
+            "deathday": "2018-09-04",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/11/28705.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/28705.jpg"
+            },
+            "updated": 1686289412,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/61737"
+                }
+            }
+        },
+        "character": {
+            "id": 182135,
+            "url": "https://www.tvmaze.com/characters/182135/the-bob-newhart-show-howard-borden",
+            "name": "Howard Borden",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/413/1033065.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/413/1033065.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/182135"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 34650,
+            "url": "https://www.tvmaze.com/people/34650/marcia-wallace",
+            "name": "Marcia Wallace",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1942-11-01",
+            "deathday": "2013-10-25",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25160.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25160.jpg"
+            },
+            "updated": 1684875622,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/34650"
+                }
+            }
+        },
+        "character": {
+            "id": 182133,
+            "url": "https://www.tvmaze.com/characters/182133/the-bob-newhart-show-carol-kester",
+            "name": "Carol Kester",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/57192.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/57192.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/182133"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 32155,
+            "url": "https://www.tvmaze.com/people/32155/peter-bonerz",
+            "name": "Peter Bonerz",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1938-08-06",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/90/226212.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/90/226212.jpg"
+            },
+            "updated": 1664679401,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/32155"
+                }
+            }
+        },
+        "character": {
+            "id": 182134,
+            "url": "https://www.tvmaze.com/characters/182134/the-bob-newhart-show-dr-jerry-robinson",
+            "name": "Dr. Jerry Robinson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/413/1033064.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/413/1033064.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/182134"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 43696,
+            "url": "https://www.tvmaze.com/people/43696/jack-riley",
+            "name": "Jack Riley",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1935-12-30",
+            "deathday": "2016-08-19",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10342.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10342.jpg"
+            },
+            "updated": 1660675534,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/43696"
+                }
+            }
+        },
+        "character": {
+            "id": 182132,
+            "url": "https://www.tvmaze.com/characters/182132/the-bob-newhart-show-elliot-carlin",
+            "name": "Elliot Carlin",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/57191.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/57191.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/182132"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

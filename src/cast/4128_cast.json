@@ -1,0 +1,40 @@
+[
+    {
+        "person": {
+            "id": 87708,
+            "url": "https://www.tvmaze.com/people/87708/dave-chappelle",
+            "name": "Dave Chappelle",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1973-08-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/282/705084.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/282/705084.jpg"
+            },
+            "updated": 1680091225,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/87708"
+                }
+            }
+        },
+        "character": {
+            "id": 802760,
+            "url": "https://www.tvmaze.com/characters/802760/chappelles-show-various",
+            "name": "Various",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/802760"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

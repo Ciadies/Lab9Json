@@ -1,0 +1,502 @@
+[
+    {
+        "person": {
+            "id": 44247,
+            "url": "https://www.tvmaze.com/people/44247/bj-porter",
+            "name": "B.J. Porter",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1970-05-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/13/34769.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/13/34769.jpg"
+            },
+            "updated": 1671251568,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/44247"
+                }
+            }
+        },
+        "character": {
+            "id": 150783,
+            "url": "https://www.tvmaze.com/characters/150783/mr-show-featured-player",
+            "name": "Featured Player",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/150783"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 21268,
+            "url": "https://www.tvmaze.com/people/21268/bob-odenkirk",
+            "name": "Bob Odenkirk",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-10-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/54/136764.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/54/136764.jpg"
+            },
+            "updated": 1687640562,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/21268"
+                }
+            }
+        },
+        "character": {
+            "id": 150784,
+            "url": "https://www.tvmaze.com/characters/150784/mr-show-host",
+            "name": "Host",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/13/34455.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/13/34455.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/150784"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 21268,
+            "url": "https://www.tvmaze.com/people/21268/bob-odenkirk",
+            "name": "Bob Odenkirk",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-10-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/54/136764.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/54/136764.jpg"
+            },
+            "updated": 1687640562,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/21268"
+                }
+            }
+        },
+        "character": {
+            "id": 150785,
+            "url": "https://www.tvmaze.com/characters/150785/mr-show-regular",
+            "name": "Regular",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/150785"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 8181,
+            "url": "https://www.tvmaze.com/people/8181/brian-posehn",
+            "name": "Brian Posehn",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-07-06",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/12234.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/12234.jpg"
+            },
+            "updated": 1679399719,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/8181"
+                }
+            }
+        },
+        "character": {
+            "id": 150786,
+            "url": "https://www.tvmaze.com/characters/150786/mr-show-featured-player",
+            "name": "Featured Player",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/150786"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 12175,
+            "url": "https://www.tvmaze.com/people/12175/david-cross",
+            "name": "David Cross",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-04",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10150.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10150.jpg"
+            },
+            "updated": 1687132506,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/12175"
+                }
+            }
+        },
+        "character": {
+            "id": 150787,
+            "url": "https://www.tvmaze.com/characters/150787/mr-show-host",
+            "name": "Host",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/223/557927.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/223/557927.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/150787"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 12175,
+            "url": "https://www.tvmaze.com/people/12175/david-cross",
+            "name": "David Cross",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-04",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10150.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10150.jpg"
+            },
+            "updated": 1687132506,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/12175"
+                }
+            }
+        },
+        "character": {
+            "id": 150788,
+            "url": "https://www.tvmaze.com/characters/150788/mr-show-regular",
+            "name": "Regular",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/150788"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 51116,
+            "url": "https://www.tvmaze.com/people/51116/jill-talley",
+            "name": "Jill Talley",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-12-19",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/16047.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/16047.jpg"
+            },
+            "updated": 1687042828,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/51116"
+                }
+            }
+        },
+        "character": {
+            "id": 150789,
+            "url": "https://www.tvmaze.com/characters/150789/mr-show-regular",
+            "name": "Regular",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/150789"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 36710,
+            "url": "https://www.tvmaze.com/people/36710/john-ennis",
+            "name": "John Ennis",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-05-06",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/13/34770.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/13/34770.jpg"
+            },
+            "updated": 1654041275,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/36710"
+                }
+            }
+        },
+        "character": {
+            "id": 150790,
+            "url": "https://www.tvmaze.com/characters/150790/mr-show-regular",
+            "name": "Regular",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/150790"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 21182,
+            "url": "https://www.tvmaze.com/people/21182/paul-f-tompkins",
+            "name": "Paul F. Tompkins",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-09-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/175/439661.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/175/439661.jpg"
+            },
+            "updated": 1688981450,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/21182"
+                }
+            }
+        },
+        "character": {
+            "id": 150791,
+            "url": "https://www.tvmaze.com/characters/150791/mr-show-featured-player",
+            "name": "Featured Player",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/150791"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20458,
+            "url": "https://www.tvmaze.com/people/20458/sarah-silverman",
+            "name": "Sarah Silverman",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1970-12-01",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/117/294978.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/117/294978.jpg"
+            },
+            "updated": 1685543933,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20458"
+                }
+            }
+        },
+        "character": {
+            "id": 150792,
+            "url": "https://www.tvmaze.com/characters/150792/mr-show-featured-player",
+            "name": "Featured Player",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/150792"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 23745,
+            "url": "https://www.tvmaze.com/people/23745/scott-adsit",
+            "name": "Scott Adsit",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-11-26",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/17985.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/17985.jpg"
+            },
+            "updated": 1687136667,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/23745"
+                }
+            }
+        },
+        "character": {
+            "id": 150793,
+            "url": "https://www.tvmaze.com/characters/150793/mr-show-featured-player",
+            "name": "Featured Player",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/150793"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 27118,
+            "url": "https://www.tvmaze.com/people/27118/tom-kenny",
+            "name": "Tom Kenny",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-07-13",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/449/1123850.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/449/1123850.jpg"
+            },
+            "updated": 1688991986,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/27118"
+                }
+            }
+        },
+        "character": {
+            "id": 150794,
+            "url": "https://www.tvmaze.com/characters/150794/mr-show-regular",
+            "name": "Regular",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/150794"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 27118,
+            "url": "https://www.tvmaze.com/people/27118/tom-kenny",
+            "name": "Tom Kenny",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-07-13",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/449/1123850.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/449/1123850.jpg"
+            },
+            "updated": 1688991986,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/27118"
+                }
+            }
+        },
+        "character": {
+            "id": 150795,
+            "url": "https://www.tvmaze.com/characters/150795/mr-show-featured",
+            "name": "Featured",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/150795"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

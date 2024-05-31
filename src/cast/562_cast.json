@@ -1,0 +1,1355 @@
+[
+    {
+        "person": {
+            "id": 18448,
+            "url": "https://www.tvmaze.com/people/18448/sam-waterston",
+            "name": "Sam Waterston",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1940-11-15",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/161/402981.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/161/402981.jpg"
+            },
+            "updated": 1688623825,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18448"
+                }
+            }
+        },
+        "character": {
+            "id": 86024,
+            "url": "https://www.tvmaze.com/characters/86024/law-order-district-attorney-jack-mccoy",
+            "name": "District Attorney Jack McCoy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/395/989028.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/395/989028.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86024"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20752,
+            "url": "https://www.tvmaze.com/people/20752/s-epatha-merkerson",
+            "name": "S. Epatha Merkerson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1952-11-28",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/285/713921.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/285/713921.jpg"
+            },
+            "updated": 1684973516,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20752"
+                }
+            }
+        },
+        "character": {
+            "id": 86019,
+            "url": "https://www.tvmaze.com/characters/86019/law-order-lieutenant-anita-van-buren",
+            "name": "Lieutenant Anita Van Buren",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/285/713922.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/285/713922.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86019"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18259,
+            "url": "https://www.tvmaze.com/people/18259/jerry-orbach",
+            "name": "Jerry Orbach",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1935-10-20",
+            "deathday": "2004-12-28",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/162/406935.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/162/406935.jpg"
+            },
+            "updated": 1661689734,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18259"
+                }
+            }
+        },
+        "character": {
+            "id": 86009,
+            "url": "https://www.tvmaze.com/characters/86009/law-order-detective-leonard-w-lennie-briscoe",
+            "name": "Detective Leonard W. \"Lennie\" Briscoe",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11693.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11693.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86009"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18452,
+            "url": "https://www.tvmaze.com/people/18452/steven-hill",
+            "name": "Steven Hill",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1922-02-24",
+            "deathday": "2016-08-23",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/47791.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/47791.jpg"
+            },
+            "updated": 1683192619,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18452"
+                }
+            }
+        },
+        "character": {
+            "id": 86030,
+            "url": "https://www.tvmaze.com/characters/86030/law-order-district-attorney-adam-schiff",
+            "name": "District Attorney Adam Schiff",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11701.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11701.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86030"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 2568,
+            "url": "https://www.tvmaze.com/people/2568/jesse-l-martin",
+            "name": "Jesse L. Martin",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1969-01-18",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6036.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6036.jpg"
+            },
+            "updated": 1684599603,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/2568"
+                }
+            }
+        },
+        "character": {
+            "id": 86011,
+            "url": "https://www.tvmaze.com/characters/86011/law-order-detective-edward-eddie-green",
+            "name": "Detective Edward \"Eddie\" Green",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11710.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11710.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86011"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19848,
+            "url": "https://www.tvmaze.com/people/19848/fred-dalton-thompson",
+            "name": "Fred Dalton Thompson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1942-08-19",
+            "deathday": "2015-11-01",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/17/44057.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/17/44057.jpg"
+            },
+            "updated": 1661717765,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19848"
+                }
+            }
+        },
+        "character": {
+            "id": 86032,
+            "url": "https://www.tvmaze.com/characters/86032/law-order-district-attorney-arthur-branch",
+            "name": "District Attorney Arthur Branch",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/420/1050847.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/420/1050847.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86032"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18128,
+            "url": "https://www.tvmaze.com/people/18128/chris-noth",
+            "name": "Chris Noth",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1954-11-13",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2739.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2739.jpg"
+            },
+            "updated": 1679759318,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18128"
+                }
+            }
+        },
+        "character": {
+            "id": 86013,
+            "url": "https://www.tvmaze.com/characters/86013/law-order-detective-mike-logan",
+            "name": "Detective Mike Logan",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11704.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11704.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86013"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 12049,
+            "url": "https://www.tvmaze.com/people/12049/benjamin-bratt",
+            "name": "Benjamin Bratt",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-12-16",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2377.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2377.jpg"
+            },
+            "updated": 1687551013,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/12049"
+                }
+            }
+        },
+        "character": {
+            "id": 86014,
+            "url": "https://www.tvmaze.com/characters/86014/law-order-detective-reynaldo-rey-curtis",
+            "name": "Detective Reynaldo \"Rey\" Curtis",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11702.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11702.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86014"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49228,
+            "url": "https://www.tvmaze.com/people/49228/michael-moriarty",
+            "name": "Michael Moriarty",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1941-04-05",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/31777.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/31777.jpg"
+            },
+            "updated": 1644781501,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49228"
+                }
+            }
+        },
+        "character": {
+            "id": 86020,
+            "url": "https://www.tvmaze.com/characters/86020/law-order-executive-ada-benjamin-stone",
+            "name": "Executive A.D.A. Benjamin Stone",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/48457.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/48457.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86020"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6803,
+            "url": "https://www.tvmaze.com/people/6803/alana-de-la-garza",
+            "name": "Alana De La Garza",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1976-06-18",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/3868.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3868.jpg"
+            },
+            "updated": 1684940659,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6803"
+                }
+            }
+        },
+        "character": {
+            "id": 86023,
+            "url": "https://www.tvmaze.com/characters/86023/law-order-assistant-da-connie-rubirosa",
+            "name": "Assistant D.A. Connie Rubirosa",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11698.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11698.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86023"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 25298,
+            "url": "https://www.tvmaze.com/people/25298/elisabeth-rohm",
+            "name": "Elisabeth R\u00f6hm",
+            "country": {
+                "name": "Germany",
+                "code": "DE",
+                "timezone": "Europe/Busingen"
+            },
+            "birthday": "1973-04-28",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/3860.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3860.jpg"
+            },
+            "updated": 1679517788,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25298"
+                }
+            }
+        },
+        "character": {
+            "id": 86028,
+            "url": "https://www.tvmaze.com/characters/86028/law-order-assistant-da-serena-southerlyn",
+            "name": "Assistant D.A. Serena Southerlyn",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/48453.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/48453.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86028"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18183,
+            "url": "https://www.tvmaze.com/people/18183/dann-florek",
+            "name": "Dann Florek",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1950-05-01",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/264/660451.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/264/660451.jpg"
+            },
+            "updated": 1676834457,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18183"
+                }
+            }
+        },
+        "character": {
+            "id": 86018,
+            "url": "https://www.tvmaze.com/characters/86018/law-order-captain-donald-cragen",
+            "name": "Captain Donald Cragen",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11706.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11706.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86018"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18225,
+            "url": "https://www.tvmaze.com/people/18225/angie-harmon",
+            "name": "Angie Harmon",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1972-08-10",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10394.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10394.jpg"
+            },
+            "updated": 1682555657,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18225"
+                }
+            }
+        },
+        "character": {
+            "id": 86027,
+            "url": "https://www.tvmaze.com/characters/86027/law-order-assistant-da-abbie-carmichael",
+            "name": "Assistant D.A. Abbie Carmichael",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11709.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11709.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86027"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 8363,
+            "url": "https://www.tvmaze.com/people/8363/richard-brooks",
+            "name": "Richard Brooks",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-12-09",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/192/482313.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/192/482313.jpg"
+            },
+            "updated": 1682687381,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/8363"
+                }
+            }
+        },
+        "character": {
+            "id": 86022,
+            "url": "https://www.tvmaze.com/characters/86022/law-order-paul-robinette",
+            "name": "Paul Robinette",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/354/885624.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/354/885624.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86022"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 21043,
+            "url": "https://www.tvmaze.com/people/21043/jill-hennessy",
+            "name": "Jill Hennessy",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1968-11-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/9/22681.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22681.jpg"
+            },
+            "updated": 1674289168,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/21043"
+                }
+            }
+        },
+        "character": {
+            "id": 86025,
+            "url": "https://www.tvmaze.com/characters/86025/law-order-assistant-da-claire-kincaid",
+            "name": "Assistant D.A. Claire Kincaid",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/191/479663.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/191/479663.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86025"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18258,
+            "url": "https://www.tvmaze.com/people/18258/carolyn-mccormick",
+            "name": "Carolyn McCormick",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1959-09-19",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/266/666653.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/266/666653.jpg"
+            },
+            "updated": 1596170102,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18258"
+                }
+            }
+        },
+        "character": {
+            "id": 900063,
+            "url": "https://www.tvmaze.com/characters/900063/law-order-dr-elizabeth-olivet",
+            "name": "Dr. Elizabeth Olivet",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/353/884574.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/353/884574.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/900063"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 141196,
+            "url": "https://www.tvmaze.com/people/141196/jeremy-sisto",
+            "name": "Jeremy Sisto",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1974-10-06",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/171/429920.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/171/429920.jpg"
+            },
+            "updated": 1682136183,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/141196"
+                }
+            }
+        },
+        "character": {
+            "id": 86012,
+            "url": "https://www.tvmaze.com/characters/86012/law-order-detective-cyrus-lupo",
+            "name": "Detective Cyrus Lupo",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11700.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11700.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86012"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5526,
+            "url": "https://www.tvmaze.com/people/5526/linus-roache",
+            "name": "Linus Roache",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1964-02-01",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/52/130199.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/52/130199.jpg"
+            },
+            "updated": 1671234478,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5526"
+                }
+            }
+        },
+        "character": {
+            "id": 86021,
+            "url": "https://www.tvmaze.com/characters/86021/law-order-executive-ada-michael-cutter",
+            "name": "Executive A.D.A. Michael Cutter",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11695.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11695.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86021"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 7695,
+            "url": "https://www.tvmaze.com/people/7695/anthony-anderson",
+            "name": "Anthony Anderson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1970-08-15",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10691.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10691.jpg"
+            },
+            "updated": 1688044957,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/7695"
+                }
+            }
+        },
+        "character": {
+            "id": 86017,
+            "url": "https://www.tvmaze.com/characters/86017/law-order-detective-kevin-bernard",
+            "name": "Detective Kevin Bernard",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/395/989029.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/395/989029.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86017"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18067,
+            "url": "https://www.tvmaze.com/people/18067/carey-lowell",
+            "name": "Carey Lowell",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-02-11",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/47788.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/47788.jpg"
+            },
+            "updated": 1645759224,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18067"
+                }
+            }
+        },
+        "character": {
+            "id": 86026,
+            "url": "https://www.tvmaze.com/characters/86026/law-order-jamie-ross",
+            "name": "Jamie Ross",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11699.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11699.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86026"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 7977,
+            "url": "https://www.tvmaze.com/people/7977/dennis-farina",
+            "name": "Dennis Farina",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1944-02-29",
+            "deathday": "2013-07-22",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/9/22677.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/22677.jpg"
+            },
+            "updated": 1644785115,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/7977"
+                }
+            }
+        },
+        "character": {
+            "id": 86010,
+            "url": "https://www.tvmaze.com/characters/86010/law-order-detective-joe-fontana",
+            "name": "Detective Joe Fontana",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11707.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11707.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86010"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19145,
+            "url": "https://www.tvmaze.com/people/19145/dianne-wiest",
+            "name": "Dianne Wiest",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1948-03-28",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/20981.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/20981.jpg"
+            },
+            "updated": 1679753228,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19145"
+                }
+            }
+        },
+        "character": {
+            "id": 86031,
+            "url": "https://www.tvmaze.com/characters/86031/law-order-district-attorney-nora-lewin",
+            "name": "District Attorney Nora Lewin",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/354/885625.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/354/885625.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86031"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 15475,
+            "url": "https://www.tvmaze.com/people/15475/annie-parisse",
+            "name": "Annie Parisse",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1975-07-31",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/148/371638.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/148/371638.jpg"
+            },
+            "updated": 1650848581,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/15475"
+                }
+            }
+        },
+        "character": {
+            "id": 86029,
+            "url": "https://www.tvmaze.com/characters/86029/law-order-assistant-da-alexandra-borgia",
+            "name": "Assistant D.A. Alexandra Borgia",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/354/885615.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/354/885615.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86029"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49761,
+            "url": "https://www.tvmaze.com/people/49761/jeffrey-donovan",
+            "name": "Jeffrey Donovan",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-05-11",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350848.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350848.jpg"
+            },
+            "updated": 1684498365,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49761"
+                }
+            }
+        },
+        "character": {
+            "id": 925992,
+            "url": "https://www.tvmaze.com/characters/925992/law-order-detective-frank-cosgrove",
+            "name": "Detective Frank Cosgrove",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/395/989030.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/395/989030.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/925992"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 33433,
+            "url": "https://www.tvmaze.com/people/33433/hugh-dancy",
+            "name": "Hugh Dancy",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1975-06-19",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/145/363261.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/145/363261.jpg"
+            },
+            "updated": 1684498365,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/33433"
+                }
+            }
+        },
+        "character": {
+            "id": 931275,
+            "url": "https://www.tvmaze.com/characters/931275/law-order-assistant-district-attorney-nolan-price",
+            "name": "Assistant District Attorney Nolan Price",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/395/989037.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/395/989037.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/931275"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 13846,
+            "url": "https://www.tvmaze.com/people/13846/camryn-manheim",
+            "name": "Camryn Manheim",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-03-08",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2627.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2627.jpg"
+            },
+            "updated": 1684965907,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/13846"
+                }
+            }
+        },
+        "character": {
+            "id": 937138,
+            "url": "https://www.tvmaze.com/characters/937138/law-order-lieutenant-kate-dixon",
+            "name": "Lieutenant Kate Dixon",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/395/989036.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/395/989036.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/937138"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 62574,
+            "url": "https://www.tvmaze.com/people/62574/odelya-halevi",
+            "name": "Odelya Halevi",
+            "country": {
+                "name": "Israel",
+                "code": "IL",
+                "timezone": "Asia/Jerusalem"
+            },
+            "birthday": "1989-02-12",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/397/993735.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/397/993735.jpg"
+            },
+            "updated": 1684498365,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/62574"
+                }
+            }
+        },
+        "character": {
+            "id": 938975,
+            "url": "https://www.tvmaze.com/characters/938975/law-order-assistant-district-attorney-samantha-maroun",
+            "name": "Assistant District Attorney Samantha Maroun",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/395/989034.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/395/989034.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/938975"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 27300,
+            "url": "https://www.tvmaze.com/people/27300/paul-sorvino",
+            "name": "Paul Sorvino",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1939-04-13",
+            "deathday": "2022-07-25",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/47787.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/47787.jpg"
+            },
+            "updated": 1671778012,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/27300"
+                }
+            }
+        },
+        "character": {
+            "id": 86008,
+            "url": "https://www.tvmaze.com/characters/86008/law-order-sergeant-phil-cerreta",
+            "name": "Sergeant Phil Cerreta",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/48459.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/48459.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86008"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 34626,
+            "url": "https://www.tvmaze.com/people/34626/george-dzundza",
+            "name": "George Dzundza",
+            "country": {
+                "name": "Germany",
+                "code": "DE",
+                "timezone": "Europe/Busingen"
+            },
+            "birthday": "1945-07-19",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/47784.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/47784.jpg"
+            },
+            "updated": 1644780611,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/34626"
+                }
+            }
+        },
+        "character": {
+            "id": 86007,
+            "url": "https://www.tvmaze.com/characters/86007/law-order-sergeant-max-greevey",
+            "name": "Sergeant Max Greevey",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/48460.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/48460.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86007"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49227,
+            "url": "https://www.tvmaze.com/people/49227/milena-govich",
+            "name": "Milena Govich",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1976-10-29",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/190/476951.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476951.jpg"
+            },
+            "updated": 1683251648,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49227"
+                }
+            }
+        },
+        "character": {
+            "id": 86016,
+            "url": "https://www.tvmaze.com/characters/86016/law-order-detective-nina-cassady",
+            "name": "Detective Nina Cassady",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11705.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11705.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86016"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 4950,
+            "url": "https://www.tvmaze.com/people/4950/mehcad-brooks",
+            "name": "Mehcad Brooks",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1980-10-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/412/1032281.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/412/1032281.jpg"
+            },
+            "updated": 1684498365,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/4950"
+                }
+            }
+        },
+        "character": {
+            "id": 1019276,
+            "url": "https://www.tvmaze.com/characters/1019276/law-order-detective-jalen-shaw",
+            "name": "Detective Jalen Shaw",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/426/1066350.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/426/1066350.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/1019276"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 14745,
+            "url": "https://www.tvmaze.com/people/14745/michael-imperioli",
+            "name": "Michael Imperioli",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-03-26",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18019.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18019.jpg"
+            },
+            "updated": 1684422928,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14745"
+                }
+            }
+        },
+        "character": {
+            "id": 86015,
+            "url": "https://www.tvmaze.com/characters/86015/law-order-detective-nick-falco",
+            "name": "Detective Nick Falco",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11708.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11708.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/86015"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19233,
+            "url": "https://www.tvmaze.com/people/19233/roy-thinnes",
+            "name": "Roy Thinnes",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1938-04-06",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/16/40695.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/16/40695.jpg"
+            },
+            "updated": 1677211859,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19233"
+                }
+            }
+        },
+        "character": {
+            "id": 958483,
+            "url": "https://www.tvmaze.com/characters/958483/law-order-district-attorney-alfred-wentworth",
+            "name": "District Attorney Alfred Wentworth",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/396/990047.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/396/990047.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/958483"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

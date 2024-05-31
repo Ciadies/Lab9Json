@@ -1,0 +1,166 @@
+[
+    {
+        "person": {
+            "id": 85927,
+            "url": "https://www.tvmaze.com/people/85927/jackie-gleason",
+            "name": "Jackie Gleason",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1916-02-26",
+            "deathday": "1987-06-24",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/92/230634.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/92/230634.jpg"
+            },
+            "updated": 1681930452,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/85927"
+                }
+            }
+        },
+        "character": {
+            "id": 170474,
+            "url": "https://www.tvmaze.com/characters/170474/the-honeymooners-ralph-kramden",
+            "name": "Ralph Kramden",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/48083.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/48083.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/170474"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 85928,
+            "url": "https://www.tvmaze.com/people/85928/art-carney",
+            "name": "Art Carney",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1918-11-04",
+            "deathday": "2003-11-09",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/78/195388.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/78/195388.jpg"
+            },
+            "updated": 1686108831,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/85928"
+                }
+            }
+        },
+        "character": {
+            "id": 170475,
+            "url": "https://www.tvmaze.com/characters/170475/the-honeymooners-ed-norton",
+            "name": "Ed Norton",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/48084.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/48084.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/170475"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 53508,
+            "url": "https://www.tvmaze.com/people/53508/audrey-meadows",
+            "name": "Audrey Meadows",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1922-02-08",
+            "deathday": "1996-02-06",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/95/237661.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/95/237661.jpg"
+            },
+            "updated": 1681990948,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/53508"
+                }
+            }
+        },
+        "character": {
+            "id": 170476,
+            "url": "https://www.tvmaze.com/characters/170476/the-honeymooners-alice-kramden",
+            "name": "Alice Kramden",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/48085.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/48085.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/170476"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 85929,
+            "url": "https://www.tvmaze.com/people/85929/joyce-randolph",
+            "name": "Joyce Randolph",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1924-10-21",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/36/90362.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/36/90362.jpg"
+            },
+            "updated": 1648504776,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/85929"
+                }
+            }
+        },
+        "character": {
+            "id": 170477,
+            "url": "https://www.tvmaze.com/characters/170477/the-honeymooners-trixie-norton",
+            "name": "Trixie Norton",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/48086.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/48086.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/170477"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

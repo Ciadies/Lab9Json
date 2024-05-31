@@ -1,0 +1,617 @@
+[
+    {
+        "person": {
+            "id": 35111,
+            "url": "https://www.tvmaze.com/people/35111/kyle-chandler",
+            "name": "Kyle Chandler",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-09-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18082.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18082.jpg"
+            },
+            "updated": 1684841520,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/35111"
+                }
+            }
+        },
+        "character": {
+            "id": 88159,
+            "url": "https://www.tvmaze.com/characters/88159/friday-night-lights-eric-taylor",
+            "name": "Eric Taylor",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15438.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15438.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88159"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5853,
+            "url": "https://www.tvmaze.com/people/5853/connie-britton",
+            "name": "Connie Britton",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1967-03-06",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1210.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1210.jpg"
+            },
+            "updated": 1682351915,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5853"
+                }
+            }
+        },
+        "character": {
+            "id": 88160,
+            "url": "https://www.tvmaze.com/characters/88160/friday-night-lights-tami-taylor",
+            "name": "Tami Taylor",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15437.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15437.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88160"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 23853,
+            "url": "https://www.tvmaze.com/people/23853/aimee-teegarden",
+            "name": "Aimee Teegarden",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1989-10-10",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/178/445439.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/178/445439.jpg"
+            },
+            "updated": 1684871492,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/23853"
+                }
+            }
+        },
+        "character": {
+            "id": 88161,
+            "url": "https://www.tvmaze.com/characters/88161/friday-night-lights-julie-taylor",
+            "name": "Julie Taylor",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15443.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15443.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88161"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50491,
+            "url": "https://www.tvmaze.com/people/50491/taylor-kitsch",
+            "name": "Taylor Kitsch",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1981-04-08",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/433/1084212.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/433/1084212.jpg"
+            },
+            "updated": 1685196110,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50491"
+                }
+            }
+        },
+        "character": {
+            "id": 88167,
+            "url": "https://www.tvmaze.com/characters/88167/friday-night-lights-tim-riggins",
+            "name": "Tim Riggins",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15441.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15441.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88167"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 21125,
+            "url": "https://www.tvmaze.com/people/21125/zach-gilford",
+            "name": "Zach Gilford",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1982-01-14",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18086.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18086.jpg"
+            },
+            "updated": 1675949664,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/21125"
+                }
+            }
+        },
+        "character": {
+            "id": 88169,
+            "url": "https://www.tvmaze.com/characters/88169/friday-night-lights-matt-saracen",
+            "name": "Matt Saracen",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15447.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15447.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88169"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 8813,
+            "url": "https://www.tvmaze.com/people/8813/jesse-plemons",
+            "name": "Jesse Plemons",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1988-04-02",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/137/343720.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/137/343720.jpg"
+            },
+            "updated": 1685020246,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/8813"
+                }
+            }
+        },
+        "character": {
+            "id": 88168,
+            "url": "https://www.tvmaze.com/characters/88168/friday-night-lights-landry-clarke",
+            "name": "Landry Clarke",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15452.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15452.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88168"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 16351,
+            "url": "https://www.tvmaze.com/people/16351/minka-kelly",
+            "name": "Minka Kelly",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1980-06-24",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7992.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7992.jpg"
+            },
+            "updated": 1683199980,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/16351"
+                }
+            }
+        },
+        "character": {
+            "id": 88171,
+            "url": "https://www.tvmaze.com/characters/88171/friday-night-lights-lyla-garrity",
+            "name": "Lyla Garrity",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15450.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15450.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88171"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 3386,
+            "url": "https://www.tvmaze.com/people/3386/adrianne-palicki",
+            "name": "Adrianne Palicki",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1983-05-06",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1885.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1885.jpg"
+            },
+            "updated": 1669131502,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/3386"
+                }
+            }
+        },
+        "character": {
+            "id": 88170,
+            "url": "https://www.tvmaze.com/characters/88170/friday-night-lights-tyra-collette",
+            "name": "Tyra Collette",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15451.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15451.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88170"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 8897,
+            "url": "https://www.tvmaze.com/people/8897/gaius-charles",
+            "name": "Gaius Charles",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1983-05-02",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/187/468904.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/187/468904.jpg"
+            },
+            "updated": 1688728088,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/8897"
+                }
+            }
+        },
+        "character": {
+            "id": 88173,
+            "url": "https://www.tvmaze.com/characters/88173/friday-night-lights-brian-smash-williams",
+            "name": "Brian \"Smash\" Williams",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15453.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15453.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88173"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20148,
+            "url": "https://www.tvmaze.com/people/20148/scott-porter",
+            "name": "Scott Porter",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1979-07-14",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2733.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2733.jpg"
+            },
+            "updated": 1685917089,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20148"
+                }
+            }
+        },
+        "character": {
+            "id": 88172,
+            "url": "https://www.tvmaze.com/characters/88172/friday-night-lights-jason-street",
+            "name": "Jason Street",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15445.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15445.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88172"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 16644,
+            "url": "https://www.tvmaze.com/people/16644/matt-lauria",
+            "name": "Matt Lauria",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1982-08-16",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8046.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8046.jpg"
+            },
+            "updated": 1684001302,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/16644"
+                }
+            }
+        },
+        "character": {
+            "id": 88162,
+            "url": "https://www.tvmaze.com/characters/88162/friday-night-lights-luke-cafferty",
+            "name": "Luke Cafferty",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15455.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15455.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88162"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 16426,
+            "url": "https://www.tvmaze.com/people/16426/michael-b-jordan",
+            "name": "Michael B. Jordan",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1987-02-09",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/416/1042275.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/416/1042275.jpg"
+            },
+            "updated": 1685542134,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/16426"
+                }
+            }
+        },
+        "character": {
+            "id": 88164,
+            "url": "https://www.tvmaze.com/characters/88164/friday-night-lights-vincent-vince-howard",
+            "name": "Vincent \"Vince\" Howard",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15468.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15468.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88164"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 91814,
+            "url": "https://www.tvmaze.com/people/91814/jurnee-smollett-bell",
+            "name": "Jurnee Smollett-Bell",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1986-10-01",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/36/90038.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/36/90038.jpg"
+            },
+            "updated": 1683805470,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/91814"
+                }
+            }
+        },
+        "character": {
+            "id": 88163,
+            "url": "https://www.tvmaze.com/characters/88163/friday-night-lights-jess-merriweather",
+            "name": "Jess Merriweather",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15456.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15456.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88163"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29901,
+            "url": "https://www.tvmaze.com/people/29901/dora-madison-burge",
+            "name": "Dora Madison Burge",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1991-10-17",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18084.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18084.jpg"
+            },
+            "updated": 1497056370,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29901"
+                }
+            }
+        },
+        "character": {
+            "id": 88166,
+            "url": "https://www.tvmaze.com/characters/88166/friday-night-lights-becky-sproles",
+            "name": "Becky Sproles",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15469.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15469.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88166"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 9633,
+            "url": "https://www.tvmaze.com/people/9633/grey-damon",
+            "name": "Grey Damon",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1987-09-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6869.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6869.jpg"
+            },
+            "updated": 1684476228,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/9633"
+                }
+            }
+        },
+        "character": {
+            "id": 88165,
+            "url": "https://www.tvmaze.com/characters/88165/friday-night-lights-hastings-ruckle",
+            "name": "Hastings Ruckle",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15454.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15454.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88165"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

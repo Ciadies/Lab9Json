@@ -1,0 +1,318 @@
+[
+    {
+        "person": {
+            "id": 6655,
+            "url": "https://www.tvmaze.com/people/6655/timothy-busfield",
+            "name": "Timothy Busfield",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-06-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25113.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25113.jpg"
+            },
+            "updated": 1682710527,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6655"
+                }
+            }
+        },
+        "character": {
+            "id": 192315,
+            "url": "https://www.tvmaze.com/characters/192315/thirtysomething-elliot-weston",
+            "name": "Elliot Weston",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/226/566493.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/226/566493.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/192315"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 21046,
+            "url": "https://www.tvmaze.com/people/21046/polly-draper",
+            "name": "Polly Draper",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1955-06-15",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/256/640849.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/256/640849.jpg"
+            },
+            "updated": 1682120193,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/21046"
+                }
+            }
+        },
+        "character": {
+            "id": 192316,
+            "url": "https://www.tvmaze.com/characters/192316/thirtysomething-ellyn-warren",
+            "name": "Ellyn Warren",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/192316"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 12521,
+            "url": "https://www.tvmaze.com/people/12521/mel-harris",
+            "name": "Mel Harris",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1956-07-12",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/51/128060.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/51/128060.jpg"
+            },
+            "updated": 1685887367,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/12521"
+                }
+            }
+        },
+        "character": {
+            "id": 192317,
+            "url": "https://www.tvmaze.com/characters/192317/thirtysomething-hope-murdoch-steadman",
+            "name": "Hope Murdoch Steadman",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/226/566492.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/226/566492.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/192317"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6546,
+            "url": "https://www.tvmaze.com/people/6546/ken-olin",
+            "name": "Ken Olin",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1954-07-30",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/20/50487.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/20/50487.jpg"
+            },
+            "updated": 1675625797,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6546"
+                }
+            }
+        },
+        "character": {
+            "id": 192320,
+            "url": "https://www.tvmaze.com/characters/192320/thirtysomething-michael-steadman",
+            "name": "Michael Steadman",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/226/566491.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/226/566491.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/192320"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50471,
+            "url": "https://www.tvmaze.com/people/50471/patricia-wettig",
+            "name": "Patricia Wettig",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1951-12-04",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/87/219507.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/87/219507.jpg"
+            },
+            "updated": 1641387080,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50471"
+                }
+            }
+        },
+        "character": {
+            "id": 192321,
+            "url": "https://www.tvmaze.com/characters/192321/thirtysomething-nancy-krieger-weston",
+            "name": "Nancy Krieger Weston",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/226/566494.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/226/566494.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/192321"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 8915,
+            "url": "https://www.tvmaze.com/people/8915/peter-horton",
+            "name": "Peter Horton",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1953-08-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/48/120597.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/48/120597.jpg"
+            },
+            "updated": 1672846534,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/8915"
+                }
+            }
+        },
+        "character": {
+            "id": 192318,
+            "url": "https://www.tvmaze.com/characters/192318/thirtysomething-gary-shepherd",
+            "name": "Gary Shepherd",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/192318"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 12401,
+            "url": "https://www.tvmaze.com/people/12401/melanie-mayron",
+            "name": "Melanie Mayron",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1952-10-20",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/87/219517.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/87/219517.jpg"
+            },
+            "updated": 1688480122,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/12401"
+                }
+            }
+        },
+        "character": {
+            "id": 192319,
+            "url": "https://www.tvmaze.com/characters/192319/thirtysomething-melissa-steadman",
+            "name": "Melissa Steadman",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/192319"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18932,
+            "url": "https://www.tvmaze.com/people/18932/patricia-kalember",
+            "name": "Patricia Kalember",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-12-30",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/87/219508.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/87/219508.jpg"
+            },
+            "updated": 1683987186,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18932"
+                }
+            }
+        },
+        "character": {
+            "id": 192322,
+            "url": "https://www.tvmaze.com/characters/192322/thirtysomething-susannah-hart",
+            "name": "Susannah Hart",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/192322"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

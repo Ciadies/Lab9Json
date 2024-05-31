@@ -1,0 +1,652 @@
+[
+    {
+        "person": {
+            "id": 27600,
+            "url": "https://www.tvmaze.com/people/27600/martin-sheen",
+            "name": "Martin Sheen",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1940-08-03",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/19977.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/19977.jpg"
+            },
+            "updated": 1682700897,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/27600"
+                }
+            }
+        },
+        "character": {
+            "id": 85526,
+            "url": "https://www.tvmaze.com/characters/85526/the-west-wing-president-jed-bartlet",
+            "name": "President Jed Bartlet",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11285.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11285.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85526"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 48956,
+            "url": "https://www.tvmaze.com/people/48956/john-spencer",
+            "name": "John Spencer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1946-12-20",
+            "deathday": "2005-12-16",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/16/40799.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/16/40799.jpg"
+            },
+            "updated": 1670757239,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/48956"
+                }
+            }
+        },
+        "character": {
+            "id": 85527,
+            "url": "https://www.tvmaze.com/characters/85527/the-west-wing-leo-mcgarry",
+            "name": "Leo McGarry",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/222/556841.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/222/556841.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85527"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 26693,
+            "url": "https://www.tvmaze.com/people/26693/allison-janney",
+            "name": "Allison Janney",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1959-11-19",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/7361.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/7361.jpg"
+            },
+            "updated": 1685015627,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/26693"
+                }
+            }
+        },
+        "character": {
+            "id": 85528,
+            "url": "https://www.tvmaze.com/characters/85528/the-west-wing-claudia-jean-cj-cregg",
+            "name": "Claudia Jean \"C.J.\" Cregg",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/222/556842.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/222/556842.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85528"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 25249,
+            "url": "https://www.tvmaze.com/people/25249/bradley-whitford",
+            "name": "Bradley Whitford",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1959-10-10",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/183/459454.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/183/459454.jpg"
+            },
+            "updated": 1685804627,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25249"
+                }
+            }
+        },
+        "character": {
+            "id": 85529,
+            "url": "https://www.tvmaze.com/characters/85529/the-west-wing-josh-lyman",
+            "name": "Josh Lyman",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11287.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11287.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85529"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20955,
+            "url": "https://www.tvmaze.com/people/20955/janel-moloney",
+            "name": "Janel Moloney",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1969-10-03",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/282/706090.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/282/706090.jpg"
+            },
+            "updated": 1670757239,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20955"
+                }
+            }
+        },
+        "character": {
+            "id": 85530,
+            "url": "https://www.tvmaze.com/characters/85530/the-west-wing-donna-moss",
+            "name": "Donna Moss",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/222/556844.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/222/556844.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85530"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 2988,
+            "url": "https://www.tvmaze.com/people/2988/richard-schiff",
+            "name": "Richard Schiff",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1955-05-27",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/70/177062.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/177062.jpg"
+            },
+            "updated": 1687615221,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/2988"
+                }
+            }
+        },
+        "character": {
+            "id": 85531,
+            "url": "https://www.tvmaze.com/characters/85531/the-west-wing-toby-ziegler",
+            "name": "Toby Ziegler",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/222/556847.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/222/556847.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85531"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 48911,
+            "url": "https://www.tvmaze.com/people/48911/dule-hill",
+            "name": "Dul\u00e9 Hill",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1975-05-03",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/12514.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/12514.jpg"
+            },
+            "updated": 1688657647,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/48911"
+                }
+            }
+        },
+        "character": {
+            "id": 85533,
+            "url": "https://www.tvmaze.com/characters/85533/the-west-wing-charlie-young",
+            "name": "Charlie Young",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11286.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11286.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85533"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 14663,
+            "url": "https://www.tvmaze.com/people/14663/rob-lowe",
+            "name": "Rob Lowe",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-03-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/445/1113108.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/445/1113108.jpg"
+            },
+            "updated": 1685787369,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/14663"
+                }
+            }
+        },
+        "character": {
+            "id": 85532,
+            "url": "https://www.tvmaze.com/characters/85532/the-west-wing-sam-seaborn",
+            "name": "Sam Seaborn",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/222/556848.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/222/556848.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85532"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 9521,
+            "url": "https://www.tvmaze.com/people/9521/joshua-malina",
+            "name": "Joshua Malina",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-01-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6750.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6750.jpg"
+            },
+            "updated": 1685628715,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/9521"
+                }
+            }
+        },
+        "character": {
+            "id": 85535,
+            "url": "https://www.tvmaze.com/characters/85535/the-west-wing-will-bailey",
+            "name": "Will Bailey",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/222/556845.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/222/556845.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85535"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20648,
+            "url": "https://www.tvmaze.com/people/20648/stockard-channing",
+            "name": "Stockard Channing",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1944-02-13",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11119.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11119.jpg"
+            },
+            "updated": 1687830775,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20648"
+                }
+            }
+        },
+        "character": {
+            "id": 85534,
+            "url": "https://www.tvmaze.com/characters/85534/the-west-wing-abbey-bartlet",
+            "name": "Abbey Bartlet",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/222/556849.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/222/556849.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85534"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 48957,
+            "url": "https://www.tvmaze.com/people/48957/mary-mccormack",
+            "name": "Mary McCormack",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1969-02-08",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/13/33127.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/13/33127.jpg"
+            },
+            "updated": 1681549408,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/48957"
+                }
+            }
+        },
+        "character": {
+            "id": 85538,
+            "url": "https://www.tvmaze.com/characters/85538/the-west-wing-kate-harper",
+            "name": "Kate Harper",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/434/1086512.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/434/1086512.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85538"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11137,
+            "url": "https://www.tvmaze.com/people/11137/jimmy-smits",
+            "name": "Jimmy Smits",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1955-07-09",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/7343.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/7343.jpg"
+            },
+            "updated": 1685808197,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11137"
+                }
+            }
+        },
+        "character": {
+            "id": 85537,
+            "url": "https://www.tvmaze.com/characters/85537/the-west-wing-matthew-santos",
+            "name": "Matthew Santos",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/222/556846.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/222/556846.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85537"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20555,
+            "url": "https://www.tvmaze.com/people/20555/kristin-chenoweth",
+            "name": "Kristin Chenoweth",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-07-24",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/121/304006.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/121/304006.jpg"
+            },
+            "updated": 1686908702,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20555"
+                }
+            }
+        },
+        "character": {
+            "id": 85539,
+            "url": "https://www.tvmaze.com/characters/85539/the-west-wing-annabeth-schott",
+            "name": "Annabeth Schott",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85539"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 34718,
+            "url": "https://www.tvmaze.com/people/34718/alan-alda",
+            "name": "Alan Alda",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1936-01-28",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/16/40800.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/16/40800.jpg"
+            },
+            "updated": 1684243103,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/34718"
+                }
+            }
+        },
+        "character": {
+            "id": 85536,
+            "url": "https://www.tvmaze.com/characters/85536/the-west-wing-senator-arnold-vinick",
+            "name": "Senator Arnold Vinick",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11288.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11288.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85536"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 35133,
+            "url": "https://www.tvmaze.com/people/35133/elisabeth-moss",
+            "name": "Elisabeth Moss",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1982-07-24",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8088.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8088.jpg"
+            },
+            "updated": 1685368515,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/35133"
+                }
+            }
+        },
+        "character": {
+            "id": 184604,
+            "url": "https://www.tvmaze.com/characters/184604/the-west-wing-zoey-bartlet",
+            "name": "Zoey Bartlet",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/184604"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 27988,
+            "url": "https://www.tvmaze.com/people/27988/moira-kelly",
+            "name": "Moira Kelly",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-03-06",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/19893.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/19893.jpg"
+            },
+            "updated": 1685070432,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/27988"
+                }
+            }
+        },
+        "character": {
+            "id": 85540,
+            "url": "https://www.tvmaze.com/characters/85540/the-west-wing-mandy-hampton",
+            "name": "Mandy Hampton",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/222/556843.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/222/556843.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85540"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

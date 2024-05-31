@@ -1,0 +1,412 @@
+[
+    {
+        "person": {
+            "id": 6805,
+            "url": "https://www.tvmaze.com/people/6805/judd-hirsch",
+            "name": "Judd Hirsch",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1935-03-15",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6575.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6575.jpg"
+            },
+            "updated": 1684151896,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6805"
+                }
+            }
+        },
+        "character": {
+            "id": 137657,
+            "url": "https://www.tvmaze.com/characters/137657/taxi-alex-reiger",
+            "name": "Alex Reiger",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/87/218226.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/87/218226.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/137657"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49998,
+            "url": "https://www.tvmaze.com/people/49998/tony-danza",
+            "name": "Tony Danza",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1951-04-21",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/30884.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/30884.jpg"
+            },
+            "updated": 1688042643,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49998"
+                }
+            }
+        },
+        "character": {
+            "id": 137659,
+            "url": "https://www.tvmaze.com/characters/137659/taxi-tony-banta",
+            "name": "Tony Banta",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/87/218224.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/87/218224.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/137659"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 41267,
+            "url": "https://www.tvmaze.com/people/41267/danny-devito",
+            "name": "Danny DeVito",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1944-11-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/54/136902.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/54/136902.jpg"
+            },
+            "updated": 1688669316,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/41267"
+                }
+            }
+        },
+        "character": {
+            "id": 137660,
+            "url": "https://www.tvmaze.com/characters/137660/taxi-louie-depalma",
+            "name": "Louie DePalma",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/87/218223.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/87/218223.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/137660"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 7045,
+            "url": "https://www.tvmaze.com/people/7045/marilu-henner",
+            "name": "Marilu Henner",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1952-04-06",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/30885.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/30885.jpg"
+            },
+            "updated": 1688405854,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/7045"
+                }
+            }
+        },
+        "character": {
+            "id": 137661,
+            "url": "https://www.tvmaze.com/characters/137661/taxi-elaine-nardo",
+            "name": "Elaine Nardo",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/87/218222.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/87/218222.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/137661"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 64393,
+            "url": "https://www.tvmaze.com/people/64393/andy-kaufman",
+            "name": "Andy Kaufman",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1949-01-17",
+            "deathday": "1984-05-16",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/30887.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/30887.jpg"
+            },
+            "updated": 1659145320,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/64393"
+                }
+            }
+        },
+        "character": {
+            "id": 137664,
+            "url": "https://www.tvmaze.com/characters/137664/taxi-latka-gravas",
+            "name": "Latka Gravas",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/224/561880.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/224/561880.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/137664"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 12006,
+            "url": "https://www.tvmaze.com/people/12006/christopher-lloyd",
+            "name": "Christopher Lloyd",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1938-10-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/87/218240.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/87/218240.jpg"
+            },
+            "updated": 1683058083,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/12006"
+                }
+            }
+        },
+        "character": {
+            "id": 137663,
+            "url": "https://www.tvmaze.com/characters/137663/taxi-jim-ignatowski",
+            "name": "Jim Ignatowski",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/87/218221.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/87/218221.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/137663"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 105912,
+            "url": "https://www.tvmaze.com/people/105912/j-alan-thomas",
+            "name": "J. Alan Thomas",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1950-05-08",
+            "deathday": "2007-04-15",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/48/121120.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/48/121120.jpg"
+            },
+            "updated": 1457855878,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/105912"
+                }
+            }
+        },
+        "character": {
+            "id": 258233,
+            "url": "https://www.tvmaze.com/characters/258233/taxi-jeff-bennett",
+            "name": "Jeff Bennett",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/224/561879.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/224/561879.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/258233"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 46511,
+            "url": "https://www.tvmaze.com/people/46511/jeff-conaway",
+            "name": "Jeff Conaway",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1950-10-05",
+            "deathday": "2011-05-27",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9669.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9669.jpg"
+            },
+            "updated": 1675402427,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/46511"
+                }
+            }
+        },
+        "character": {
+            "id": 137658,
+            "url": "https://www.tvmaze.com/characters/137658/taxi-bobby-wheeler",
+            "name": "Bobby Wheeler",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/87/218225.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/87/218225.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/137658"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 2225,
+            "url": "https://www.tvmaze.com/people/2225/carol-kane",
+            "name": "Carol Kane",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1952-06-18",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6129.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6129.jpg"
+            },
+            "updated": 1688047117,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/2225"
+                }
+            }
+        },
+        "character": {
+            "id": 137665,
+            "url": "https://www.tvmaze.com/characters/137665/taxi-simka-dahblitz",
+            "name": "Simka Dahblitz",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/87/218227.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/87/218227.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/137665"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 71891,
+            "url": "https://www.tvmaze.com/people/71891/randall-carver",
+            "name": "Randall Carver",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1946-05-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/30886.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/30886.jpg"
+            },
+            "updated": 1656458177,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/71891"
+                }
+            }
+        },
+        "character": {
+            "id": 137662,
+            "url": "https://www.tvmaze.com/characters/137662/taxi-john-burns",
+            "name": "John Burns",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/87/218228.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/87/218228.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/137662"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

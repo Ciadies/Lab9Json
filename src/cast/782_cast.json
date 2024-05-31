@@ -1,0 +1,330 @@
+[
+    {
+        "person": {
+            "id": 50497,
+            "url": "https://www.tvmaze.com/people/50497/james-arness",
+            "name": "James Arness",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1923-05-26",
+            "deathday": "2011-06-03",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25492.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25492.jpg"
+            },
+            "updated": 1682433058,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50497"
+                }
+            }
+        },
+        "character": {
+            "id": 88184,
+            "url": "https://www.tvmaze.com/characters/88184/gunsmoke-marshall-matt-dillon",
+            "name": "Marshall Matt Dillon",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/132/332416.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/132/332416.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88184"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50498,
+            "url": "https://www.tvmaze.com/people/50498/milburn-stone",
+            "name": "Milburn Stone",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1904-07-05",
+            "deathday": "1980-06-12",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25494.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25494.jpg"
+            },
+            "updated": 1675379892,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50498"
+                }
+            }
+        },
+        "character": {
+            "id": 88185,
+            "url": "https://www.tvmaze.com/characters/88185/gunsmoke-dr-galen-doc-adams",
+            "name": "Dr. Galen \"Doc\" Adams",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/132/332417.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/132/332417.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88185"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50500,
+            "url": "https://www.tvmaze.com/people/50500/amanda-blake",
+            "name": "Amanda Blake",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1929-02-20",
+            "deathday": "1989-08-16",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25496.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25496.jpg"
+            },
+            "updated": 1686369759,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50500"
+                }
+            }
+        },
+        "character": {
+            "id": 88187,
+            "url": "https://www.tvmaze.com/characters/88187/gunsmoke-kitty-russell",
+            "name": "Kitty Russell",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/132/332418.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/132/332418.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88187"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50501,
+            "url": "https://www.tvmaze.com/people/50501/ken-curtis",
+            "name": "Ken Curtis",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1916-07-02",
+            "deathday": "1991-04-28",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25499.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25499.jpg"
+            },
+            "updated": 1677477285,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50501"
+                }
+            }
+        },
+        "character": {
+            "id": 88189,
+            "url": "https://www.tvmaze.com/characters/88189/gunsmoke-festus-haggen",
+            "name": "Festus Haggen",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/132/332420.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/132/332420.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88189"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50499,
+            "url": "https://www.tvmaze.com/people/50499/dennis-weaver",
+            "name": "Dennis Weaver",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1924-06-04",
+            "deathday": "2006-02-24",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25495.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25495.jpg"
+            },
+            "updated": 1686369759,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50499"
+                }
+            }
+        },
+        "character": {
+            "id": 88186,
+            "url": "https://www.tvmaze.com/characters/88186/gunsmoke-deputy-chester-goode",
+            "name": "Deputy Chester Goode",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/34/86634.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/34/86634.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88186"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50503,
+            "url": "https://www.tvmaze.com/people/50503/buck-taylor",
+            "name": "Buck Taylor",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1938-05-13",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25501.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25501.jpg"
+            },
+            "updated": 1684023858,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50503"
+                }
+            }
+        },
+        "character": {
+            "id": 88191,
+            "url": "https://www.tvmaze.com/characters/88191/gunsmoke-newly-obrien",
+            "name": "Newly O'Brien",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/132/332419.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/132/332419.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88191"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 45495,
+            "url": "https://www.tvmaze.com/people/45495/burt-reynolds",
+            "name": "Burt Reynolds",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1936-02-11",
+            "deathday": "2018-09-06",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25497.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25497.jpg"
+            },
+            "updated": 1686089466,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/45495"
+                }
+            }
+        },
+        "character": {
+            "id": 88188,
+            "url": "https://www.tvmaze.com/characters/88188/gunsmoke-quint-asper",
+            "name": "Quint Asper",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/34/86632.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/34/86632.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88188"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50502,
+            "url": "https://www.tvmaze.com/people/50502/roger-ewing",
+            "name": "Roger Ewing",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1942-01-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25513.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25513.jpg"
+            },
+            "updated": 1673725164,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50502"
+                }
+            }
+        },
+        "character": {
+            "id": 88190,
+            "url": "https://www.tvmaze.com/characters/88190/gunsmoke-thad-greenwood",
+            "name": "Thad Greenwood",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/394/986793.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/394/986793.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88190"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

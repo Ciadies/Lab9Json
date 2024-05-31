@@ -1,0 +1,453 @@
+[
+    {
+        "person": {
+            "id": 34718,
+            "url": "https://www.tvmaze.com/people/34718/alan-alda",
+            "name": "Alan Alda",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1936-01-28",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/16/40800.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/16/40800.jpg"
+            },
+            "updated": 1684243103,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/34718"
+                }
+            }
+        },
+        "character": {
+            "id": 87015,
+            "url": "https://www.tvmaze.com/characters/87015/mash-captain-benjamin-franklin-hawkeye-pierce",
+            "name": "Captain Benjamin Franklin \"Hawkeye\" Pierce",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14729.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14729.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87015"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49744,
+            "url": "https://www.tvmaze.com/people/49744/loretta-swit",
+            "name": "Loretta Swit",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1937-11-04",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/20/51521.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/20/51521.jpg"
+            },
+            "updated": 1675649930,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49744"
+                }
+            }
+        },
+        "character": {
+            "id": 87018,
+            "url": "https://www.tvmaze.com/characters/87018/mash-major-margaret-j-hot-lips-houlihan",
+            "name": "Major Margaret J. \"Hot Lips\" Houlihan",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14734.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14734.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87018"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49753,
+            "url": "https://www.tvmaze.com/people/49753/william-christopher",
+            "name": "William Christopher",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1932-10-20",
+            "deathday": "2016-12-31",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/23/58224.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/23/58224.jpg"
+            },
+            "updated": 1685503858,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49753"
+                }
+            }
+        },
+        "character": {
+            "id": 87026,
+            "url": "https://www.tvmaze.com/characters/87026/mash-father-john-patrick-francis-mulcahy",
+            "name": "Father John Patrick Francis Mulcahy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14737.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14737.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87026"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49747,
+            "url": "https://www.tvmaze.com/people/49747/jamie-farr",
+            "name": "Jamie Farr",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1934-07-01",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/23/58223.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/23/58223.jpg"
+            },
+            "updated": 1683790712,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49747"
+                }
+            }
+        },
+        "character": {
+            "id": 175056,
+            "url": "https://www.tvmaze.com/characters/175056/mash-corporal-sergeant-maxwell-q-klinger",
+            "name": "Corporal / Sergeant Maxwell Q. Klinger",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/20/51518.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/20/51518.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/175056"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49746,
+            "url": "https://www.tvmaze.com/people/49746/gary-burghoff",
+            "name": "Gary Burghoff",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-05-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/34/86348.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/34/86348.jpg"
+            },
+            "updated": 1685532704,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49746"
+                }
+            }
+        },
+        "character": {
+            "id": 87020,
+            "url": "https://www.tvmaze.com/characters/87020/mash-corporal-walter-eugene-radar-oreilly",
+            "name": "Corporal Walter Eugene \"Radar\" O'Reilly",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14732.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14732.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87020"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 4473,
+            "url": "https://www.tvmaze.com/people/4473/mike-farrell",
+            "name": "Mike Farrell",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1939-02-06",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/13194.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/13194.jpg"
+            },
+            "updated": 1685757838,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/4473"
+                }
+            }
+        },
+        "character": {
+            "id": 87022,
+            "url": "https://www.tvmaze.com/characters/87022/mash-captain-bj-hunnicut",
+            "name": "Captain B.J. Hunnicut",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14731.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14731.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87022"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49752,
+            "url": "https://www.tvmaze.com/people/49752/harry-morgan",
+            "name": "Harry Morgan",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1915-04-10",
+            "deathday": "2011-12-07",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/23/58222.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/23/58222.jpg"
+            },
+            "updated": 1674956270,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49752"
+                }
+            }
+        },
+        "character": {
+            "id": 87025,
+            "url": "https://www.tvmaze.com/characters/87025/mash-colonel-sherman-t-potter",
+            "name": "Colonel Sherman T. Potter",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14735.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14735.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87025"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 34450,
+            "url": "https://www.tvmaze.com/people/34450/david-ogden-stiers",
+            "name": "David Ogden Stiers",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1942-10-31",
+            "deathday": "2018-03-03",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/121/303514.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/121/303514.jpg"
+            },
+            "updated": 1674543059,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/34450"
+                }
+            }
+        },
+        "character": {
+            "id": 87023,
+            "url": "https://www.tvmaze.com/characters/87023/mash-major-charles-emerson-winchester-iii",
+            "name": "Major Charles Emerson Winchester III",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14739.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14739.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87023"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49745,
+            "url": "https://www.tvmaze.com/people/49745/larry-linville",
+            "name": "Larry Linville",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1939-09-29",
+            "deathday": "2000-04-10",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/34/86334.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/34/86334.jpg"
+            },
+            "updated": 1673022547,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49745"
+                }
+            }
+        },
+        "character": {
+            "id": 87019,
+            "url": "https://www.tvmaze.com/characters/87019/mash-major-franklin-delano-marion-burns",
+            "name": "Major Franklin Delano Marion Burns",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/20/51519.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/20/51519.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87019"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49742,
+            "url": "https://www.tvmaze.com/people/49742/wayne-rogers",
+            "name": "Wayne Rogers",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1933-04-07",
+            "deathday": "2015-12-31",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/31/79749.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/31/79749.jpg"
+            },
+            "updated": 1686990643,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49742"
+                }
+            }
+        },
+        "character": {
+            "id": 87016,
+            "url": "https://www.tvmaze.com/characters/87016/mash-captain-john-francis-xavier-trapper-mcintyre",
+            "name": "Captain John Francis Xavier \"Trapper\" McIntyre",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/20/51520.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/20/51520.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87016"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49743,
+            "url": "https://www.tvmaze.com/people/49743/mclean-stevenson",
+            "name": "McLean Stevenson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1927-11-14",
+            "deathday": "1996-02-15",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/28/71396.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/28/71396.jpg"
+            },
+            "updated": 1681356667,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49743"
+                }
+            }
+        },
+        "character": {
+            "id": 87017,
+            "url": "https://www.tvmaze.com/characters/87017/mash-lt-colonel-henry-braymore-blake",
+            "name": "Lt. Colonel Henry Braymore Blake",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14736.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14736.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87017"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

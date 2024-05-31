@@ -1,0 +1,207 @@
+[
+    {
+        "person": {
+            "id": 11924,
+            "url": "https://www.tvmaze.com/people/11924/jeff-garlin",
+            "name": "Jeff Garlin",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-06-05",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/464/1160746.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/464/1160746.jpg"
+            },
+            "updated": 1686262961,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11924"
+                }
+            }
+        },
+        "character": {
+            "id": 85887,
+            "url": "https://www.tvmaze.com/characters/85887/curb-your-enthusiasm-jeff-greene",
+            "name": "Jeff Greene",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/239/598780.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/239/598780.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85887"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49002,
+            "url": "https://www.tvmaze.com/people/49002/larry-david",
+            "name": "Larry David",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1947-07-02",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/33/82995.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/33/82995.jpg"
+            },
+            "updated": 1688861011,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49002"
+                }
+            }
+        },
+        "character": {
+            "id": 211915,
+            "url": "https://www.tvmaze.com/characters/211915/curb-your-enthusiasm-larry-david",
+            "name": "Larry David",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/239/598777.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/239/598777.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/211915"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 35970,
+            "url": "https://www.tvmaze.com/people/35970/cheryl-hines",
+            "name": "Cheryl Hines",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-09-21",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/19761.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/19761.jpg"
+            },
+            "updated": 1685050426,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/35970"
+                }
+            }
+        },
+        "character": {
+            "id": 85886,
+            "url": "https://www.tvmaze.com/characters/85886/curb-your-enthusiasm-cheryl-david",
+            "name": "Cheryl David",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/239/598778.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/239/598778.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85886"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17792,
+            "url": "https://www.tvmaze.com/people/17792/susie-essman",
+            "name": "Susie Essman",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1955-05-31",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/236/590762.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/236/590762.jpg"
+            },
+            "updated": 1682016489,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17792"
+                }
+            }
+        },
+        "character": {
+            "id": 85888,
+            "url": "https://www.tvmaze.com/characters/85888/curb-your-enthusiasm-susie-greene",
+            "name": "Susie Greene",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/239/598781.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/239/598781.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85888"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 27101,
+            "url": "https://www.tvmaze.com/people/27101/jb-smoove",
+            "name": "J.B. Smoove",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-12-16",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1896.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1896.jpg"
+            },
+            "updated": 1686342220,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/27101"
+                }
+            }
+        },
+        "character": {
+            "id": 466914,
+            "url": "https://www.tvmaze.com/characters/466914/curb-your-enthusiasm-leon-black",
+            "name": "Leon Black",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/239/598868.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/239/598868.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/466914"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

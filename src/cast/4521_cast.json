@@ -1,0 +1,268 @@
+[
+    {
+        "person": {
+            "id": 20924,
+            "url": "https://www.tvmaze.com/people/20924/jeffrey-tambor",
+            "name": "Jeffrey Tambor",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1944-07-08",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1749.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1749.jpg"
+            },
+            "updated": 1686783367,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20924"
+                }
+            }
+        },
+        "character": {
+            "id": 263030,
+            "url": "https://www.tvmaze.com/characters/263030/the-larry-sanders-show-hank-kingsley",
+            "name": "Hank Kingsley",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/263030"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 21361,
+            "url": "https://www.tvmaze.com/people/21361/wallace-langham",
+            "name": "Wallace Langham",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-03-11",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/115/287842.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/115/287842.jpg"
+            },
+            "updated": 1682388005,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/21361"
+                }
+            }
+        },
+        "character": {
+            "id": 263031,
+            "url": "https://www.tvmaze.com/characters/263031/the-larry-sanders-show-phil",
+            "name": "Phil",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/263031"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 117900,
+            "url": "https://www.tvmaze.com/people/117900/garry-shandling",
+            "name": "Garry Shandling",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1949-11-29",
+            "deathday": "2016-03-24",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/46/116443.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/46/116443.jpg"
+            },
+            "updated": 1664684089,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/117900"
+                }
+            }
+        },
+        "character": {
+            "id": 263032,
+            "url": "https://www.tvmaze.com/characters/263032/the-larry-sanders-show-larry-sanders",
+            "name": "Larry Sanders",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/263032"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 52831,
+            "url": "https://www.tvmaze.com/people/52831/rip-torn",
+            "name": "Rip Torn",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1931-02-06",
+            "deathday": "2019-07-09",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/204/511910.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/204/511910.jpg"
+            },
+            "updated": 1664589956,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/52831"
+                }
+            }
+        },
+        "character": {
+            "id": 263037,
+            "url": "https://www.tvmaze.com/characters/263037/the-larry-sanders-show-arthur",
+            "name": "Arthur",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/263037"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 9142,
+            "url": "https://www.tvmaze.com/people/9142/penny-johnson-jerald",
+            "name": "Penny Johnson Jerald",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-03-14",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/167/419272.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/167/419272.jpg"
+            },
+            "updated": 1659630426,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/9142"
+                }
+            }
+        },
+        "character": {
+            "id": 263040,
+            "url": "https://www.tvmaze.com/characters/263040/the-larry-sanders-show-beverly-barnes",
+            "name": "Beverly Barnes",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/263040"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 28224,
+            "url": "https://www.tvmaze.com/people/28224/janeane-garofalo",
+            "name": "Janeane Garofalo",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-09-28",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/88/221323.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/88/221323.jpg"
+            },
+            "updated": 1686597005,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/28224"
+                }
+            }
+        },
+        "character": {
+            "id": 263042,
+            "url": "https://www.tvmaze.com/characters/263042/the-larry-sanders-show-paula",
+            "name": "Paula",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/263042"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 38466,
+            "url": "https://www.tvmaze.com/people/38466/jeremy-piven",
+            "name": "Jeremy Piven",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-07-26",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8533.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8533.jpg"
+            },
+            "updated": 1685146747,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/38466"
+                }
+            }
+        },
+        "character": {
+            "id": 263043,
+            "url": "https://www.tvmaze.com/characters/263043/the-larry-sanders-show-jerry-capen",
+            "name": "Jerry Capen",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/263043"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

@@ -1,0 +1,185 @@
+[
+    {
+        "person": {
+            "id": 32205,
+            "url": "https://www.tvmaze.com/people/32205/conan-obrien",
+            "name": "Conan O'Brien",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-04-18",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/339/848465.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/339/848465.jpg"
+            },
+            "updated": 1684411417,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/32205"
+                }
+            }
+        },
+        "character": {
+            "id": 88694,
+            "url": "https://www.tvmaze.com/characters/88694/late-night-with-conan-obrien-host",
+            "name": "Host",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88694"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6966,
+            "url": "https://www.tvmaze.com/people/6966/andy-richter",
+            "name": "Andy Richter",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-10-28",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/173/434915.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/173/434915.jpg"
+            },
+            "updated": 1684776450,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6966"
+                }
+            }
+        },
+        "character": {
+            "id": 88698,
+            "url": "https://www.tvmaze.com/characters/88698/late-night-with-conan-obrien-co-host",
+            "name": "Co-Host",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88698"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5667,
+            "url": "https://www.tvmaze.com/people/5667/max-weinberg",
+            "name": "Max Weinberg",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1951-04-13",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/99/248612.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/99/248612.jpg"
+            },
+            "updated": 1647613171,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5667"
+                }
+            }
+        },
+        "character": {
+            "id": 88695,
+            "url": "https://www.tvmaze.com/characters/88695/late-night-with-conan-obrien-music-director",
+            "name": "Music Director",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88695"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50844,
+            "url": "https://www.tvmaze.com/people/50844/joel-godard",
+            "name": "Joel Godard",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": null,
+            "image": null,
+            "updated": 1469802592,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50844"
+                }
+            }
+        },
+        "character": {
+            "id": 88696,
+            "url": "https://www.tvmaze.com/characters/88696/late-night-with-conan-obrien-announcer",
+            "name": "Announcer",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88696"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 21230,
+            "url": "https://www.tvmaze.com/people/21230/robert-smigel",
+            "name": "Robert Smigel",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1960-02-07",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/75/189558.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/75/189558.jpg"
+            },
+            "updated": 1685413977,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/21230"
+                }
+            }
+        },
+        "character": {
+            "id": 88697,
+            "url": "https://www.tvmaze.com/characters/88697/late-night-with-conan-obrien-triumph-the-insult-comic-dog",
+            "name": "Triumph The Insult Comic Dog",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/88697"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

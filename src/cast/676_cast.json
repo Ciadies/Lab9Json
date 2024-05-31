@@ -1,0 +1,617 @@
+[
+    {
+        "person": {
+            "id": 49823,
+            "url": "https://www.tvmaze.com/people/49823/sarah-jessica-parker",
+            "name": "Sarah Jessica Parker",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-03-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18228.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18228.jpg"
+            },
+            "updated": 1688647383,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49823"
+                }
+            }
+        },
+        "character": {
+            "id": 87131,
+            "url": "https://www.tvmaze.com/characters/87131/sex-and-the-city-carrie-bradshaw",
+            "name": "Carrie Bradshaw",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269787.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269787.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87131"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49824,
+            "url": "https://www.tvmaze.com/people/49824/kim-cattrall",
+            "name": "Kim Cattrall",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1956-08-21",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18230.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18230.jpg"
+            },
+            "updated": 1688490931,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49824"
+                }
+            }
+        },
+        "character": {
+            "id": 87132,
+            "url": "https://www.tvmaze.com/characters/87132/sex-and-the-city-samantha-jones",
+            "name": "Samantha Jones",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269788.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269788.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87132"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 45753,
+            "url": "https://www.tvmaze.com/people/45753/kristin-davis",
+            "name": "Kristin Davis",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-02-23",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/12804.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/12804.jpg"
+            },
+            "updated": 1688647383,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/45753"
+                }
+            }
+        },
+        "character": {
+            "id": 87133,
+            "url": "https://www.tvmaze.com/characters/87133/sex-and-the-city-charlotte-york",
+            "name": "Charlotte York",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269790.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269790.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87133"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 23357,
+            "url": "https://www.tvmaze.com/people/23357/cynthia-nixon",
+            "name": "Cynthia Nixon",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-04-09",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18232.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18232.jpg"
+            },
+            "updated": 1688647383,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/23357"
+                }
+            }
+        },
+        "character": {
+            "id": 87134,
+            "url": "https://www.tvmaze.com/characters/87134/sex-and-the-city-miranda-hobbes",
+            "name": "Miranda Hobbes",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269791.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269791.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87134"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 136694,
+            "url": "https://www.tvmaze.com/people/136694/mario-cantone",
+            "name": "Mario Cantone",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1959-12-09",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/65/164084.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/65/164084.jpg"
+            },
+            "updated": 1688647383,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/136694"
+                }
+            }
+        },
+        "character": {
+            "id": 410349,
+            "url": "https://www.tvmaze.com/characters/410349/sex-and-the-city-anthony-marentino",
+            "name": "Anthony Marentino",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269803.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269803.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/410349"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18157,
+            "url": "https://www.tvmaze.com/people/18157/ron-livingston",
+            "name": "Ron Livingston",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1967-06-05",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/945.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/945.jpg"
+            },
+            "updated": 1681412929,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18157"
+                }
+            }
+        },
+        "character": {
+            "id": 410365,
+            "url": "https://www.tvmaze.com/characters/410365/sex-and-the-city-jack-berger",
+            "name": "Jack Berger",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269806.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269806.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/410365"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18128,
+            "url": "https://www.tvmaze.com/people/18128/chris-noth",
+            "name": "Chris Noth",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1954-11-13",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2739.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2739.jpg"
+            },
+            "updated": 1679759318,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18128"
+                }
+            }
+        },
+        "character": {
+            "id": 410339,
+            "url": "https://www.tvmaze.com/characters/410339/sex-and-the-city-mr-big",
+            "name": "Mr. Big",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269793.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269793.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/410339"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 171910,
+            "url": "https://www.tvmaze.com/people/171910/mikhail-baryshnikov",
+            "name": "Mikhail Baryshnikov",
+            "country": {
+                "name": "Latvia",
+                "code": "LV",
+                "timezone": "Europe/Riga"
+            },
+            "birthday": "1948-01-27",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269796.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269796.jpg"
+            },
+            "updated": 1492703769,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/171910"
+                }
+            }
+        },
+        "character": {
+            "id": 410340,
+            "url": "https://www.tvmaze.com/characters/410340/sex-and-the-city-aleksandr-petrovsky",
+            "name": "Aleksandr Petrovsky",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269794.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269794.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/410340"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 2355,
+            "url": "https://www.tvmaze.com/people/2355/john-corbett",
+            "name": "John Corbett",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-05-09",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10718.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10718.jpg"
+            },
+            "updated": 1680031572,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/2355"
+                }
+            }
+        },
+        "character": {
+            "id": 410342,
+            "url": "https://www.tvmaze.com/characters/410342/sex-and-the-city-aidan-shaw",
+            "name": "Aidan Shaw",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269797.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269797.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/410342"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 7541,
+            "url": "https://www.tvmaze.com/people/7541/david-eigenberg",
+            "name": "David Eigenberg",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-05-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/145/364829.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/145/364829.jpg"
+            },
+            "updated": 1688647383,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/7541"
+                }
+            }
+        },
+        "character": {
+            "id": 410343,
+            "url": "https://www.tvmaze.com/characters/410343/sex-and-the-city-steve-brady",
+            "name": "Steve Brady",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269798.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269798.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/410343"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5439,
+            "url": "https://www.tvmaze.com/people/5439/evan-handler",
+            "name": "Evan Handler",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-01-10",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10000.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10000.jpg"
+            },
+            "updated": 1688647383,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5439"
+                }
+            }
+        },
+        "character": {
+            "id": 410345,
+            "url": "https://www.tvmaze.com/characters/410345/sex-and-the-city-harry-goldenblatt",
+            "name": "Harry Goldenblatt",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269799.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269799.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/410345"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 23577,
+            "url": "https://www.tvmaze.com/people/23577/jason-lewis",
+            "name": "Jason Lewis",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1971-06-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269778.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269778.jpg"
+            },
+            "updated": 1669104413,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/23577"
+                }
+            }
+        },
+        "character": {
+            "id": 410347,
+            "url": "https://www.tvmaze.com/characters/410347/sex-and-the-city-smith-jerrod",
+            "name": "Smith Jerrod",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269800.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269800.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/410347"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 28884,
+            "url": "https://www.tvmaze.com/people/28884/willie-garson",
+            "name": "Willie Garson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-02-20",
+            "deathday": "2021-09-21",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8014.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8014.jpg"
+            },
+            "updated": 1687189128,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/28884"
+                }
+            }
+        },
+        "character": {
+            "id": 410348,
+            "url": "https://www.tvmaze.com/characters/410348/sex-and-the-city-stanford-blatch",
+            "name": "Stanford Blatch",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269801.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269801.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/410348"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6238,
+            "url": "https://www.tvmaze.com/people/6238/kyle-maclachlan",
+            "name": "Kyle MacLachlan",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1959-02-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/168/421664.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/421664.jpg"
+            },
+            "updated": 1683204443,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6238"
+                }
+            }
+        },
+        "character": {
+            "id": 410350,
+            "url": "https://www.tvmaze.com/characters/410350/sex-and-the-city-trey-macdougal",
+            "name": "Trey MacDougal",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269804.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269804.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/410350"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5299,
+            "url": "https://www.tvmaze.com/people/5299/james-remar",
+            "name": "James Remar",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1953-12-31",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/157/393379.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/157/393379.jpg"
+            },
+            "updated": 1687121633,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5299"
+                }
+            }
+        },
+        "character": {
+            "id": 410355,
+            "url": "https://www.tvmaze.com/characters/410355/sex-and-the-city-richard-wright",
+            "name": "Richard Wright",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269805.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269805.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/410355"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

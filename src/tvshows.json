@@ -1,0 +1,4765 @@
+{
+    "The Sopranos": {
+        "id": 527,
+        "url": "https://www.tvmaze.com/shows/527/the-sopranos",
+        "name": "The Sopranos",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1999-01-10",
+        "ended": "2007-06-10",
+        "officialSite": "http://www.hbo.com/the-sopranos",
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.9
+        },
+        "weight": 94,
+        "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.hbo.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6206,
+            "thetvdb": 75299,
+            "imdb": "tt0141842"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11341.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11341.jpg"
+        },
+        "summary": "<p><b>The Sopranos</b>, writer-producer-director David Chase's extraordinary television series, is nominally an urban gangster drama, but its true impact strikes closer to home: Like 1999's other screen touchstone, American Beauty, the HBO series chronicles a dysfunctional, suburban American family in bold relief. And for protagonist Tony Soprano, there's the added complexity posed by heading twin families, his collegial mob clan and his own, nouveau riche brood.</p>",
+        "updated": 1661802564
+    },
+    "The Wire": {
+        "id": 179,
+        "url": "https://www.tvmaze.com/shows/179/the-wire",
+        "name": "The Wire",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2002-06-02",
+        "ended": "2008-03-09",
+        "officialSite": "http://www.hbo.com/the-wire",
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.9
+        },
+        "weight": 96,
+        "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.hbo.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6296,
+            "thetvdb": 79126,
+            "imdb": "tt0306414"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2527.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2527.jpg"
+        },
+        "summary": "<p>The first season of <b>The Wire</b> (2002) concentrated on the often-futile efforts of police to infiltrate a West Baltimore drug ring headed by Avon Barksdale and his lieutenant, Stringer Bell. In Seasons Two and Three, as the Barksdale investigation escalated, new storylines involving pressures on the working class and the city's political leadership were introduced. Season Four focused on the stories of several young boys in the public school system, struggling with problems at home and the lure of the corner - set against the rise of a new drug empire in West Baltimore and a new Mayor in City Hall. The fifth and final season of <i>The Wire</i> centers on the media's role in addressing - or failing to address - the fundamental political, economic and social realities depicted over the course of the series, while also resolving storylines of the numerous characters woven throughout the narrative arc of the show.</p>",
+        "updated": 1674939315
+    },
+    "Breaking Bad": {
+        "id": 169,
+        "url": "https://www.tvmaze.com/shows/169/breaking-bad",
+        "name": "Breaking Bad",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Crime",
+            "Thriller"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2008-01-20",
+        "ended": "2019-10-11",
+        "officialSite": "http://www.amc.com/shows/breaking-bad",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 9.2
+        },
+        "weight": 98,
+        "network": {
+            "id": 20,
+            "name": "AMC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 18164,
+            "thetvdb": 81189,
+            "imdb": "tt0903747"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2400.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2400.jpg"
+        },
+        "summary": "<p><b>Breaking Bad</b> follows protagonist Walter White, a chemistry teacher who lives in New Mexico with his wife and teenage son who has cerebral palsy. White is diagnosed with Stage III cancer and given a prognosis of two years left to live. With a new sense of fearlessness based on his medical prognosis, and a desire to secure his family's financial security, White chooses to enter a dangerous world of drugs and crime and ascends to power in this world. The series explores how a fatal diagnosis such as White's releases a typical man from the daily concerns and constraints of normal society and follows his transformation from mild family man to a kingpin of the drug trade.</p>",
+        "updated": 1683329190
+    },
+    "Mad Men": {
+        "id": 385,
+        "url": "https://www.tvmaze.com/shows/385/mad-men",
+        "name": "Mad Men",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2007-07-19",
+        "ended": "2015-05-17",
+        "officialSite": "http://www.amc.com/shows/mad-men",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.3
+        },
+        "weight": 94,
+        "network": {
+            "id": 20,
+            "name": "AMC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 16356,
+            "thetvdb": 80337,
+            "imdb": "tt0804503"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5589.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5589.jpg"
+        },
+        "summary": "<p>The series revolves around the conflicted world of Don Draper, the biggest ad man in the business, and his colleagues at the Sterling Cooper Draper Pryce Advertising Agency. As Don makes the plays in the boardroom and the bedroom, he struggles to stay a step ahead of the rapidly changing times and the young executives nipping at his heels. The series also depicts authentically the roles of men and women in this era while exploring the true human nature beneath the guise of 1960s traditional family values.</p>",
+        "updated": 1666210315
+    },
+    "Seinfeld": {
+        "id": 530,
+        "url": "https://www.tvmaze.com/shows/530/seinfeld",
+        "name": "Seinfeld",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1989-07-05",
+        "ended": "1998-05-14",
+        "officialSite": "http://www.sonypictures.com/tv/seinfeld/",
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 8.3
+        },
+        "weight": 94,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5145,
+            "thetvdb": 79169,
+            "imdb": "tt0098904"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/83/207960.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/83/207960.jpg"
+        },
+        "summary": "<p><b>Seinfeld</b> is the story of a fictionalized version of stand-up comedian Jerry Seinfeld, his life in New York City and his quirky group of friends who join him in wrestling with life's most perplexing, yet often trivial questions. Often described as \"a show about nothing,\" Seinfeld mines the humor in life's mundane situations like waiting in line, searching for a lost item, or the trials and tribulations of dating.</p>",
+        "updated": 1646841917
+    },
+    "The Simpsons": {
+        "id": 83,
+        "url": "https://www.tvmaze.com/shows/83/the-simpsons",
+        "name": "The Simpsons",
+        "type": "Animation",
+        "language": "English",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "status": "Running",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1989-12-17",
+        "ended": null,
+        "officialSite": "http://www.fox.com/the-simpsons/full-episodes",
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.1
+        },
+        "weight": 99,
+        "network": {
+            "id": 4,
+            "name": "FOX",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.fox.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6190,
+            "thetvdb": 71663,
+            "imdb": "tt0096697"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/423/1058261.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/423/1058261.jpg"
+        },
+        "summary": "<p><b>The Simpsons</b> is the longest running scripted show in US television history. It captures the adventures of Homer, Marge, Maggie, Bart and Lisa who are living in a fictional town called Springfield.</p>",
+        "updated": 1685347124
+    },
+    "The Twilight Zone": {
+        "id": 787,
+        "url": "https://www.tvmaze.com/shows/787/the-twilight-zone",
+        "name": "The Twilight Zone",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Science-Fiction",
+            "Mystery",
+            "Supernatural"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 31,
+        "premiered": "1959-10-02",
+        "ended": "1964-06-19",
+        "officialSite": null,
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Friday"
+            ]
+        },
+        "rating": {
+            "average": 8.8
+        },
+        "weight": 93,
+        "network": {
+            "id": 2,
+            "name": "CBS",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cbs.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6258,
+            "thetvdb": 73587,
+            "imdb": "tt0052520"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/398/996733.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/398/996733.jpg"
+        },
+        "summary": "<p>A groundbreaking series by Rod Serling, this half-hour anthology featured tales of the strange, the macabre, and the unusual. Some were science fiction, some were supernatural, and some defied easy categorization.This five-season series is best known for its twist endings. Many of the stories were written by Serling himself, others were crafted by Richard Matheson, Charles Beaumont, Earl Hammer Jr. and Ray Bradbury.</p>",
+        "updated": 1684454001
+    },
+    "Saturday Night Live": {
+        "id": 361,
+        "url": "https://www.tvmaze.com/shows/361/saturday-night-live",
+        "name": "Saturday Night Live",
+        "type": "Variety",
+        "language": "English",
+        "genres": [
+            "Comedy",
+            "Music"
+        ],
+        "status": "To Be Determined",
+        "runtime": 90,
+        "averageRuntime": 90,
+        "premiered": "1975-10-11",
+        "ended": null,
+        "officialSite": "http://www.nbc.com/saturday-night-live",
+        "schedule": {
+            "time": "23:29",
+            "days": [
+                "Saturday"
+            ]
+        },
+        "rating": {
+            "average": 5.9
+        },
+        "weight": 97,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5098,
+            "thetvdb": 76177,
+            "imdb": "tt0072562"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/446/1115535.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/446/1115535.jpg"
+        },
+        "summary": "<p><b>Saturday Night Live</b> is an Emmy Award-winning late-night comedy showcase.</p><p>Since its inception in 1975, \"SNL\" has launched the careers of many of the brightest comedy performers of their generation. As The New York Times noted on the occasion of the show's Emmy-winning 25th Anniversary special in 1999, \"in defiance of both time and show business convention, 'SNL' is still the most pervasive influence on the art of comedy in contemporary culture.\" At the close of the century, \"Saturday Night Live\" placed seventh on Entertainment Weekly's list of the Top 100 Entertainers of the past fifty years.</p>",
+        "updated": 1688861148
+    },
+    "All in the Family": {
+        "id": 1784,
+        "url": "https://www.tvmaze.com/shows/1784/all-in-the-family",
+        "name": "All in the Family",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1971-01-12",
+        "ended": "1979-04-08",
+        "officialSite": null,
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.3
+        },
+        "weight": 86,
+        "network": {
+            "id": 2,
+            "name": "CBS",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cbs.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 2559,
+            "thetvdb": 72741,
+            "imdb": "tt0066626"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/75/189680.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/75/189680.jpg"
+        },
+        "summary": "<p><b>All in the Family</b> centered around the Bunker family who lived in a home located at 704 Houser Street in Queens, New York. Archie Bunker was the main character, and what a character he was. He was televisons most famous bigot, crass and down right rude. Yet he was loveable, with a soft side just beneath the surface. Edith Bunker was his somewhat dizzy wife whom he called \"Dingbat\". Edith put up with Archie and had qualities about her that made her one of television's most unforgetable characters. Also living in the Bunker household were Archie and Edith's daughter, Gloria, and her husband Mike, or \"Meathead\".</p>",
+        "updated": 1651322916
+    },
+    "The Daily Show": {
+        "id": 3928,
+        "url": "https://www.tvmaze.com/shows/3928/the-daily-show-with-trevor-noah",
+        "name": "The Daily Show with Trevor Noah",
+        "type": "Talk Show",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2015-09-28",
+        "ended": "2022-12-08",
+        "officialSite": "https://www.cc.com/shows/the-daily-show",
+        "schedule": {
+            "time": "23:00",
+            "days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 5.5
+        },
+        "weight": 49,
+        "network": {
+            "id": 23,
+            "name": "Comedy Central",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": null,
+            "thetvdb": 71256,
+            "imdb": "tt0115147"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/446/1115582.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/446/1115582.jpg"
+        },
+        "summary": "<p>An irreverent skewering of the news and pop culture with South African comedian Trevor Noah, who took over for Jon Stewart when he left the anchor desk after 17 seasons.</p>",
+        "updated": 1676576743
+    },
+    "Freaks and Geeks": {
+        "id": 755,
+        "url": "https://www.tvmaze.com/shows/755/freaks-and-geeks",
+        "name": "Freaks and Geeks",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1999-09-25",
+        "ended": "2000-07-08",
+        "officialSite": null,
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Saturday"
+            ]
+        },
+        "rating": {
+            "average": 8.4
+        },
+        "weight": 75,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3601,
+            "thetvdb": 76321,
+            "imdb": "tt0193676"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15209.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15209.jpg"
+        },
+        "summary": "<p><b>Freaks and Geeks</b>, the Emmy\u00ae award-winning series about the trials and tribulations of high school outsiders in 1980 Michigan.</p>",
+        "updated": 1620876777
+    },
+    "Game of Thrones": {
+        "id": 82,
+        "url": "https://www.tvmaze.com/shows/82/game-of-thrones",
+        "name": "Game of Thrones",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Adventure",
+            "Fantasy"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 61,
+        "premiered": "2011-04-17",
+        "ended": "2019-05-19",
+        "officialSite": "http://www.hbo.com/game-of-thrones",
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.9
+        },
+        "weight": 99,
+        "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.hbo.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 24493,
+            "thetvdb": 121361,
+            "imdb": "tt0944947"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/190/476117.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476117.jpg"
+        },
+        "summary": "<p>Based on the bestselling book series <i>A Song of Ice and Fire</i> by George R.R. Martin, this sprawling new HBO drama is set in a world where summers span decades and winters can last a lifetime. From the scheming south and the savage eastern lands, to the frozen north and ancient Wall that protects the realm from the mysterious darkness beyond, the powerful families of the Seven Kingdoms are locked in a battle for the Iron Throne. This is a story of duplicity and treachery, nobility and honor, conquest and triumph. In the <b>Game of Thrones</b>, you either win or you die.</p>",
+        "updated": 1658720459
+    },
+    "Late Show with David Letterman": {
+        "id": 265,
+        "url": "https://www.tvmaze.com/shows/265/the-late-show-with-david-letterman",
+        "name": "The Late Show with David Letterman",
+        "type": "Talk Show",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1993-08-30",
+        "ended": "2015-05-20",
+        "officialSite": null,
+        "schedule": {
+            "time": "23:35",
+            "days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ]
+        },
+        "rating": {
+            "average": 8.1
+        },
+        "weight": 79,
+        "network": {
+            "id": 2,
+            "name": "CBS",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cbs.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 4198,
+            "thetvdb": 75088,
+            "imdb": "tt0106053"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/4702.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/4702.jpg"
+        },
+        "summary": "<p>A mix of comedy and talk show, including alot of celebrity guests and musical performances.</p>",
+        "updated": 1683727194
+    },
+    "The Larry Sanders Show": {
+        "id": 4521,
+        "url": "https://www.tvmaze.com/shows/4521/the-larry-sanders-show",
+        "name": "The Larry Sanders Show",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1992-08-15",
+        "ended": "1998-05-31",
+        "officialSite": "https://www.hbo.com/the-larry-sanders-show",
+        "schedule": {
+            "time": "",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.3
+        },
+        "weight": 46,
+        "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.hbo.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5909,
+            "thetvdb": 73007,
+            "imdb": "tt0103466"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/270/675623.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/270/675623.jpg"
+        },
+        "summary": "<p>Comic Garry Shandling draws upon his own talk show experiences to create the character of Larry Sanders, a paranoid, insecure host of a late night talk show. Larry, along with his obsequious TV sidekick Hank Kingsley and his fiercely protective producer Artie, allows Garry Shandling and his talented writers to look behind the scenes and to show us a convincing slice of behind the camera life.</p>",
+        "updated": 1624443383
+    },
+    "The West Wing": {
+        "id": 523,
+        "url": "https://www.tvmaze.com/shows/523/the-west-wing",
+        "name": "The West Wing",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1999-09-22",
+        "ended": "2006-05-14",
+        "officialSite": null,
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.8
+        },
+        "weight": 92,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6289,
+            "thetvdb": 72521,
+            "imdb": "tt0200276"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11284.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11284.jpg"
+        },
+        "summary": "<p>The entire White House staff bristles with activity when it's learned that the President injured himself during a bicycle accident, and his absence becomes a factor as chief of staff Leo McGarry must juggle a host of impending crises, including a mass boatlift of Cuban refugees approaching the Florida coast and the reaction of conservative Christians to a controversial televised comment by deputy chief of staff Josh Lyman.</p>",
+        "updated": 1684243140
+    },
+    "M*A*S*H": {
+        "id": 665,
+        "url": "https://www.tvmaze.com/shows/665/mash",
+        "name": "M*A*S*H",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy",
+            "War",
+            "Medical"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 31,
+        "premiered": "1972-09-17",
+        "ended": "1983-02-28",
+        "officialSite": null,
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Monday"
+            ]
+        },
+        "rating": {
+            "average": 8.3
+        },
+        "weight": 90,
+        "network": {
+            "id": 2,
+            "name": "CBS",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cbs.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 4315,
+            "thetvdb": 70994,
+            "imdb": "tt0068098"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14728.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14728.jpg"
+        },
+        "summary": "<p>Loosely based on the real-life M*A*S*H unit 8055, life at the 4077 revolved around the day-to-day routines of Captain \"Hawkeye\" Pierce, Captain \"Trapper\" McIntyre, Lieutenant Colonel Henry Blake, Major Margaret Houlihan, Major Franklin Burns and Corporal \"Radar\" O'Reilly. Through these characters, viewers traveled beyond the long hours and the horrors of the operating room to a place where friendships were forged, laughter was found and drinks were served.</p>",
+        "updated": 1684640718
+    },
+    "Twin Peaks": {
+        "id": 156,
+        "url": "https://www.tvmaze.com/shows/156/twin-peaks",
+        "name": "Twin Peaks",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Supernatural"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 62,
+        "premiered": "1990-04-08",
+        "ended": "2017-09-03",
+        "officialSite": "http://www.sho.com/twin-peaks",
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.1
+        },
+        "weight": 96,
+        "network": {
+            "id": 9,
+            "name": "Showtime",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.sho.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6450,
+            "thetvdb": 70533,
+            "imdb": "tt0098936"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/397/992910.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/397/992910.jpg"
+        },
+        "summary": "<p>Set in the fictional town of Twin Peaks in northeast Washington state, this is the story of FBI Special Agent Dale Cooper and his investigation of the murder of a popular local teenage schoolgirl, Laura Palmer.</p>",
+        "updated": 1688711144
+    },
+    "Star Trek": {
+        "id": 490,
+        "url": "https://www.tvmaze.com/shows/490/star-trek",
+        "name": "Star Trek",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science-Fiction"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1966-09-08",
+        "ended": "1969-06-03",
+        "officialSite": null,
+        "schedule": {
+            "time": "20:30",
+            "days": [
+                "Friday"
+            ]
+        },
+        "rating": {
+            "average": 8.4
+        },
+        "weight": 97,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5333,
+            "thetvdb": 77526,
+            "imdb": "tt0060028"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/292/730791.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/292/730791.jpg"
+        },
+        "summary": "<p>The original <b>Star Trek</b> series focuses on the 23rd century adventures of Captain James T. Kirk and the U.S.S. <i>Enterprise </i>(NCC-1701), a powerful interstellar spacecraft dispatched by Earth-based Starfleet Command to explore the galaxy. Kirk commands a crew of 430 men and women aboard his starship, which can travel at speeds surpassing the speed of light. Kirk's five-year mission\u2014and his mandate from Starfleet\u2014is to seek out new life and new civilizations, and to boldly go where no man has gone before.</p>",
+        "updated": 1688715683
+    },
+    "Curb Your Enthusiasm": {
+        "id": 551,
+        "url": "https://www.tvmaze.com/shows/551/curb-your-enthusiasm",
+        "name": "Curb Your Enthusiasm",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Running",
+        "runtime": 30,
+        "averageRuntime": 32,
+        "premiered": "2000-10-15",
+        "ended": null,
+        "officialSite": "http://www.hbo.com/curb-your-enthusiasm",
+        "schedule": {
+            "time": "22:30",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 7.8
+        },
+        "weight": 98,
+        "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.hbo.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3188,
+            "thetvdb": 76203,
+            "imdb": "tt0264235"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/361/903758.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/361/903758.jpg"
+        },
+        "summary": "<p><b>Curb Your Enthusiasm</b> stars <i>Seinfeld</i> co-creator Larry David as himself in an unsparing but tongue-in-cheek depiction of his life. Shot in a verite style and featuring celebrities playing themselves, the episodes are improvised by the actors from an outline created by David.</p>",
+        "updated": 1671920140
+    },
+    "Cheers": {
+        "id": 553,
+        "url": "https://www.tvmaze.com/shows/553/cheers",
+        "name": "Cheers",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1982-09-30",
+        "ended": "1993-05-20",
+        "officialSite": null,
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 8.1
+        },
+        "weight": 92,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3044,
+            "thetvdb": 77623,
+            "imdb": "tt0083399"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/96/241434.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/96/241434.jpg"
+        },
+        "summary": "<p><b>Cheers</b> takes viewers back to the Boston bar where everybody knows your name. As former baseball star Sam Malone and his colleague Diane Chambers fight their mutual attractions, they cater to their regulars including Norm Petersen and Cliff Claven. Talking about their problems, laughing at each other's flaws and trying to be there when someone needs them, the gang are joined by na\u00efve farm boy Woody, bitter waitress Carla , troubled psychiatrist Frasier and his wife.</p>",
+        "updated": 1677148815
+    },
+    "The Office": {
+        "id": 526,
+        "url": "https://www.tvmaze.com/shows/526/the-office",
+        "name": "The Office",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2005-03-24",
+        "ended": "2013-05-16",
+        "officialSite": "http://www.nbc.com/the-office",
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 8.4
+        },
+        "weight": 94,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6061,
+            "thetvdb": 73244,
+            "imdb": "tt0386676"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/271/678637.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/271/678637.jpg"
+        },
+        "summary": "<p>Steve Carell stars in <b>The Office</b>, a fresh and funny mockumentary-style glimpse into the daily interactions of the eccentric workers at the Dunder Mifflin paper supply company. Based on the smash-hit British series of the same name and adapted for American Television by Greg Daniels, this fast-paced comedy parodies contemporary American water-cooler culture. Earnest but clueless regional manager Michael Scott believes himself to be an exceptional boss and mentor, but actually receives more eye-rolls than respect from his oddball staff.</p>",
+        "updated": 1677413462
+    },
+    "Louie": {
+        "id": 342,
+        "url": "https://www.tvmaze.com/shows/342/louie",
+        "name": "Louie",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2010-06-29",
+        "ended": "2015-05-28",
+        "officialSite": "http://www.fxnetworks.com/louie/",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 7.9
+        },
+        "weight": 49,
+        "network": {
+            "id": 13,
+            "name": "FX",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 24504,
+            "thetvdb": 155201,
+            "imdb": "tt1492966"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5334.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5334.jpg"
+        },
+        "summary": "<p><b>Louie</b> is a comedy filtered through the observational humor of Louis C.K. Each episode puts a spotlight on Louis' hectic life as a successful stand-up comedian and newly single father raising his two daughters. The single-camera comedy is a mix of Louis C.K.'s stand-up comedy and scripted short films.</p>",
+        "updated": 1623042577
+    },
+    "Deadwood": {
+        "id": 565,
+        "url": "https://www.tvmaze.com/shows/565/deadwood",
+        "name": "Deadwood",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Crime",
+            "Western"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2004-03-21",
+        "ended": "2019-05-31",
+        "officialSite": "https://www.hbo.com/deadwood",
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.8
+        },
+        "weight": 94,
+        "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.hbo.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3267,
+            "thetvdb": 72023,
+            "imdb": "tt0348914"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11724.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11724.jpg"
+        },
+        "summary": "<p>The outlaw camp of <b>Deadwood</b> marches slowly towards civilization, facing its first elections. But the power struggles continue over everything in Deadwood\u2014influence, money, and whores\u2014as the founding camp members form strategic alliances to face down the threat of a powerful newcomer, seeking to remake Deadwood in his image.</p>",
+        "updated": 1684593752
+    },
+    "Friday Night Lights": {
+        "id": 781,
+        "url": "https://www.tvmaze.com/shows/781/friday-night-lights",
+        "name": "Friday Night Lights",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Sports"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2006-10-03",
+        "ended": "2011-02-09",
+        "officialSite": "https://www.nbc.com/friday-night-lights",
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Wednesday"
+            ]
+        },
+        "rating": {
+            "average": 8.4
+        },
+        "weight": 58,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 7990,
+            "thetvdb": 79337,
+            "imdb": "tt0758745"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15436.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15436.jpg"
+        },
+        "summary": "<p>In the town of Dillon, Texas, football is life, and no one knows that better than new head Coach Eric Taylor. Pressure mounts as the Dillon Panthers led by star quarterback Jason Street, enter pre-season surrounded by a swirl of press, recruiters and State Championship sized expectations. Backup quarterback Matt Saracen prepares to ride the bench in the shadow of Jason Street, as running back Tim Riggins struggles with a serious vice. As the season opener grows near, the town of Dillon is focused on what they believe to be most important, winning.</p>",
+        "updated": 1687872882
+    },
+    "Veep": {
+        "id": 142,
+        "url": "https://www.tvmaze.com/shows/142/veep",
+        "name": "Veep",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2012-04-22",
+        "ended": "2019-05-12",
+        "officialSite": "http://www.hbo.com/veep/",
+        "schedule": {
+            "time": "22:30",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8
+        },
+        "weight": 94,
+        "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.hbo.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 28149,
+            "thetvdb": 237831,
+            "imdb": "tt1759761"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/189/472887.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/189/472887.jpg"
+        },
+        "summary": "<p>Former Senator Selina Meyer has accepted the call to serve as Vice President of the United States. The job is nothing like she imagined and everything she was warned about. <b>Veep</b> follows Meyer and her staff as they attempt to make their mark and leave a lasting legacy, without getting tripped up in the day-to-day political games that define Washington.</p>",
+        "updated": 1678026486
+    },
+    "Friends": {
+        "id": 431,
+        "url": "https://www.tvmaze.com/shows/431/friends",
+        "name": "Friends",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1994-09-22",
+        "ended": "2004-05-06",
+        "officialSite": null,
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 8.5
+        },
+        "weight": 98,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3616,
+            "thetvdb": 79168,
+            "imdb": "tt0108778"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/41/104565.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/41/104565.jpg"
+        },
+        "summary": "<p>Six young (20-something) people from New York City (Manhattan), on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.</p><p>This average group of buddies goes through massive mayhem, family trouble, past and future romances, fights, laughs, tears and surprises as they learn what it really means to be a friend.</p>",
+        "updated": 1685634738
+    },
+    "Arrested Development": {
+        "id": 321,
+        "url": "https://www.tvmaze.com/shows/321/arrested-development",
+        "name": "Arrested Development",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "status": "Ended",
+        "runtime": null,
+        "averageRuntime": 30,
+        "premiered": "2003-11-02",
+        "ended": "2019-03-15",
+        "officialSite": "https://www.netflix.com/title/70140358",
+        "schedule": {
+            "time": "",
+            "days": []
+        },
+        "rating": {
+            "average": 8.3
+        },
+        "weight": 91,
+        "network": null,
+        "webChannel": {
+            "id": 1,
+            "name": "Netflix",
+            "country": null,
+            "officialSite": "https://www.netflix.com/"
+        },
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 2649,
+            "thetvdb": 72173,
+            "imdb": "tt0367279"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/338/846049.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/338/846049.jpg"
+        },
+        "summary": "<p>After being passed over as partner at The Bluth Co., widower Michael resolves to quit the family business and move away to spend more quality time with his 13-year-old son, George Michael. But when his father George Bluth Sr. is arrested for shifty accounting practices and the family assets are frozen, Michael is forced to stay in Orange County to help his wildly eccentric family pick up the pieces.</p>",
+        "updated": 1684747753
+    },
+    "The X Files": {
+        "id": 430,
+        "url": "https://www.tvmaze.com/shows/430/the-x-files",
+        "name": "The X-Files",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Crime",
+            "Science-Fiction"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1993-09-10",
+        "ended": "2018-03-21",
+        "officialSite": "http://www.fox.com/the-x-files",
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Wednesday"
+            ]
+        },
+        "rating": {
+            "average": 8.6
+        },
+        "weight": 99,
+        "network": {
+            "id": 4,
+            "name": "FOX",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.fox.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6312,
+            "thetvdb": 77398,
+            "imdb": "tt0106179"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/422/1056103.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/422/1056103.jpg"
+        },
+        "summary": "<p>Two FBI agents, Fox Mulder (a believer) and Dana Scully (a skeptic), investigate unexplained cases where the paranormal might be involved while hidden forces work to impede their efforts.</p>",
+        "updated": 1688092669
+    },
+    "Monty Python's Flying Circus": {
+        "id": 694,
+        "url": "https://www.tvmaze.com/shows/694/monty-pythons-flying-circus",
+        "name": "Monty Python's Flying Circus",
+        "type": "Variety",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1969-10-05",
+        "ended": "1974-12-05",
+        "officialSite": null,
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 8.2
+        },
+        "weight": 84,
+        "network": {
+            "id": 12,
+            "name": "BBC One",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "officialSite": "https://www.bbc.co.uk/bbcone"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 4522,
+            "thetvdb": 75853,
+            "imdb": "tt0063929"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14980.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14980.jpg"
+        },
+        "summary": "<p>And now for something completely different: <b>Monty Python's Flying Circus</b> was simply the most influential comedy program television has ever seen. Five Englishmen, all working under the constraints of conventional TV shows such as The Frost Report (for which the five Englishmen wrote), gathered together with an expatriate American in the spring of 1969 to break the rules. The result, first airing on BBC-1 on October 5, 1969, has influenced countless future men and women in the media and comedy since.</p>",
+        "updated": 1652756781
+    },
+    "The Tonight Show Starring Johnny Carson": {
+        "id": 15884,
+        "url": "https://www.tvmaze.com/shows/15884/the-tonight-show-starring-johnny-carson",
+        "name": "The Tonight Show Starring Johnny Carson",
+        "type": "Talk Show",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1962-10-01",
+        "ended": "1992-05-22",
+        "officialSite": null,
+        "schedule": {
+            "time": "23:35",
+            "days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ]
+        },
+        "rating": {
+            "average": null
+        },
+        "weight": 58,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6246,
+            "thetvdb": 70334,
+            "imdb": "tt0055708"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/53/133638.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/53/133638.jpg"
+        },
+        "summary": "<p>US late night talk/variety show hosted by Johnny Carson.</p>",
+        "updated": 1686456943
+    },
+    "Sesame Street": {
+        "id": 6544,
+        "url": "https://www.tvmaze.com/shows/6544/sesame-street",
+        "name": "Sesame Street",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Children"
+        ],
+        "status": "Running",
+        "runtime": 30,
+        "averageRuntime": 57,
+        "premiered": "1969-11-10",
+        "ended": null,
+        "officialSite": "https://www.hbomax.com/series/urn:hbo:series:GXouLWwp8MsPDIgEAAAqT",
+        "schedule": {
+            "time": "",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 8.2
+        },
+        "weight": 78,
+        "network": null,
+        "webChannel": {
+            "id": 329,
+            "name": "Max",
+            "country": null,
+            "officialSite": "https://www.max.com/"
+        },
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5152,
+            "thetvdb": 78419,
+            "imdb": "tt0063951"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/222/555972.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/222/555972.jpg"
+        },
+        "summary": "<p><b>Sesame Street</b> is a widely recognized and perpetually daring experiment in educational children's programming. This show has taken popular-culture and turned it upside-down. The fast-paced advertisements that had parents of the new era worrying for their children were the basis for the original format of this show. The show has often satirized pop culture, and made itself easier for parents to watch along too. And thus, the positive impact this show has had on modern society is beyond another. No show is more recognized the world over by as many generations and walks of life. Shown in its original format or with changes to reflect a regional education focus, Sesame Street is now seen in over 140 countries. The show that Entertainment Weekly named the \"20th Best Ever Show\" has changed the education scene to focus on \"entertainment\". This has turned out to be a valuable theory that not only...</p>",
+        "updated": 1656968879
+    },
+    "I Love Lucy": {
+        "id": 3824,
+        "url": "https://www.tvmaze.com/shows/3824/i-love-lucy",
+        "name": "I Love Lucy",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1951-10-15",
+        "ended": "1960-04-01",
+        "officialSite": null,
+        "schedule": {
+            "time": "",
+            "days": [
+                "Friday"
+            ]
+        },
+        "rating": {
+            "average": 8.2
+        },
+        "weight": 76,
+        "network": {
+            "id": 2,
+            "name": "CBS",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cbs.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3944,
+            "thetvdb": 70584,
+            "imdb": "tt0043208"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/48076.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/48076.jpg"
+        },
+        "summary": "<p><b>I Love Lucy</b> follows the antics of stay-at-home mom Lucy Ricardo as she tries to outsmart her Cuban band-leader husband, Ricky, and get into show business. Along the way she usually ends up dragging her landlords and best friends, Fred and Ethel Mertz, into one of her wacky schemes which can create some hilarious situations.</p>",
+        "updated": 1677078716
+    },
+    "South Park": {
+        "id": 112,
+        "url": "https://www.tvmaze.com/shows/112/south-park",
+        "name": "South Park",
+        "type": "Animation",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Running",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1997-08-13",
+        "ended": null,
+        "officialSite": "https://www.cc.com/shows/south-park",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Wednesday"
+            ]
+        },
+        "rating": {
+            "average": 8.5
+        },
+        "weight": 99,
+        "network": {
+            "id": 23,
+            "name": "Comedy Central",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5266,
+            "thetvdb": 75897,
+            "imdb": "tt0121955"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/935.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/935.jpg"
+        },
+        "summary": "<p><b>South Park</b> is an adult comedy animation show centred around 4 children in the small town of south park. Its humour is often dark involving satirical elements and mocking current real-life events.</p>",
+        "updated": 1684065229
+    },
+    "30 Rock": {
+        "id": 537,
+        "url": "https://www.tvmaze.com/shows/537/30-rock",
+        "name": "30 Rock",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2006-10-11",
+        "ended": "2020-07-16",
+        "officialSite": "http://www.nbc.com/30-rock",
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 8
+        },
+        "weight": 93,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 11215,
+            "thetvdb": 79488,
+            "imdb": "tt0496424"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/467/1167896.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/467/1167896.jpg"
+        },
+        "summary": "<p>Multiple award-winning comedy <b>30 Rock</b> is told through the comedic voice of Emmy and two-time Golden Globe winner Tina Fey as variety show producer Liz Lemon. The series also features two-time Emmy and three-time Golden Globe winner Alec Baldwin as top network executive Jack Donaghy and Emmy nominee Tracy Morgan as Tracy Jordan, the unpredictable star of Lemon's hit variety show, TGS with Tracy Jordan, Lemon constantly has her hands full, juggling corporate interference from Donaghy and off-the-handle star antics from Jordan, all while attempting to salvage her own personal life.</p>",
+        "updated": 1688230605
+    },
+    "My So-Called Life": {
+        "id": 1254,
+        "url": "https://www.tvmaze.com/shows/1254/my-so-called-life",
+        "name": "My So-Called Life",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1994-08-25",
+        "ended": "1995-01-26",
+        "officialSite": null,
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 8.1
+        },
+        "weight": 72,
+        "network": {
+            "id": 3,
+            "name": "ABC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://abc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 4596,
+            "thetvdb": 78644,
+            "imdb": "tt0108872"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/17956.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/17956.jpg"
+        },
+        "summary": "<p>An authentic portrayal of teenage and parental angst, <b>My So-Called Life</b> expressed the challenges of growing up and growing older.</p>",
+        "updated": 1619888028
+    },
+    "Law & Order": {
+        "id": 562,
+        "url": "https://www.tvmaze.com/shows/562/law-order",
+        "name": "Law & Order",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Crime",
+            "Legal"
+        ],
+        "status": "Running",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1990-09-13",
+        "ended": null,
+        "officialSite": "https://www.nbc.com/law-order",
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 7.4
+        },
+        "weight": 99,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 4202,
+            "thetvdb": 72368,
+            "imdb": "tt0098844"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/441/1104686.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/441/1104686.jpg"
+        },
+        "summary": "<p>In the criminal justice system, the people are represented by two separate, yet equally important, groups: the police, who investigate crime; and the district attorneys, who prosecute the offenders. These are their stories.</p>",
+        "updated": 1684505520
+    },
+    "Orange Is the New Black": {
+        "id": 170,
+        "url": "https://www.tvmaze.com/shows/170/orange-is-the-new-black",
+        "name": "Orange Is the New Black",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Crime"
+        ],
+        "status": "Ended",
+        "runtime": null,
+        "averageRuntime": 60,
+        "premiered": "2013-07-11",
+        "ended": "2019-07-26",
+        "officialSite": "https://www.netflix.com/title/70242311",
+        "schedule": {
+            "time": "",
+            "days": []
+        },
+        "rating": {
+            "average": 8
+        },
+        "weight": 92,
+        "network": null,
+        "webChannel": {
+            "id": 1,
+            "name": "Netflix",
+            "country": null,
+            "officialSite": "https://www.netflix.com/"
+        },
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 32950,
+            "thetvdb": 264586,
+            "imdb": "tt2372162"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/203/508250.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/508250.jpg"
+        },
+        "summary": "<p><b>Orange Is the New Black</b> is the story of Piper Chapman, a woman in her thirties who is sentenced to fifteen months in prison after being convicted of a decade-old crime of transporting money for her drug-dealing girlfriend.</p>",
+        "updated": 1671133097
+    },
+    "Buffy the Vampire Slayer": {
+        "id": 427,
+        "url": "https://www.tvmaze.com/shows/427/buffy-the-vampire-slayer",
+        "name": "Buffy the Vampire Slayer",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Action",
+            "Supernatural"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1997-03-10",
+        "ended": "2003-05-20",
+        "officialSite": null,
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Tuesday"
+            ]
+        },
+        "rating": {
+            "average": 8.5
+        },
+        "weight": 97,
+        "network": {
+            "id": 70,
+            "name": "UPN",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 2930,
+            "thetvdb": 70327,
+            "imdb": "tt0118276"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/7490.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/7490.jpg"
+        },
+        "summary": "<p><i>\"Into every generation, there is a chosen one. She alone will stand against the vampires, the demons, and the forces of darkness. She is the slayer.\"</i></p><p>Buffy Summers is the latest in a line of young women known as \"Vampire Slayers\" who have to battle vampires, demons and other forces of evil, all while growing up and dealing with love and teenage angst in this iconic cult series. She and her \"Scooby Gang\" fight the good fight in a small town called Sunnydale.</p>",
+        "updated": 1674793735
+    },
+    "Lost": {
+        "id": 123,
+        "url": "https://www.tvmaze.com/shows/123/lost",
+        "name": "Lost",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Adventure",
+            "Supernatural"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2004-09-22",
+        "ended": "2010-05-23",
+        "officialSite": "http://abc.go.com/shows/lost",
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Tuesday"
+            ]
+        },
+        "rating": {
+            "average": 8.2
+        },
+        "weight": 96,
+        "network": {
+            "id": 3,
+            "name": "ABC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://abc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 4284,
+            "thetvdb": 73739,
+            "imdb": "tt0411008"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1389.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1389.jpg"
+        },
+        "summary": "<p>Out of the blackness, the first thing Jack senses is pain. Then burning sun. A Bamboo forest. Smoke. Screams. With a rush comes the horrible awareness that the plane he was on tore apart in mid-air and crashed on a Pacific island. From there it's a blur, as his doctor's instinct kicks in: people need his help.</p><p>Stripped of everything, the 48 survivors scavenge what they can from the plane for their survival. Some panic. Some pin their hopes on rescue. A few find inner strength they never knew they had -- like Kate, who, with no medical training, suddenly finds herself suturing the doctor's wounds. Hurley - a man with a warm sense of humor despite the desperate situation - does his best to keep his cool as he helps those around him to survive. Charlie is a faded rock star who harbors a painful secret. Sayid is a Middle Eastern man who must wrestle with the racial profiling directed at him by some of his fellow survivors. Jin and Sun are a Korean couple whose traditions, values and language are foreign, and thus causes much to get lost in the translation. Sawyer has an air of danger surrounding him, and his intense sense of mistrust for everyone around him could prove to be fatal to his fellow castaways. Michael has just gained custody of his nine-year-old son, Walt, after the death of his ex-wife - they are a father and son who don't even know each other. Locke is a mysterious man who keeps to himself, and who harbors a deeper connection to the island than any of the others. Self-centered Shannon - who actually gives herself a pedicure amid the chaos - and her estranged controlling brother, Boone , constantly bicker and must learn to get along if they are to survive. And young Claire is eight months pregnant and ill-prepared for the hardships of motherhood - especially on a deserted island.</p>",
+        "updated": 1685030529
+    },
+    "The Shield": {
+        "id": 663,
+        "url": "https://www.tvmaze.com/shows/663/the-shield",
+        "name": "The Shield",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 61,
+        "premiered": "2002-03-12",
+        "ended": "2008-11-25",
+        "officialSite": null,
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Tuesday"
+            ]
+        },
+        "rating": {
+            "average": 8.7
+        },
+        "weight": 95,
+        "network": {
+            "id": 13,
+            "name": "FX",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6185,
+            "thetvdb": 78261,
+            "imdb": "tt0286486"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/55/138892.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/55/138892.jpg"
+        },
+        "summary": "<p>Detective Vic Mackey is the leader of an elite Strike Team unit, a group of cops effective at eliminating crime but also operating under Vic's own set of rules. But his rules sometimes cross the fine line between legal and illegal. Now the precinct has a new captain who doesn't like Vic's tactics and wants to bust him off the force - even as the captain finds himself going to Vic for help whenever the going gets rough.</p>",
+        "updated": 1662994450
+    },
+    "The Honeymooners": {
+        "id": 3825,
+        "url": "https://www.tvmaze.com/shows/3825/the-honeymooners",
+        "name": "The Honeymooners",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1952-09-20",
+        "ended": "2004-10-16",
+        "officialSite": null,
+        "schedule": {
+            "time": "",
+            "days": []
+        },
+        "rating": {
+            "average": 8.2
+        },
+        "weight": 65,
+        "network": {
+            "id": 2,
+            "name": "CBS",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cbs.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": null,
+            "thetvdb": 73923,
+            "imdb": "tt0042114"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/48082.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/48082.jpg"
+        },
+        "summary": "<p>Ralph Kramden is a New York bus driver who dreams of a better life. With his eccentric good friend, Ed Norton the sewer worker, he constantly tries crackpot schemes to strike it rich. All the while, his exasperated wife, Alice, is always there to bring him down to earth or to pick him up if he beats her to it. For as much as they fight, even dunderhead Ralph knows that she is the greatest and vice versa.</p>",
+        "updated": 1648504776
+    },
+    "NYPD Blue": {
+        "id": 570,
+        "url": "https://www.tvmaze.com/shows/570/nypd-blue",
+        "name": "NYPD Blue",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1993-09-21",
+        "ended": "2005-03-01",
+        "officialSite": null,
+        "schedule": {
+            "time": "22:00",
+            "days": []
+        },
+        "rating": {
+            "average": 7.9
+        },
+        "weight": 78,
+        "network": {
+            "id": 3,
+            "name": "ABC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://abc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 4698,
+            "thetvdb": 73132,
+            "imdb": "tt0106079"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11779.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11779.jpg"
+        },
+        "summary": "<p>The gritty details of life as a member of a New York City police unit.</p>",
+        "updated": 1687701570
+    },
+    "The Americans": {
+        "id": 157,
+        "url": "https://www.tvmaze.com/shows/157/the-americans",
+        "name": "The Americans",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Espionage"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 62,
+        "premiered": "2013-01-30",
+        "ended": "2018-05-30",
+        "officialSite": "http://www.fxnetworks.com/theamericans",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Wednesday"
+            ]
+        },
+        "rating": {
+            "average": 8.5
+        },
+        "weight": 97,
+        "network": {
+            "id": 13,
+            "name": "FX",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 30449,
+            "thetvdb": 261690,
+            "imdb": "tt2149175"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/146/366911.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/146/366911.jpg"
+        },
+        "summary": "<p><b>The Americans</b> is a period drama about the complex marriage of two KGB spies posing as Americans in suburban Washington D.C. shortly after Ronald Reagan is elected President.</p>",
+        "updated": 1685216185
+    },
+    "Columbo": {
+        "id": 466,
+        "url": "https://www.tvmaze.com/shows/466/columbo",
+        "name": "Columbo",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Crime",
+            "Mystery"
+        ],
+        "status": "Ended",
+        "runtime": 120,
+        "averageRuntime": 108,
+        "premiered": "1968-02-20",
+        "ended": "2003-01-30",
+        "officialSite": null,
+        "schedule": {
+            "time": "12:00",
+            "days": []
+        },
+        "rating": {
+            "average": 8.2
+        },
+        "weight": 94,
+        "network": {
+            "id": 3,
+            "name": "ABC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://abc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3114,
+            "thetvdb": 70369,
+            "imdb": "tt1466074"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9270.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9270.jpg"
+        },
+        "summary": "<p>This is the detective series that inspired them all. Legendary actor Peter Falk is back in his 4-time Emmy\u00ae Award winning role, as the ruffled, cigar-chomping, trenchcoat-wearing police lieutenant who is asking all the right questions.</p>",
+        "updated": 1687917192
+    },
+    "Battlestar Galactica": {
+        "id": 166,
+        "url": "https://www.tvmaze.com/shows/166/battlestar-galactica",
+        "name": "Battlestar Galactica",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Science-Fiction",
+            "War"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 61,
+        "premiered": "2003-12-08",
+        "ended": "2010-01-10",
+        "officialSite": "http://www.syfy.com/battlestargalactica",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Friday"
+            ]
+        },
+        "rating": {
+            "average": 8.7
+        },
+        "weight": 98,
+        "network": {
+            "id": 16,
+            "name": "Syfy",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 2730,
+            "thetvdb": 73545,
+            "imdb": "tt0407362"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2313.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2313.jpg"
+        },
+        "summary": "<p>The world ended with no warning, and all that was left\u2026 was hope.</p><p>A truce between the humans of the Twelve Colonies and the Cylons\u2014intelligent robots designed by humankind\u2014lasts for 40 tense and silent years. <b>Battlestar Galactica</b> picks up just as the Cylons commit mass genocide against humanity. Only the Battlestar Galactica (an old warship about to be decommissioned and turned into a museum) and those souls fortunate enough to be aboard other starships were able to survive the attack. In the aftermath, the Galactica's commanding officer, William Adama, finds himself responsible for safeguarding the last remnants of the human race\u2014fewer than 50,000 desperate survivors. Meanwhile, the annihilation of the Colonial government results in the succession of the Secretary of Education, Laura Roslin, to the presidency. Driven by prophetic visions and political necessity, the Galactica travels through uncharted space in hopes of finding the mythical, lost 13th colony\u2014Earth.</p>",
+        "updated": 1641924420
+    },
+    "Mary Tyler Moore": {
+        "id": 4050,
+        "url": "https://www.tvmaze.com/shows/4050/the-mary-tyler-moore-show",
+        "name": "The Mary Tyler Moore Show",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1970-09-19",
+        "ended": "1977-03-19",
+        "officialSite": null,
+        "schedule": {
+            "time": "",
+            "days": [
+                "Saturday"
+            ]
+        },
+        "rating": {
+            "average": 8.2
+        },
+        "weight": 91,
+        "network": {
+            "id": 2,
+            "name": "CBS",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cbs.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5973,
+            "thetvdb": 77051,
+            "imdb": "tt0065314"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/49640.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/49640.jpg"
+        },
+        "summary": "<p><b>The Mary Tyler Moore Show</b> was one of the most literate, realistic, and enduring situation comedies of the 1970s. Mary Richards was the idealized single career woman. She had come to Minneapolis after breaking up with a man she had been dating for four years. Ambitious, and looking for new friends, she moved into an older apartment building and went to work as an assistant producer of the local news show on television station WJM-TV. In her early 30s, Mary symbolized the independent woman of the 1970s.</p>",
+        "updated": 1687790005
+    },
+    "The Rockford Files": {
+        "id": 832,
+        "url": "https://www.tvmaze.com/shows/832/the-rockford-files",
+        "name": "The Rockford Files",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Action",
+            "Crime"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1974-03-27",
+        "ended": "1980-01-10",
+        "officialSite": null,
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 8.4
+        },
+        "weight": 74,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6144,
+            "thetvdb": 71219,
+            "imdb": "tt0071042"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15776.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15776.jpg"
+        },
+        "summary": "<p>Jim Rockford is an ex-con-turned-private-investigator who would rather fish than fight, but whose instinct on closed cases is more golden than his classic Pontiac Firebird. From his mobile home in Malibu, this wisecracking private eye takes on the cases of the lost and the dispossessed, chasing down seemingly long-dead clues in the sun-baked streets and seamy alleys of Los Angeles.</p>",
+        "updated": 1685947453
+    },
+    "Taxi": {
+        "id": 2218,
+        "url": "https://www.tvmaze.com/shows/2218/taxi",
+        "name": "Taxi",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1978-09-12",
+        "ended": "1983-06-15",
+        "officialSite": null,
+        "schedule": {
+            "time": "",
+            "days": []
+        },
+        "rating": {
+            "average": 7.3
+        },
+        "weight": 47,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5474,
+            "thetvdb": 71527,
+            "imdb": "tt0077089"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/30692.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/30692.jpg"
+        },
+        "summary": "<p>The classic sitcom that zeros in on a group of New York City cab drivers. Lording over Alex, Bobby, Elaine, Tony, John, and Latka is the one and only Louie De Palma. The snide and surly taxi dispatcher, from the safety of his dispatcher's cage, barks orders, hurls insults, and mercilessly berates the diverse and eccentric characters who drive for him. Along the way, they form a special bond, becoming friends and helping each other navigate the sometimes crazy road called life.</p>",
+        "updated": 1639484132
+    },
+    "ER": {
+        "id": 547,
+        "url": "https://www.tvmaze.com/shows/547/er",
+        "name": "ER",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Medical"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1994-09-19",
+        "ended": "2009-04-02",
+        "officialSite": null,
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 8.3
+        },
+        "weight": 92,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3451,
+            "thetvdb": 70761,
+            "imdb": "tt0108757"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11490.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11490.jpg"
+        },
+        "summary": "<p><b>ER</b> explores the inner workings of an urban teaching hospital and the critical issues faced by the dedicated physicians and staff of its overburdened emergency room. The highly acclaimed drama series holds the distinction of being recognized as the most Emmy-nominated series in the history of television.</p>",
+        "updated": 1685833184
+    },
+    "Fargo": {
+        "id": 32,
+        "url": "https://www.tvmaze.com/shows/32/fargo",
+        "name": "Fargo",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Crime"
+        ],
+        "status": "Running",
+        "runtime": 60,
+        "averageRuntime": 68,
+        "premiered": "2014-04-15",
+        "ended": null,
+        "officialSite": "http://www.fxnetworks.com/fargo",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.8
+        },
+        "weight": 99,
+        "network": {
+            "id": 13,
+            "name": "FX",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 35276,
+            "thetvdb": 269613,
+            "imdb": "tt2802850"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/267/669639.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/267/669639.jpg"
+        },
+        "summary": "<p><b>Fargo </b>is a seasonal anthology crime drama with some dark comical elements, inspired by the film <i>Fargo</i> written by the Coen brothers. Each season follows a new case and new characters, all entrenched in the trademark humor, murder and \"Minnesota nice\" that has made the film an enduring classic.</p>",
+        "updated": 1659876204
+    },
+    "The Colbert Report": {
+        "id": 247,
+        "url": "https://www.tvmaze.com/shows/247/the-colbert-report",
+        "name": "The Colbert Report",
+        "type": "Talk Show",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2005-10-17",
+        "ended": "2014-12-18",
+        "officialSite": null,
+        "schedule": {
+            "time": "23:30",
+            "days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 7.6
+        },
+        "weight": 68,
+        "network": {
+            "id": 23,
+            "name": "Comedy Central",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6715,
+            "thetvdb": 79274,
+            "imdb": "tt0458254"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/326/817399.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/326/817399.jpg"
+        },
+        "summary": "<p>Feel the news along with Stephen Colbert, America's ballsiest pundit.</p>",
+        "updated": 1627227536
+    },
+    "The Bob Newhart Show": {
+        "id": 5734,
+        "url": "https://www.tvmaze.com/shows/5734/the-bob-newhart-show",
+        "name": "The Bob Newhart Show",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1972-09-16",
+        "ended": "1978-04-01",
+        "officialSite": null,
+        "schedule": {
+            "time": "",
+            "days": [
+                "Saturday"
+            ]
+        },
+        "rating": {
+            "average": 8
+        },
+        "weight": 89,
+        "network": {
+            "id": 2,
+            "name": "CBS",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cbs.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5630,
+            "thetvdb": 78089,
+            "imdb": "tt0068049"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/57188.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/57188.jpg"
+        },
+        "summary": "<p>Dr. Robert Hartley is a Chicago psychologist living with his schoolteacher wife Emily. Complicating life for the serene, stammering doc is his neighbor, Howard, a flighty navigator; and Bob's coworkers, dentist Jerry and flippant receptionist Carol.</p>",
+        "updated": 1684004970
+    },
+    "The Muppet Show": {
+        "id": 3288,
+        "url": "https://www.tvmaze.com/shows/3288/the-muppet-show",
+        "name": "The Muppet Show",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy",
+            "Children"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1976-09-20",
+        "ended": "1980-08-19",
+        "officialSite": null,
+        "schedule": {
+            "time": "",
+            "days": []
+        },
+        "rating": {
+            "average": 7.9
+        },
+        "weight": 66,
+        "network": {
+            "id": 2,
+            "name": "CBS",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cbs.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": null,
+            "thetvdb": 72476,
+            "imdb": "tt0074028"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/17/43911.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/17/43911.jpg"
+        },
+        "summary": "<p><b>The Muppet Show</b> is a half-hour variety show in which Kermit the Frog and the Muppets put on a weekly musical/comedy revue at the Muppet Theater. Unfortunately for them, things never quite go according to plan, for the Muppets or their weekly guest stars.</p>",
+        "updated": 1681957455
+    },
+    "Six Feet Under": {
+        "id": 367,
+        "url": "https://www.tvmaze.com/shows/367/six-feet-under",
+        "name": "Six Feet Under",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2001-06-03",
+        "ended": "2005-08-21",
+        "officialSite": "http://www.hbo.com/six-feet-under",
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.4
+        },
+        "weight": 96,
+        "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.hbo.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5214,
+            "thetvdb": 75450,
+            "imdb": "tt0248654"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5480.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5480.jpg"
+        },
+        "summary": "<p>When death is your business, what is your life? For the Fisher family, the world outside of their family-owned funeral home continues to be at least as challenging as--and far less predictable than--the one inside on <b>Six Feet Under</b>.</p>",
+        "updated": 1644248586
+    },
+    "24": {
+        "id": 167,
+        "url": "https://www.tvmaze.com/shows/167/24",
+        "name": "24",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Action",
+            "Thriller"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2001-11-06",
+        "ended": "2014-09-30",
+        "officialSite": "http://www.fox.com/",
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Monday"
+            ]
+        },
+        "rating": {
+            "average": 8.4
+        },
+        "weight": 92,
+        "network": {
+            "id": 4,
+            "name": "FOX",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.fox.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 2445,
+            "thetvdb": 76290,
+            "imdb": "tt0285331"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2330.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2330.jpg"
+        },
+        "summary": "<p>Jack Bauer, agent of CTU (Counter Terrorist Unit) faces threats against his country and himself in this action packed show. Each season contains of one day, each episode shows one hour of Jack Bauer's day. <b>24</b> is the only action show in real time and gained a lot of fans during the years with this concept.</p>",
+        "updated": 1668855260
+    },
+    "Fawlty Towers": {
+        "id": 577,
+        "url": "https://www.tvmaze.com/shows/577/fawlty-towers",
+        "name": "Fawlty Towers",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1975-09-19",
+        "ended": "1979-10-25",
+        "officialSite": "http://www.bbc.co.uk/programmes/b006xxvg",
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Monday"
+            ]
+        },
+        "rating": {
+            "average": 8.7
+        },
+        "weight": 91,
+        "network": {
+            "id": 37,
+            "name": "BBC Two",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "officialSite": "https://www.bbc.co.uk/bbctwo"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3532,
+            "thetvdb": 75932,
+            "imdb": "tt0072500"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11842.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11842.jpg"
+        },
+        "summary": "<p><b>Fawlty Towers</b> is set in a fictional hotel in the seaside town of Torquay. The plots centre on tense, rude and put-upon owner Basil Fawlty, his bossy wife Sybil, comparatively normal chambermaid Polly, who is often the peacemaker and voice of reason, and hapless Spanish waiter Manuel, showing their attempts to run the hotel amidst farcical situations and an array of demanding and eccentric guests.</p>",
+        "updated": 1668664068
+    },
+    "Hill Street Blues": {
+        "id": 3741,
+        "url": "https://www.tvmaze.com/shows/3741/hill-street-blues",
+        "name": "Hill Street Blues",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Crime",
+            "Mystery"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1981-01-15",
+        "ended": "1987-05-12",
+        "officialSite": null,
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Tuesday"
+            ]
+        },
+        "rating": {
+            "average": 8.1
+        },
+        "weight": 84,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3865,
+            "thetvdb": 74449,
+            "imdb": "tt0081873"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/47756.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/47756.jpg"
+        },
+        "summary": "<p>The lives and work of the staff of an inner city police precinct.</p>",
+        "updated": 1685146167
+    },
+    "Roots": {
+        "id": 5515,
+        "url": "https://www.tvmaze.com/shows/5515/roots",
+        "name": "Roots",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "status": "Ended",
+        "runtime": 120,
+        "averageRuntime": 120,
+        "premiered": "1977-01-23",
+        "ended": "1977-01-30",
+        "officialSite": null,
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.1
+        },
+        "weight": 47,
+        "network": {
+            "id": 3,
+            "name": "ABC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://abc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 8567,
+            "thetvdb": 80280,
+            "imdb": "tt0075572"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/192/480710.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/192/480710.jpg"
+        },
+        "summary": "<p>The epic tale of celebrated Pulitzer-prize winning author Alex Haley's ancestors as portrayed in the acclaimed twelve hour mini-series <b>Roots</b>, was first told in his 1976 bestseller Roots: The Saga of an American Family. The docu-drama covers a period of history that begins in mid-1700s Gambia, West Africa and concludes during post-Civil War United States, over 100 years later. This 1977 miniseries eventually won 9 Emmy awards, a Golden Globe award, and a Peabody award, and still stands as the most watched miniseries in U.S. history.</p>",
+        "updated": 1649329946
+    },
+    "Beavis and Butt-Head": {
+        "id": 910,
+        "url": "https://www.tvmaze.com/shows/910/beavis-and-butt-head",
+        "name": "Beavis and Butt-Head",
+        "type": "Animation",
+        "language": "English",
+        "genres": [
+            "Comedy",
+            "Music"
+        ],
+        "status": "Ended",
+        "runtime": 15,
+        "averageRuntime": 15,
+        "premiered": "1992-09-22",
+        "ended": "2011-12-29",
+        "officialSite": "http://www.mtv.com/shows/beavis-butt-head",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 7.5
+        },
+        "weight": 86,
+        "network": {
+            "id": 22,
+            "name": "MTV",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 2746,
+            "thetvdb": 75863,
+            "imdb": "tt0105950"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/16043.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/16043.jpg"
+        },
+        "summary": "<p>A national treasure in an age of idiocy\u2026 When <b>Beavis and Butt-Head</b> first appeared on MTV more than a decade ago, critics dismissed them as brainless couch potatoes who did nothing but watch TV and make lewd jokes about bodily functions. Today we know they were ahead of their time. Beavis and Butt-Head's unique idiocy profoundly changed television, movies, pop culture and the world.</p>",
+        "updated": 1665524130
+    },
+    "Your Show of Shows": {
+        "id": 40956,
+        "url": "https://www.tvmaze.com/shows/40956/your-show-of-shows",
+        "name": "Your Show of Shows",
+        "type": "Variety",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 90,
+        "averageRuntime": 90,
+        "premiered": "1950-02-25",
+        "ended": "1954-06-05",
+        "officialSite": null,
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Saturday"
+            ]
+        },
+        "rating": {
+            "average": null
+        },
+        "weight": 5,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": null,
+            "thetvdb": 77737,
+            "imdb": "tt0042173"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/183/458809.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/183/458809.jpg"
+        },
+        "summary": "<p>Variety show starring Sid Caesar which was one of the the first ensemble shows on television.</p>",
+        "updated": 1594362846
+    },
+    "Sex and the City": {
+        "id": 676,
+        "url": "https://www.tvmaze.com/shows/676/sex-and-the-city",
+        "name": "Sex and the City",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Romance"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1998-06-06",
+        "ended": "2004-02-22",
+        "officialSite": "http://www.hbo.com/sex-and-the-city",
+        "schedule": {
+            "time": "",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 7
+        },
+        "weight": 95,
+        "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.hbo.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5155,
+            "thetvdb": 76648,
+            "imdb": "tt0159206"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/107/269795.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/107/269795.jpg"
+        },
+        "summary": "<p>A candid, comic view of sex and relationships, <b>Sex and the City</b> stars Sarah Jessica Parker as Carrie Bradshaw, a New York-based writer who explores and experiences the unique world of Manhattan's dating scene, chronicling the mating habits of single New Yorkers. Executive produced by Michael Patrick King, the series also stars cast regulars Kim Cattrall as PR executive Samantha Jones, who's seen -- and done -- it all; Kristin Davis as Charlotte York, still trying to hold on to the idea of happily ever after; and Cynthia Nixon as corporate lawyer and mother Miranda Hobbes, a pragmatist trying to balance the idea of love with the realities of life. Mikhail Baryshnikov (as Aleksandr Petrovsky), Mario Cantone (Anthony Marentino), David Eigenberg (Steve Brady), Willie Garson (Stanford Blatch), Evan Handler (Harry Goldenblatt) and Jason Lewis (Smith Jerrod) also star.</p>",
+        "updated": 1646896875
+    },
+    "The Wonder Years": {
+        "id": 1294,
+        "url": "https://www.tvmaze.com/shows/1294/the-wonder-years",
+        "name": "The Wonder Years",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Family"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1988-01-31",
+        "ended": "1993-05-12",
+        "officialSite": null,
+        "schedule": {
+            "time": "",
+            "days": [
+                "Wednesday"
+            ]
+        },
+        "rating": {
+            "average": 8
+        },
+        "weight": 48,
+        "network": {
+            "id": 3,
+            "name": "ABC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://abc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6302,
+            "thetvdb": 72888,
+            "imdb": "tt0094582"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/62/155340.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/62/155340.jpg"
+        },
+        "summary": "<p>Set in 1968-1973, the series tackles the social issues and historic events of that time through the eyes of main character Kevin Arnold. Kevin also deals with typical teenage social issues, including those prompted by his main love interest, Winnie Cooper, as well as typical family troubles. The story is narrated by an older, wiser Kevin, describing what is happening and what he learned from his experiences in an alternately nostalgic and ironic tone.</p>",
+        "updated": 1644086469
+    },
+    "Chappelle's Show": {
+        "id": 4128,
+        "url": "https://www.tvmaze.com/shows/4128/chappelles-show",
+        "name": "Chappelle's Show",
+        "type": "Variety",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2003-01-22",
+        "ended": "2006-07-23",
+        "officialSite": null,
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Tuesday"
+            ]
+        },
+        "rating": {
+            "average": 7.9
+        },
+        "weight": 47,
+        "network": {
+            "id": 23,
+            "name": "Comedy Central",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3031,
+            "thetvdb": 71862,
+            "imdb": "tt0353049"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/326/815523.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/326/815523.jpg"
+        },
+        "summary": "<p>It's not just a show -- it's a social phenomenon. Dave Chappelle's singular point of view is unleashed through a combination of stand-up bits and street-smart sketches. Hailed by critics and beloved by fans, Chappelle's Show brings the funk and the noise -- and some of the funniest comedy on television.</p>",
+        "updated": 1623008840
+    },
+    "Happy Days": {
+        "id": 1474,
+        "url": "https://www.tvmaze.com/shows/1474/happy-days",
+        "name": "Happy Days",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1974-01-15",
+        "ended": "1984-09-24",
+        "officialSite": null,
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Tuesday"
+            ]
+        },
+        "rating": {
+            "average": 8.1
+        },
+        "weight": 72,
+        "network": {
+            "id": 3,
+            "name": "ABC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://abc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3785,
+            "thetvdb": 74475,
+            "imdb": "tt0070992"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/21115.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/21115.jpg"
+        },
+        "summary": "<p>Set in Milwaukee, Wisconsin in the 1950's, <b>Happy Days</b> revolves around Richie Cunningham and his family and friends. A \"wholesome\" young man, Richie is a Jefferson High School student who would do anything to get a date and he spends plenty of time with his friends at Arnold's, the local burger joint. Contrasting with his wholesome nature is Arthur Fonzarelli, best known as Fonzie, a rough-around-the-edges motorcycle riding high school dropout famous for his slicked hair, leather jacket, and the catchphrase \"aaayyyy!\" Fonzie is a regular around the Cunningham house, with Mrs. Cunningham doting on him and Richie turning to him for advice on how to attract girls.</p>",
+        "updated": 1673284554
+    },
+    "Downton Abbey": {
+        "id": 251,
+        "url": "https://www.tvmaze.com/shows/251/downton-abbey",
+        "name": "Downton Abbey",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Family",
+            "Romance"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 71,
+        "premiered": "2010-09-26",
+        "ended": "2015-12-25",
+        "officialSite": null,
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.8
+        },
+        "weight": 93,
+        "network": {
+            "id": 35,
+            "name": "ITV1",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "officialSite": "https://www.itv.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 26615,
+            "thetvdb": 193131,
+            "imdb": "tt1606375"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/4601.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/4601.jpg"
+        },
+        "summary": "<p>The Downton Abbey estate stands a splendid example of confidence and mettle, its family enduring for generations and its staff a well-oiled machine of propriety. But change is afoot at Downton--change far surpassing the new electric lights and telephone. A crisis of inheritance threatens to displace the resident Crawley family, in spite of the best efforts of the noble and compassionate Earl, Robert Crawley; his American heiress wife, Cora his comically implacable, opinionated mother, Violet and his beautiful, eldest daughter, Mary, intent on charting her own course. Reluctantly, the family is forced to welcome its heir apparent, the self-made and proudly modern Matthew Crawley himself none too happy about the new arrangements. As Matthew's bristly relationship with Mary begins to crackle with electricity, hope for the future of Downton's dynasty takes shape. But when petty jealousies and ambitions grow among the family and the staff, scheming and secrets--both delicious and dangerous--threaten to derail the scramble to preserve Downton Abbey. <i>Downton Abbey</i> offers a spot-on portrait of a vanishing way of life.</p>",
+        "updated": 1686732008
+    },
+    "The State": {
+        "id": 6249,
+        "url": "https://www.tvmaze.com/shows/6249/the-state",
+        "name": "The State",
+        "type": "Variety",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1994-01-21",
+        "ended": "1995-08-26",
+        "officialSite": null,
+        "schedule": {
+            "time": "",
+            "days": [
+                "Saturday"
+            ]
+        },
+        "rating": {
+            "average": null
+        },
+        "weight": 39,
+        "network": {
+            "id": 22,
+            "name": "MTV",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": null,
+            "thetvdb": 76996,
+            "imdb": "tt0130421"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/394/986414.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/394/986414.jpg"
+        },
+        "summary": "<p><b>The State</b> was a half-hour sketch-comedy television show, originally broadcast on MTV between December 17, 1993 and July 1, 1995. The show combined bizarre characters and scenarios to present sketches that won the favor of its target teenaged audience. The cast consisted of 11 twenty-something comedians (Kevin Allison, Michael Ian Black, Ben Garant, Todd Holoubek, Michael Patrick Jann, Kerri Kenney, Thomas Lennon, Joe Lo Truglio, Ken Marino, Michael Showalter and David Wain) who created, acted, wrote, directed, and edited the show.</p>",
+        "updated": 1643963452
+    },
+    "Toast of the Town": {
+        "id": 23759,
+        "url": "https://www.tvmaze.com/shows/23759/the-ed-sullivan-show",
+        "name": "The Ed Sullivan Show",
+        "type": "Variety",
+        "language": "English",
+        "genres": [],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1948-06-20",
+        "ended": "1971-03-28",
+        "officialSite": null,
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": null
+        },
+        "weight": 40,
+        "network": {
+            "id": 2,
+            "name": "CBS",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cbs.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": null,
+            "thetvdb": 70897,
+            "imdb": "tt0040053"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/89/223856.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/89/223856.jpg"
+        },
+        "summary": "<p>From 1949 until its cancelation in 1971, <b>The Ed Sullivan Show</b> ran on CBS every Sunday night from 8\u20139 p.m. E.T., and is one of the few entertainment shows to have run in the same weekly time slot on the same network for more than two decades. (During its first season, it ran from 9\u201310 p.m. E.T.) Virtually every type of entertainment appeared on the show; opera singers, popular artists, songwriters, comedians, ballet dancers, dramatic actors performing monologues from plays, and circus acts were regularly featured. The format was essentially the same as vaudeville, and although vaudeville had died a generation earlier, Sullivan presented many ex-vaudevillians on his show.</p>",
+        "updated": 1636614628
+    },
+    "Roseanne": {
+        "id": 690,
+        "url": "https://www.tvmaze.com/shows/690/roseanne",
+        "name": "Roseanne",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1988-10-18",
+        "ended": "2018-05-22",
+        "officialSite": "http://abc.go.com/shows/roseanne",
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Tuesday"
+            ]
+        },
+        "rating": {
+            "average": 5.9
+        },
+        "weight": 85,
+        "network": {
+            "id": 3,
+            "name": "ABC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://abc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5055,
+            "thetvdb": 77068,
+            "imdb": "tt0094540"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/146/365953.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/146/365953.jpg"
+        },
+        "summary": "<p>A groundbreaking American television sitcom, following the fortunes of the down-to-earth, blue collar Conner family in the small town of Lanford, Illinois.</p>",
+        "updated": 1686258076
+    },
+    "Mr. Show with Bob and David": {
+        "id": 2583,
+        "url": "https://www.tvmaze.com/shows/2583/mr-show",
+        "name": "Mr. Show",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1995-11-03",
+        "ended": "1998-12-28",
+        "officialSite": null,
+        "schedule": {
+            "time": "00:00",
+            "days": []
+        },
+        "rating": {
+            "average": 8.1
+        },
+        "weight": 46,
+        "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.hbo.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 4543,
+            "thetvdb": 72965,
+            "imdb": "tt0112084"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/13/34454.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/13/34454.jpg"
+        },
+        "summary": "<p><b>Mr. Show</b> was the insanely funny, critically loved but HBO-loathed sketch comedy that ran on the channel for 4 years from 1995-1998. The show was created, executive produced, written and starred comics/writers Bob Odenkirk and David Cross. The show also starred Tom Kenny, Jill Talley and John Ennis. Featured performers/writers included Paul F. Tompkins, Jerry Minor, B.J. Porter, Scott Aukerman, Brian Posehn, and Jay Johnston. Featured performers included Mary-Lynn Rajskub, Brett Paesal, and Sarah Silverman. The show has spawned a movie based on popular character Ronnie Dobbs in Run Ronnie Run. Bob's wife, Naomi Odenkirk, has compiled everything you could ever want to know about the show in her wonderful book, Mr. Show: What Happened.</p>",
+        "updated": 1624093615
+    },
+    "Girls": {
+        "id": 139,
+        "url": "https://www.tvmaze.com/shows/139/girls",
+        "name": "Girls",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2012-04-15",
+        "ended": "2017-04-16",
+        "officialSite": "http://www.hbo.com/girls",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 6.6
+        },
+        "weight": 98,
+        "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.hbo.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 30124,
+            "thetvdb": 220411,
+            "imdb": "tt1723816"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/31/78286.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/31/78286.jpg"
+        },
+        "summary": "<p>This Emmy winning series is a comic look at the assorted humiliations and rare triumphs of a group of girls in their 20s.</p>",
+        "updated": 1611310521
+    },
+    "Transparent": {
+        "id": 120,
+        "url": "https://www.tvmaze.com/shows/120/transparent",
+        "name": "Transparent",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": null,
+        "averageRuntime": 30,
+        "premiered": "2014-09-26",
+        "ended": "2019-09-27",
+        "officialSite": "https://www.amazon.com/dp/B017I3KWX6",
+        "schedule": {
+            "time": "",
+            "days": []
+        },
+        "rating": {
+            "average": 7.3
+        },
+        "weight": 64,
+        "network": null,
+        "webChannel": {
+            "id": 3,
+            "name": "Prime Video",
+            "country": null,
+            "officialSite": "https://www.primevideo.com"
+        },
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 37044,
+            "thetvdb": 278334,
+            "imdb": "tt3502262"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/210/525553.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/210/525553.jpg"
+        },
+        "summary": "<p>In <b>Transparent</b>, an LA family with serious boundary issues have their past and future unravel when a dramatic admission causes everyone's secrets to spill out.</p>",
+        "updated": 1652091171
+    },
+    "The Ren & Stimpy Show": {
+        "id": 6328,
+        "url": "https://www.tvmaze.com/shows/6328/the-ren-and-stimpy-show",
+        "name": "The Ren and Stimpy Show",
+        "type": "Animation",
+        "language": "English",
+        "genres": [
+            "Comedy",
+            "Children"
+        ],
+        "status": "Ended",
+        "runtime": 25,
+        "averageRuntime": 25,
+        "premiered": "1991-08-11",
+        "ended": "1996-10-20",
+        "officialSite": null,
+        "schedule": {
+            "time": "",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 7.5
+        },
+        "weight": 46,
+        "network": {
+            "id": 27,
+            "name": "Nickelodeon",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nick.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6132,
+            "thetvdb": 76088,
+            "imdb": "tt0101178"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/24/60510.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/24/60510.jpg"
+        },
+        "summary": "<p>The show revolves around the lives of an angry, insane chihuahua named Ren H\u00f6ek and his brain-dead sidekick cat, Stimpy. Together the duo have lots of bizarre and outrageous adventures accompanied by George Liquor, Mr. Horse, Powdered Toast Man, Muddy Mudskipper, Mr. and Mrs. Pipe, Mrs. Buttloaf, and Sv\u00ebn H\u00f6ek.</p>",
+        "updated": 1659307664
+    },
+    "American Crime Story": {
+        "id": 2029,
+        "url": "https://www.tvmaze.com/shows/2029/american-crime-story",
+        "name": "American Crime Story",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "status": "Running",
+        "runtime": 60,
+        "averageRuntime": 69,
+        "premiered": "2016-02-02",
+        "ended": null,
+        "officialSite": "http://www.fxnetworks.com/shows/american-crime-story",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Tuesday"
+            ]
+        },
+        "rating": {
+            "average": 7.2
+        },
+        "weight": 97,
+        "network": {
+            "id": 13,
+            "name": "FX",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 47016,
+            "thetvdb": 289108,
+            "imdb": "tt2788432"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/401/1004505.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/401/1004505.jpg"
+        },
+        "summary": "<p>This anthology series dramatizes historic criminal cases in the U.S.</p>",
+        "updated": 1681749304
+    },
+    "Late Night with Conan O'Brien": {
+        "id": 836,
+        "url": "https://www.tvmaze.com/shows/836/late-night-with-conan-obrien",
+        "name": "Late Night with Conan O'Brien",
+        "type": "Talk Show",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1993-09-13",
+        "ended": "2009-02-20",
+        "officialSite": null,
+        "schedule": {
+            "time": "00:35",
+            "days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 8.2
+        },
+        "weight": 70,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 4194,
+            "thetvdb": 76737,
+            "imdb": "tt0106052"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15808.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15808.jpg"
+        },
+        "summary": "<p>\"Keep Cool My Babies!\" Smart-alecky, ribald and whimsical, <b>Late Night with Conan O'Brien</b> rose to become a critical darling and dorm favorite after a rocky start in 1993. There are many recurring characters (including Triumph the Insult Comic Dog, Vomiting Kermit, Eyeballs O'Shaughnessy, NASCAR-driving gun-toting Jesus, Masturbating Bear) and comedy bits (including New State Quarters, What in the World, Celebrity Survey, Actual Items, Conan Hates My Homeland) that entertain us night after night. New episodes air Tuesday through Friday, with reruns on Mondays and occasional breaks where reruns air all week long. It airs weekdays at 12:37 a.m. ET/PT. (Simulcast in HDTV) Next-day encores air on CNBC at 7pm ET.</p>",
+        "updated": 1676179606
+    },
+    "The Walking Dead": {
+        "id": 73,
+        "url": "https://www.tvmaze.com/shows/73/the-walking-dead",
+        "name": "The Walking Dead",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Action",
+            "Horror"
+        ],
+        "status": "Ended",
+        "runtime": null,
+        "averageRuntime": 62,
+        "premiered": "2010-10-31",
+        "ended": "2022-11-20",
+        "officialSite": "https://www.amc.com/twdu/the-walking-dead",
+        "schedule": {
+            "time": "",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8
+        },
+        "weight": 99,
+        "network": null,
+        "webChannel": {
+            "id": 453,
+            "name": "AMC+",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.amcplus.com/"
+        },
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 25056,
+            "thetvdb": 153021,
+            "imdb": "tt1520211"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/424/1061900.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/424/1061900.jpg"
+        },
+        "summary": "<p><b>The Walking Dead</b> tells the story of the months and years that follow after a zombie apocalypse. It follows a group of survivors, led by former police officer Rick Grimes, who travel in search of a safe and secure home. As the world overrun by the dead takes its toll on the survivors, their interpersonal conflicts present a greater danger to their continuing survival than the walkers that roam the country. Over time, the characters are changed by the constant exposure to death and some grow willing to do anything to survive.</p><p>Based on the comic book series of the same name by Robert Kirkman, Tony Moore, and Charlie Adlard.</p>",
+        "updated": 1669133052
+    },
+    "Thirtysomething": {
+        "id": 7107,
+        "url": "https://www.tvmaze.com/shows/7107/thirtysomething",
+        "name": "thirtysomething",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1987-09-29",
+        "ended": "1991-05-28",
+        "officialSite": null,
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Tuesday"
+            ]
+        },
+        "rating": {
+            "average": 7.6
+        },
+        "weight": 52,
+        "network": {
+            "id": 3,
+            "name": "ABC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://abc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6331,
+            "thetvdb": 72781,
+            "imdb": "tt0092492"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/26/66487.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/26/66487.jpg"
+        },
+        "summary": "<p><b>thirtysomething</b> is an American television drama about American baby boomers (in Philadelphia, Pennsylvania) who are now in their thirties. The series examines how this group of friends learns to negotiate their prior involvement with the early 1970s counterculture as young adults, in contrast to the yuppie lifestyle which dominated American culture during the 1980s.</p>",
+        "updated": 1667783882
+    },
+    "In Living Color": {
+        "id": 6050,
+        "url": "https://www.tvmaze.com/shows/6050/in-living-color",
+        "name": "In Living Color",
+        "type": "Variety",
+        "language": "English",
+        "genres": [
+            "Comedy",
+            "Music"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1990-04-15",
+        "ended": "1994-05-12",
+        "officialSite": null,
+        "schedule": {
+            "time": "",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 7.3
+        },
+        "weight": 55,
+        "network": {
+            "id": 4,
+            "name": "FOX",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.fox.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3961,
+            "thetvdb": 78441,
+            "imdb": "tt0098830"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/23/59046.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/23/59046.jpg"
+        },
+        "summary": "<p>In 1989, Keenen Ivory Wayans set about making a pilot for something the likes of which had never been seen prior on US television. It wasn't just going to be a show performed by black people for black people but was to be a multi-ethnic series. He recruited two white actors who were fairly unknown at the time\u2014Jim Carrey and Kelly Coffield. In addition, the show introduced more upcoming talent, in the form of Tommy Davidson, Kim Coles, David Alan Grier, T'keyah \"Crystal\" Keymah and finally his siblings Kim Wayans and Damon Wayans.</p>",
+        "updated": 1602950167
+    },
+    "The Fugitive": {
+        "id": 7150,
+        "url": "https://www.tvmaze.com/shows/7150/the-fugitive",
+        "name": "The Fugitive",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Action",
+            "Adventure"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1963-09-17",
+        "ended": "1967-08-29",
+        "officialSite": null,
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Tuesday"
+            ]
+        },
+        "rating": {
+            "average": null
+        },
+        "weight": 53,
+        "network": {
+            "id": 3,
+            "name": "ABC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://abc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5797,
+            "thetvdb": 75258,
+            "imdb": "tt0056757"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/26/66919.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/26/66919.jpg"
+        },
+        "summary": "<p>Dr. Richard Kimble, wrongly accused of murdering his wife, escapes custody while on the road to prison and must elude the police to continue his quest to find the real killer.</p>",
+        "updated": 1663814897
+    },
+    "Dallas": {
+        "id": 863,
+        "url": "https://www.tvmaze.com/shows/863/dallas",
+        "name": "Dallas",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Family"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1978-04-02",
+        "ended": "1991-05-03",
+        "officialSite": null,
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Friday"
+            ]
+        },
+        "rating": {
+            "average": 6.7
+        },
+        "weight": 55,
+        "network": {
+            "id": 2,
+            "name": "CBS",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cbs.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3211,
+            "thetvdb": 77092,
+            "imdb": "tt0077000"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15927.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15927.jpg"
+        },
+        "summary": "<p>The world's first mega-soap, and one of the most popular ever produced, <b>Dallas</b> had it all. Beautiful women, expensive cars, and men playing Monopoly with real buildings. Famous for one of the best cliffhangers in TV history, as the world asked \"Who shot J.R.?\" A slow-burner to begin with, Dallas hit its stride in the 2nd season, with long storylines and expert character development. Dallas ruled the airwaves in the 1980's.</p>",
+        "updated": 1687806257
+    },
+    "The Jeffersons": {
+        "id": 5389,
+        "url": "https://www.tvmaze.com/shows/5389/the-jeffersons",
+        "name": "The Jeffersons",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1975-01-18",
+        "ended": "1985-07-02",
+        "officialSite": null,
+        "schedule": {
+            "time": "",
+            "days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8
+        },
+        "weight": 48,
+        "network": {
+            "id": 2,
+            "name": "CBS",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cbs.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5887,
+            "thetvdb": 77792,
+            "imdb": "tt0072519"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/55569.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/55569.jpg"
+        },
+        "summary": "<p>Set in a high-rise apartment building in the heart of New York City, the show spun around George, a classic character portrait of vanity, arrogance, and petty prejudice. Balanced by the more level-headed but just as strong-willed Weezy, George's self-serving abrasiveness struck comic gold, particularly in the second season, when the show's style had been set but was still fresh. Episodes tackled subjects trivial (George and Tom wear the same tacky dinner jacket to a party) and trenchant (a country club invites George to join, but only so that a newspaper reporter will think the club is open to minorities). The black and white mix of the cast allowed for a sharply satirical take on race relations, which managed to have a genuine sense of hope while never glossing over the complexity of racial tension--and was consistently funny. In fact, it's striking how well the show's humor holds up; <b>The Jeffersons</b> turned a series of half-hour farces into a sly examination of marriage, race, class, and the battle of the sexes; it's sad that so few contemporary sitcoms have this kind of intelligence, courage, and sheer talent.</p>",
+        "updated": 1657452531
+    },
+    "House of Cards": {
+        "id": 175,
+        "url": "https://www.tvmaze.com/shows/175/house-of-cards",
+        "name": "House of Cards",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "status": "Ended",
+        "runtime": null,
+        "averageRuntime": 52,
+        "premiered": "2013-02-01",
+        "ended": "2018-11-02",
+        "officialSite": "https://www.netflix.com/title/70178217",
+        "schedule": {
+            "time": "",
+            "days": []
+        },
+        "rating": {
+            "average": 8.3
+        },
+        "weight": 95,
+        "network": null,
+        "webChannel": {
+            "id": 1,
+            "name": "Netflix",
+            "country": null,
+            "officialSite": "https://www.netflix.com/"
+        },
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 27822,
+            "thetvdb": 262980,
+            "imdb": "tt1856010"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/169/424482.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/169/424482.jpg"
+        },
+        "summary": "<p>Based on the BBC miniseries of the same name, <b>House of Cards</b> follows Francis Underwood, the politician's politician \u2013 masterful, beguiling, charismatic and ruthless. He and his equally ambitious wife Claire will stop at nothing to ensure their ascendancy. This wicked political drama slithers beneath the curtain and through the back halls of greed, sex, love and corruption in modern Washington D.C.</p>",
+        "updated": 1671132591
+    },
+    "Real Time with Bill Maher": {
+        "id": 279,
+        "url": "https://www.tvmaze.com/shows/279/real-time-with-bill-maher",
+        "name": "Real Time with Bill Maher",
+        "type": "Talk Show",
+        "language": "English",
+        "genres": [],
+        "status": "Running",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2003-02-21",
+        "ended": null,
+        "officialSite": "http://www.hbo.com/real-time-with-bill-maher.html",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Friday"
+            ]
+        },
+        "rating": {
+            "average": 5.6
+        },
+        "weight": 93,
+        "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.hbo.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 4950,
+            "thetvdb": 72231,
+            "imdb": "tt0350448"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/442/1106432.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/442/1106432.jpg"
+        },
+        "summary": "<p><b>Real Time with Bill Maher</b> includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as \"a pugnacious debater and a healthy corrective to the claptrap of cable news\", while Variety noted, \"There may not be a more eclectic guest list on all of television\".</p>",
+        "updated": 1683108441
+    },
+    "The Real World": {
+        "id": 991,
+        "url": "https://www.tvmaze.com/shows/991/the-real-world",
+        "name": "The Real World",
+        "type": "Reality",
+        "language": "English",
+        "genres": [
+            "Drama"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 59,
+        "premiered": "1992-05-21",
+        "ended": "2019-08-29",
+        "officialSite": null,
+        "schedule": {
+            "time": "",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": null
+        },
+        "weight": 47,
+        "network": null,
+        "webChannel": {
+            "id": 202,
+            "name": "Facebook Watch",
+            "country": null,
+            "officialSite": "https://www.facebook.com/watch"
+        },
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 6125,
+            "thetvdb": 76522,
+            "imdb": "tt0103520"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/16540.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/16540.jpg"
+        },
+        "summary": "<p>Each year, <b>The Real World</b> producers choose a group of seven people in their 20s, from different backgrounds and countries, to live together in a major city. The series presents their spontaneous, unscripted interactions with one another and the world around them.</p>",
+        "updated": 1682868343
+    },
+    "Doctor Who": {
+        "id": 210,
+        "url": "https://www.tvmaze.com/shows/210/doctor-who",
+        "name": "Doctor Who",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Adventure",
+            "Science-Fiction"
+        ],
+        "status": "Running",
+        "runtime": null,
+        "averageRuntime": 48,
+        "premiered": "2005-03-26",
+        "ended": null,
+        "officialSite": "http://www.bbc.co.uk/programmes/b006q2x0",
+        "schedule": {
+            "time": "",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.3
+        },
+        "weight": 99,
+        "network": {
+            "id": 12,
+            "name": "BBC One",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "officialSite": "https://www.bbc.co.uk/bbcone"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3332,
+            "thetvdb": 78804,
+            "imdb": "tt0436992"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/468/1170212.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/468/1170212.jpg"
+        },
+        "summary": "<p>Adventures across time and space with the time travelling alien and companions.</p>",
+        "updated": 1688931273
+    },
+    "Party Down": {
+        "id": 1137,
+        "url": "https://www.tvmaze.com/shows/1137/party-down",
+        "name": "Party Down",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "To Be Determined",
+        "runtime": null,
+        "averageRuntime": 30,
+        "premiered": "2009-03-20",
+        "ended": null,
+        "officialSite": "https://www.starz.com/us/en/series/party-down/2011",
+        "schedule": {
+            "time": "",
+            "days": [
+                "Friday"
+            ]
+        },
+        "rating": {
+            "average": 7.5
+        },
+        "weight": 96,
+        "network": null,
+        "webChannel": {
+            "id": 46,
+            "name": "Lionsgate+",
+            "country": null,
+            "officialSite": "https://www.lionsgateplus.com/"
+        },
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 21884,
+            "thetvdb": 83616,
+            "imdb": "tt1073507"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/453/1134634.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/453/1134634.jpg"
+        },
+        "summary": "<p><b>Party Down</b> follows a group of Hollywood dreamers - struggling actors and writers - stuck working as caterers while waiting for their big show business break.</p>",
+        "updated": 1680263688
+    },
+    "Homeland": {
+        "id": 7,
+        "url": "https://www.tvmaze.com/shows/7/homeland",
+        "name": "Homeland",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Espionage"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2011-10-02",
+        "ended": "2020-04-26",
+        "officialSite": "http://www.sho.com/sho/homeland/home",
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.2
+        },
+        "weight": 97,
+        "network": {
+            "id": 9,
+            "name": "Showtime",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.sho.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 27811,
+            "thetvdb": 247897,
+            "imdb": "tt1796960"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/230/575652.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/230/575652.jpg"
+        },
+        "summary": "<p>The winner of 6 Emmy Awards including Outstanding Drama Series, <b>Homeland</b> is an edge-of-your-seat sensation. Marine Sergeant Nicholas Brody is both a decorated hero and a serious threat. CIA officer Carrie Mathison is tops in her field despite being bipolar. The delicate dance these two complex characters perform, built on lies, suspicion, and desire, is at the heart of this gripping, emotional thriller in which nothing short of the fate of our nation is at stake.</p>",
+        "updated": 1678119469
+    },
+    "Broad City": {
+        "id": 375,
+        "url": "https://www.tvmaze.com/shows/375/broad-city",
+        "name": "Broad City",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2014-01-22",
+        "ended": "2019-03-28",
+        "officialSite": "http://www.cc.com/shows/broad-city",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 8.2
+        },
+        "weight": 84,
+        "network": {
+            "id": 23,
+            "name": "Comedy Central",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 33127,
+            "thetvdb": 275557,
+            "imdb": "tt2578560"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/405/1012900.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/405/1012900.jpg"
+        },
+        "summary": "<p><b>Broad City</b> is an odd-couple comedy about two best friends navigating their 20s in New York City. Abbi and Ilana are broke and flawed, and they don't shy away from the sticky situations NYC throws at them -- they dive right into the muck. No matter how bad it gets, these broads are always down with whatever hits them.</p>",
+        "updated": 1678387730
+    },
+    "American Idol: The Search for a Superstar": {
+        "id": 288,
+        "url": "https://www.tvmaze.com/shows/288/american-idol",
+        "name": "American Idol",
+        "type": "Reality",
+        "language": "English",
+        "genres": [
+            "Music"
+        ],
+        "status": "Running",
+        "runtime": 120,
+        "averageRuntime": 118,
+        "premiered": "2002-06-11",
+        "ended": null,
+        "officialSite": "https://abc.com/shows/american-idol/",
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Monday",
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 5.2
+        },
+        "weight": 89,
+        "network": {
+            "id": 3,
+            "name": "ABC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://abc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 2601,
+            "thetvdb": 70814,
+            "imdb": "tt0319931"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/446/1115531.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/446/1115531.jpg"
+        },
+        "summary": "<p><b>American Idol </b>is an American singing competition show, where contestants perform in front of a panel of star judges, representing the music industry. The winner is determined by viewers' vote.</p>",
+        "updated": 1685365652
+    },
+    "Jeopardy!": {
+        "id": 2193,
+        "url": "https://www.tvmaze.com/shows/2193/jeopardy",
+        "name": "Jeopardy!",
+        "type": "Game Show",
+        "language": "English",
+        "genres": [],
+        "status": "Running",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1984-09-10",
+        "ended": null,
+        "officialSite": "https://www.jeopardy.com/",
+        "schedule": {
+            "time": "19:00",
+            "days": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ]
+        },
+        "rating": {
+            "average": 8.4
+        },
+        "weight": 96,
+        "network": {
+            "id": 72,
+            "name": "Syndication",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 7879,
+            "thetvdb": 77075,
+            "imdb": "tt0159881"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/441/1103028.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/441/1103028.jpg"
+        },
+        "summary": "<p><b>Jeopardy!</b> is a classic game show -- with a twist. The answers are given first, and the contestants supply the questions. Three contestants, including the previous show's champion, compete in six categories and in three rounds (with each round's \"answers\" being worth more prize money).</p>",
+        "updated": 1688996905
+    },
+    "Key and Peele": {
+        "id": 257,
+        "url": "https://www.tvmaze.com/shows/257/key-peele",
+        "name": "Key & Peele",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2012-01-31",
+        "ended": "2015-09-09",
+        "officialSite": "http://www.cc.com/shows/key-and-peele",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Wednesday"
+            ]
+        },
+        "rating": {
+            "average": 7.4
+        },
+        "weight": 71,
+        "network": {
+            "id": 23,
+            "name": "Comedy Central",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 30543,
+            "thetvdb": 255325,
+            "imdb": "tt1981558"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/4662.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/4662.jpg"
+        },
+        "summary": "<p>Keegan-Michael Key and Jordan Peele are the stars of <b>Key &amp; Peele</b>, a show that examines life in a distinctively provocative and irreverent way. Whether it's anger-translating the president, spoofing Nazis or ordering up some soul food, Key &amp; Peele showcases the guys' camaraderie and unique point of view, born from their experiences growing up biracial in a not-quite-post-racial world.</p>",
+        "updated": 1681579211
+    },
+    "Gunsmoke": {
+        "id": 782,
+        "url": "https://www.tvmaze.com/shows/782/gunsmoke",
+        "name": "Gunsmoke",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Western"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 58,
+        "premiered": "1955-09-10",
+        "ended": "1975-03-31",
+        "officialSite": null,
+        "schedule": {
+            "time": "",
+            "days": [
+                "Monday"
+            ]
+        },
+        "rating": {
+            "average": 8.2
+        },
+        "weight": 92,
+        "network": {
+            "id": 2,
+            "name": "CBS",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.cbs.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 3766,
+            "thetvdb": 73559,
+            "imdb": "tt0047736"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15470.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15470.jpg"
+        },
+        "summary": "<p>Marshall Matt Dillon is responsible for keeping the law and respectability in Dodge City in this western action-drama. <b>Gunsmoke</b> captured the courage, character and spirit of the Western Frontier.</p>",
+        "updated": 1686547538
+    },
+    "Portlandia": {
+        "id": 376,
+        "url": "https://www.tvmaze.com/shows/376/portlandia",
+        "name": "Portlandia",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2011-01-21",
+        "ended": "2018-03-22",
+        "officialSite": "https://www.ifc.com/shows/portlandia--1000011",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Thursday"
+            ]
+        },
+        "rating": {
+            "average": 6.9
+        },
+        "weight": 69,
+        "network": {
+            "id": 65,
+            "name": "IFC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": null
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 27219,
+            "thetvdb": 213221,
+            "imdb": "tt1780441"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/150/375346.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/150/375346.jpg"
+        },
+        "summary": "<p><b>Portlandia</b> is a follow up to the Fred Armisen (SNL)/Carrie Brownstein comedy collaboration, Thunderant. In the new IFC series (executive- produced by Lorne Michaels), the pair lovingly skewer the people and values of Portland, Ore. by introducing us to Portland archetypes like a militant bike messenger, feminist bookstore owners and an arts &amp; crafts couple who \"put birds on things.\"</p>",
+        "updated": 1645940978
+    },
+    "The Golden Girls": {
+        "id": 722,
+        "url": "https://www.tvmaze.com/shows/722/the-golden-girls",
+        "name": "The Golden Girls",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "1985-09-14",
+        "ended": "1992-05-09",
+        "officialSite": null,
+        "schedule": {
+            "time": "21:00",
+            "days": [
+                "Saturday"
+            ]
+        },
+        "rating": {
+            "average": 8.3
+        },
+        "weight": 57,
+        "network": {
+            "id": 1,
+            "name": "NBC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.nbc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 5820,
+            "thetvdb": 71292,
+            "imdb": "tt0088526"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15097.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15097.jpg"
+        },
+        "summary": "<p><b>The Golden Girls</b> follows four South Florida seniors sharing a house, their dreams, and a whole lot of cheesecake. Bright, promiscuous, clueless, and hilarious, these lovely mismatched ladies form the perfect circle of friends.</p>",
+        "updated": 1687207344
+    },
+    "Oz": {
+        "id": 748,
+        "url": "https://www.tvmaze.com/shows/748/oz",
+        "name": "Oz",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "1997-07-12",
+        "ended": "2003-02-23",
+        "officialSite": "http://www.hbo.com/oz/",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 8.9
+        },
+        "weight": 90,
+        "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.hbo.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 4760,
+            "thetvdb": 70682,
+            "imdb": "tt0118421"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/15172.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/15172.jpg"
+        },
+        "summary": "<p>HBO's violent men-behind-bars drama is an addictive, testosterone-driven soap opera for guys. The eight episodes of the first season set the style for the show: a massive cast of a vivid characters on both sides of the bars, four or five stories unleashed at a breakneck pace and framed by angry, oddball introductions, and a soaring casualty rate. Created by Homicide producer Tom Fontana, this drama quickly earned its rightful reputation as the most brutal show on TV. It's simple chemistry: combine volatile ingredients in a confined space, shut tight, and shake.</p>",
+        "updated": 1630239861
+    },
+    "Eastbound & Down": {
+        "id": 1141,
+        "url": "https://www.tvmaze.com/shows/1141/eastbound-down",
+        "name": "Eastbound & Down",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Sports"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2009-02-15",
+        "ended": "2013-11-17",
+        "officialSite": "http://www.hbo.com/eastbound-and-down",
+        "schedule": {
+            "time": "22:00",
+            "days": [
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 7.2
+        },
+        "weight": 82,
+        "network": {
+            "id": 8,
+            "name": "HBO",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://www.hbo.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 21051,
+            "thetvdb": 82467,
+            "imdb": "tt0866442"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/6/17326.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/6/17326.jpg"
+        },
+        "summary": "<p>Burned out and broke, former big-league pitcher Kenny Powers returns home to North Carolina to teach PE at the local middle school he once attended--and sets his sights on winning back his high-school flame April.</p>",
+        "updated": 1578688755
+    },
+    "American Idol": {
+        "id": 288,
+        "url": "https://www.tvmaze.com/shows/288/american-idol",
+        "name": "American Idol",
+        "type": "Reality",
+        "language": "English",
+        "genres": [
+            "Music"
+        ],
+        "status": "Running",
+        "runtime": 120,
+        "averageRuntime": 118,
+        "premiered": "2002-06-11",
+        "ended": null,
+        "officialSite": "https://abc.com/shows/american-idol/",
+        "schedule": {
+            "time": "20:00",
+            "days": [
+                "Monday",
+                "Sunday"
+            ]
+        },
+        "rating": {
+            "average": 5.2
+        },
+        "weight": 89,
+        "network": {
+            "id": 3,
+            "name": "ABC",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "officialSite": "https://abc.com/"
+        },
+        "webChannel": null,
+        "dvdCountry": null,
+        "externals": {
+            "tvrage": 2601,
+            "thetvdb": 70814,
+            "imdb": "tt0319931"
+        },
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/446/1115531.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/446/1115531.jpg"
+        },
+        "summary": "<p><b>American Idol </b>is an American singing competition show, where contestants perform in front of a panel of star judges, representing the music industry. The winner is determined by viewers' vote.</p>",
+        "updated": 1685365652
+    }
+}

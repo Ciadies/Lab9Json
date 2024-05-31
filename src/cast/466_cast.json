@@ -1,0 +1,43 @@
+[
+    {
+        "person": {
+            "id": 46445,
+            "url": "https://www.tvmaze.com/people/46445/peter-falk",
+            "name": "Peter Falk",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1927-09-16",
+            "deathday": "2011-06-23",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/436/1091321.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/436/1091321.jpg"
+            },
+            "updated": 1671801201,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/46445"
+                }
+            }
+        },
+        "character": {
+            "id": 80475,
+            "url": "https://www.tvmaze.com/characters/80475/columbo-lieutenant-columbo",
+            "name": "Lieutenant Columbo",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/344/861522.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/344/861522.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/80475"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

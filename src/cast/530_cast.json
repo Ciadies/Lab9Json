@@ -1,0 +1,204 @@
+[
+    {
+        "person": {
+            "id": 48987,
+            "url": "https://www.tvmaze.com/people/48987/jerry-seinfeld",
+            "name": "Jerry Seinfeld",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1954-04-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11992.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11992.jpg"
+            },
+            "updated": 1683852626,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/48987"
+                }
+            }
+        },
+        "character": {
+            "id": 85601,
+            "url": "https://www.tvmaze.com/characters/85601/seinfeld-jerry-seinfeld",
+            "name": "Jerry Seinfeld",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11366.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11366.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85601"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 12849,
+            "url": "https://www.tvmaze.com/people/12849/jason-alexander",
+            "name": "Jason Alexander",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1959-09-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/179/447549.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/179/447549.jpg"
+            },
+            "updated": 1685739165,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/12849"
+                }
+            }
+        },
+        "character": {
+            "id": 85603,
+            "url": "https://www.tvmaze.com/characters/85603/seinfeld-george-costanza",
+            "name": "George Costanza",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11369.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11369.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85603"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49003,
+            "url": "https://www.tvmaze.com/people/49003/michael-richards",
+            "name": "Michael Richards",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1949-07-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11993.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11993.jpg"
+            },
+            "updated": 1633959899,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49003"
+                }
+            }
+        },
+        "character": {
+            "id": 85604,
+            "url": "https://www.tvmaze.com/characters/85604/seinfeld-cosmo-kramer",
+            "name": "Cosmo Kramer",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11368.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11368.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85604"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 27606,
+            "url": "https://www.tvmaze.com/people/27606/julia-louis-dreyfus",
+            "name": "Julia Louis-Dreyfus",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-01-13",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8670.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8670.jpg"
+            },
+            "updated": 1688860930,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/27606"
+                }
+            }
+        },
+        "character": {
+            "id": 85602,
+            "url": "https://www.tvmaze.com/characters/85602/seinfeld-elaine-benes",
+            "name": "Elaine Benes",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11367.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11367.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/85602"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 8610,
+            "url": "https://www.tvmaze.com/people/8610/lee-garlington",
+            "name": "Lee Garlington",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1953-07-20",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/44/110965.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/44/110965.jpg"
+            },
+            "updated": 1669597133,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/8610"
+                }
+            }
+        },
+        "character": {
+            "id": 544378,
+            "url": "https://www.tvmaze.com/characters/544378/seinfeld-claire",
+            "name": "Claire",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/544378"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

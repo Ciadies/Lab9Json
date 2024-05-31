@@ -1,0 +1,207 @@
+[
+    {
+        "person": {
+            "id": 85923,
+            "url": "https://www.tvmaze.com/people/85923/lucille-ball",
+            "name": "Lucille Ball",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1911-08-06",
+            "deathday": "1989-04-26",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/38/95817.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/38/95817.jpg"
+            },
+            "updated": 1683112571,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/85923"
+                }
+            }
+        },
+        "character": {
+            "id": 170469,
+            "url": "https://www.tvmaze.com/characters/170469/i-love-lucy-lucy-ricardo",
+            "name": "Lucy Ricardo",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/48077.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/48077.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/170469"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 64402,
+            "url": "https://www.tvmaze.com/people/64402/desi-arnaz",
+            "name": "Desi Arnaz",
+            "country": {
+                "name": "Cuba",
+                "code": "CU",
+                "timezone": "America/Havana"
+            },
+            "birthday": "1917-03-02",
+            "deathday": "1986-12-02",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/75/189586.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/75/189586.jpg"
+            },
+            "updated": 1677078716,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/64402"
+                }
+            }
+        },
+        "character": {
+            "id": 170470,
+            "url": "https://www.tvmaze.com/characters/170470/i-love-lucy-ricky-ricardo",
+            "name": "Ricky Ricardo",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/48078.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/48078.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/170470"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 85924,
+            "url": "https://www.tvmaze.com/people/85924/vivian-vance",
+            "name": "Vivian Vance",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1909-07-26",
+            "deathday": "1979-08-17",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/169/424595.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/169/424595.jpg"
+            },
+            "updated": 1681352101,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/85924"
+                }
+            }
+        },
+        "character": {
+            "id": 170471,
+            "url": "https://www.tvmaze.com/characters/170471/i-love-lucy-ethel-mertz",
+            "name": "Ethel Mertz",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/48079.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/48079.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/170471"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 85925,
+            "url": "https://www.tvmaze.com/people/85925/william-frawley",
+            "name": "William Frawley",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1887-02-26",
+            "deathday": "1966-03-03",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/169/424591.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/169/424591.jpg"
+            },
+            "updated": 1684736491,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/85925"
+                }
+            }
+        },
+        "character": {
+            "id": 170472,
+            "url": "https://www.tvmaze.com/characters/170472/i-love-lucy-fred-mertz",
+            "name": "Fred Mertz",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/48080.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/48080.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/170472"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 216940,
+            "url": "https://www.tvmaze.com/people/216940/richard-keith",
+            "name": "Richard Keith",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1950-12-01",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/169/424588.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/169/424588.jpg"
+            },
+            "updated": 1673523824,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/216940"
+                }
+            }
+        },
+        "character": {
+            "id": 562159,
+            "url": "https://www.tvmaze.com/characters/562159/i-love-lucy-ricky-ricardo-jr",
+            "name": "Ricky Ricardo, Jr.",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/169/424597.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/169/424597.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/562159"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

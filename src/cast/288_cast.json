@@ -1,0 +1,699 @@
+[
+    {
+        "person": {
+            "id": 49332,
+            "url": "https://www.tvmaze.com/people/49332/ryan-seacrest",
+            "name": "Ryan Seacrest",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1974-12-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/457/1142506.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/457/1142506.jpg"
+            },
+            "updated": 1687887693,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49332"
+                }
+            }
+        },
+        "character": {
+            "id": 186328,
+            "url": "https://www.tvmaze.com/characters/186328/american-idol-host",
+            "name": "Host",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/293/733882.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/293/733882.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/186328"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 74266,
+            "url": "https://www.tvmaze.com/people/74266/randy-jackson",
+            "name": "Randy Jackson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1956-06-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/214/536683.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/214/536683.jpg"
+            },
+            "updated": 1684737398,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/74266"
+                }
+            }
+        },
+        "character": {
+            "id": 269249,
+            "url": "https://www.tvmaze.com/characters/269249/american-idol-judge",
+            "name": "Judge",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/218/546688.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/218/546688.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/269249"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49938,
+            "url": "https://www.tvmaze.com/people/49938/simon-cowell",
+            "name": "Simon Cowell",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1959-10-07",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/409/1023256.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/409/1023256.jpg"
+            },
+            "updated": 1687966354,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49938"
+                }
+            }
+        },
+        "character": {
+            "id": 269247,
+            "url": "https://www.tvmaze.com/characters/269247/american-idol-judge",
+            "name": "Judge",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/214/536687.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/214/536687.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/269247"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 49947,
+            "url": "https://www.tvmaze.com/people/49947/paula-abdul",
+            "name": "Paula Abdul",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-06-19",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/214/536656.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/214/536656.jpg"
+            },
+            "updated": 1687129297,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/49947"
+                }
+            }
+        },
+        "character": {
+            "id": 269243,
+            "url": "https://www.tvmaze.com/characters/269243/american-idol-judge",
+            "name": "Judge",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/214/536686.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/214/536686.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/269243"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 31913,
+            "url": "https://www.tvmaze.com/people/31913/jennifer-lopez",
+            "name": "Jennifer Lopez",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1969-07-24",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/14/35993.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/14/35993.jpg"
+            },
+            "updated": 1685125212,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/31913"
+                }
+            }
+        },
+        "character": {
+            "id": 269245,
+            "url": "https://www.tvmaze.com/characters/269245/american-idol-judge",
+            "name": "Judge",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/214/536685.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/214/536685.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/269245"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 66170,
+            "url": "https://www.tvmaze.com/people/66170/keith-urban",
+            "name": "Keith Urban",
+            "country": {
+                "name": "New Zealand",
+                "code": "NZ",
+                "timezone": "Pacific/Auckland"
+            },
+            "birthday": "1967-10-26",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/214/536688.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/214/536688.jpg"
+            },
+            "updated": 1688038199,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/66170"
+                }
+            }
+        },
+        "character": {
+            "id": 269241,
+            "url": "https://www.tvmaze.com/characters/269241/american-idol-judge",
+            "name": "Judge",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/214/536689.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/214/536689.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/269241"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 31955,
+            "url": "https://www.tvmaze.com/people/31955/katy-perry",
+            "name": "Katy Perry",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1984-10-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/49835.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/49835.jpg"
+            },
+            "updated": 1684410601,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/31955"
+                }
+            }
+        },
+        "character": {
+            "id": 421222,
+            "url": "https://www.tvmaze.com/characters/421222/american-idol-judge",
+            "name": "Judge",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/422/1055478.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/422/1055478.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/421222"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 62157,
+            "url": "https://www.tvmaze.com/people/62157/lionel-richie",
+            "name": "Lionel Richie",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1949-06-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/18/46455.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/18/46455.jpg"
+            },
+            "updated": 1685014541,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/62157"
+                }
+            }
+        },
+        "character": {
+            "id": 466168,
+            "url": "https://www.tvmaze.com/characters/466168/american-idol-judge",
+            "name": "Judge",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/293/733881.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/293/733881.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/466168"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 66318,
+            "url": "https://www.tvmaze.com/people/66318/luke-bryan",
+            "name": "Luke Bryan",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1976-07-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/334/835845.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/334/835845.jpg"
+            },
+            "updated": 1686644306,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/66318"
+                }
+            }
+        },
+        "character": {
+            "id": 466166,
+            "url": "https://www.tvmaze.com/characters/466166/american-idol-judge",
+            "name": "Judge",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/293/733880.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/293/733880.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/466166"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 24893,
+            "url": "https://www.tvmaze.com/people/24893/harry-connick-jr",
+            "name": "Harry Connick, Jr.",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1967-09-11",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/214/536691.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/214/536691.jpg"
+            },
+            "updated": 1688036237,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/24893"
+                }
+            }
+        },
+        "character": {
+            "id": 269246,
+            "url": "https://www.tvmaze.com/characters/269246/american-idol-judge",
+            "name": "Judge",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/214/536690.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/214/536690.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/269246"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 93117,
+            "url": "https://www.tvmaze.com/people/93117/kara-dioguardi",
+            "name": "Kara DioGuardi",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1970-12-09",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/214/536693.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/214/536693.jpg"
+            },
+            "updated": 1685066498,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/93117"
+                }
+            }
+        },
+        "character": {
+            "id": 269250,
+            "url": "https://www.tvmaze.com/characters/269250/american-idol-judge",
+            "name": "Judge",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/214/536692.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/214/536692.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/269250"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 55322,
+            "url": "https://www.tvmaze.com/people/55322/steven-tyler",
+            "name": "Steven Tyler",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1948-03-26",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/24/61021.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/24/61021.jpg"
+            },
+            "updated": 1681819074,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/55322"
+                }
+            }
+        },
+        "character": {
+            "id": 186329,
+            "url": "https://www.tvmaze.com/characters/186329/american-idol-judge",
+            "name": "Judge",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/214/536695.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/214/536695.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/186329"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 57392,
+            "url": "https://www.tvmaze.com/people/57392/ellen-degeneres",
+            "name": "Ellen DeGeneres",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1958-01-26",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/11/29905.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/29905.jpg"
+            },
+            "updated": 1685146747,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/57392"
+                }
+            }
+        },
+        "character": {
+            "id": 269251,
+            "url": "https://www.tvmaze.com/characters/269251/american-idol-judge",
+            "name": "Judge",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/214/536694.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/214/536694.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/269251"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 123627,
+            "url": "https://www.tvmaze.com/people/123627/bobby-bones",
+            "name": "Bobby Bones",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1980-04-02",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/189/474007.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/189/474007.jpg"
+            },
+            "updated": 1686643137,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/123627"
+                }
+            }
+        },
+        "character": {
+            "id": 522896,
+            "url": "https://www.tvmaze.com/characters/522896/american-idol-mentor",
+            "name": "Mentor",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/293/733883.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/293/733883.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/522896"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 67091,
+            "url": "https://www.tvmaze.com/people/67091/nicki-minaj",
+            "name": "Nicki Minaj",
+            "country": {
+                "name": "Trinidad and Tobago",
+                "code": "TT",
+                "timezone": "America/Port_of_Spain"
+            },
+            "birthday": "1982-12-08",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/262/656649.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/262/656649.jpg"
+            },
+            "updated": 1677485834,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/67091"
+                }
+            }
+        },
+        "character": {
+            "id": 269244,
+            "url": "https://www.tvmaze.com/characters/269244/american-idol-judge",
+            "name": "Judge",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/218/546698.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/218/546698.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/269244"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 70233,
+            "url": "https://www.tvmaze.com/people/70233/mariah-carey",
+            "name": "Mariah Carey",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": null,
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/326/817202.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/326/817202.jpg"
+            },
+            "updated": 1683852070,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/70233"
+                }
+            }
+        },
+        "character": {
+            "id": 269248,
+            "url": "https://www.tvmaze.com/characters/269248/american-idol-judge",
+            "name": "Judge",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/214/536699.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/214/536699.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/269248"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 45739,
+            "url": "https://www.tvmaze.com/people/45739/brian-dunkleman",
+            "name": "Brian Dunkleman",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1971-09-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/214/536696.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/214/536696.jpg"
+            },
+            "updated": 1687368719,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/45739"
+                }
+            }
+        },
+        "character": {
+            "id": 269242,
+            "url": "https://www.tvmaze.com/characters/269242/american-idol-co-host",
+            "name": "Co-Host",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/214/536697.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/214/536697.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/269242"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    }
+]

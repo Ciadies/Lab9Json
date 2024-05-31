@@ -1,0 +1,207 @@
+[
+    {
+        "person": {
+            "id": 33330,
+            "url": "https://www.tvmaze.com/people/33330/gillian-anderson",
+            "name": "Gillian Anderson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-08-09",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7978.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7978.jpg"
+            },
+            "updated": 1687973495,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/33330"
+                }
+            }
+        },
+        "character": {
+            "id": 76337,
+            "url": "https://www.tvmaze.com/characters/76337/the-x-files-special-agent-dana-scully",
+            "name": "Special Agent Dana Scully",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/37/94053.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/37/94053.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/76337"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5436,
+            "url": "https://www.tvmaze.com/people/5436/david-duchovny",
+            "name": "David Duchovny",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1960-08-07",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/42/106509.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/42/106509.jpg"
+            },
+            "updated": 1688622498,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5436"
+                }
+            }
+        },
+        "character": {
+            "id": 76336,
+            "url": "https://www.tvmaze.com/characters/76336/the-x-files-special-agent-fox-mulder",
+            "name": "Special Agent Fox Mulder",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/37/94052.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/37/94052.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/76336"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 3840,
+            "url": "https://www.tvmaze.com/people/3840/mitch-pileggi",
+            "name": "Mitch Pileggi",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1952-04-05",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/216/540821.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/216/540821.jpg"
+            },
+            "updated": 1683409318,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/3840"
+                }
+            }
+        },
+        "character": {
+            "id": 76338,
+            "url": "https://www.tvmaze.com/characters/76338/the-x-files-assistant-director-walter-skinner",
+            "name": "Assistant Director Walter Skinner",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/37/94054.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/37/94054.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/76338"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6761,
+            "url": "https://www.tvmaze.com/people/6761/robert-patrick",
+            "name": "Robert Patrick",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1958-11-05",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/260/650608.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/260/650608.jpg"
+            },
+            "updated": 1683397272,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6761"
+                }
+            }
+        },
+        "character": {
+            "id": 76340,
+            "url": "https://www.tvmaze.com/characters/76340/the-x-files-special-agent-john-doggett",
+            "name": "Special Agent John Doggett",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/44/110085.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/44/110085.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/76340"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 3238,
+            "url": "https://www.tvmaze.com/people/3238/annabeth-gish",
+            "name": "Annabeth Gish",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1971-03-13",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/125/312938.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/125/312938.jpg"
+            },
+            "updated": 1684791378,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/3238"
+                }
+            }
+        },
+        "character": {
+            "id": 76339,
+            "url": "https://www.tvmaze.com/characters/76339/the-x-files-special-agent-monica-reyes",
+            "name": "Special Agent Monica Reyes",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/44/110086.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/44/110086.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/76339"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

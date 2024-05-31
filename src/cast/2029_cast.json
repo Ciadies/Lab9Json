@@ -1,0 +1,822 @@
+[
+    {
+        "person": {
+            "id": 1288,
+            "url": "https://www.tvmaze.com/people/1288/courtney-b-vance",
+            "name": "Courtney B. Vance",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1960-03-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9968.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9968.jpg"
+            },
+            "updated": 1688665727,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/1288"
+                }
+            }
+        },
+        "character": {
+            "id": 117351,
+            "url": "https://www.tvmaze.com/characters/117351/american-crime-story-johnnie-cochran",
+            "name": "Johnnie Cochran",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/11/28313.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/28313.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/117351"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 53644,
+            "url": "https://www.tvmaze.com/people/53644/cuba-gooding-jr",
+            "name": "Cuba Gooding, Jr.",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-01-02",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/233/584087.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/233/584087.jpg"
+            },
+            "updated": 1681731055,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/53644"
+                }
+            }
+        },
+        "character": {
+            "id": 117352,
+            "url": "https://www.tvmaze.com/characters/117352/american-crime-story-oj-simpson",
+            "name": "O.J. Simpson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/11/28309.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/28309.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/117352"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 45515,
+            "url": "https://www.tvmaze.com/people/45515/david-schwimmer",
+            "name": "David Schwimmer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-11-02",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/291/728571.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/291/728571.jpg"
+            },
+            "updated": 1681047622,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/45515"
+                }
+            }
+        },
+        "character": {
+            "id": 117353,
+            "url": "https://www.tvmaze.com/characters/117353/american-crime-story-robert-kardashian",
+            "name": "Robert Kardashian",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/11/28311.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/28311.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/117353"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 53645,
+            "url": "https://www.tvmaze.com/people/53645/john-travolta",
+            "name": "John Travolta",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1954-02-18",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/74/186963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/74/186963.jpg"
+            },
+            "updated": 1685453061,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/53645"
+                }
+            }
+        },
+        "character": {
+            "id": 117354,
+            "url": "https://www.tvmaze.com/characters/117354/american-crime-story-robert-shapiro",
+            "name": "Robert Shapiro",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/162/407024.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/162/407024.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/117354"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5857,
+            "url": "https://www.tvmaze.com/people/5857/sarah-paulson",
+            "name": "Sarah Paulson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1974-12-17",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1224.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1224.jpg"
+            },
+            "updated": 1687640604,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5857"
+                }
+            }
+        },
+        "character": {
+            "id": 117357,
+            "url": "https://www.tvmaze.com/characters/117357/american-crime-story-marcia-clark",
+            "name": "Marcia Clark",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/11/28310.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/28310.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/117357"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 3583,
+            "url": "https://www.tvmaze.com/people/3583/sterling-k-brown",
+            "name": "Sterling K. Brown",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1976-04-05",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/190/476144.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/190/476144.jpg"
+            },
+            "updated": 1685898714,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/3583"
+                }
+            }
+        },
+        "character": {
+            "id": 117358,
+            "url": "https://www.tvmaze.com/characters/117358/american-crime-story-christopher-darden",
+            "name": "Christopher Darden",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/162/406837.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/162/406837.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/117358"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 36237,
+            "url": "https://www.tvmaze.com/people/36237/bruce-greenwood",
+            "name": "Bruce Greenwood",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1956-08-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11074.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11074.jpg"
+            },
+            "updated": 1678176252,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/36237"
+                }
+            }
+        },
+        "character": {
+            "id": 240842,
+            "url": "https://www.tvmaze.com/characters/240842/american-crime-story-gil-garcetti",
+            "name": "Gil Garcetti",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/45/114672.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/45/114672.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/240842"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 69882,
+            "url": "https://www.tvmaze.com/people/69882/beanie-feldstein",
+            "name": "Beanie Feldstein",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1993-06-28",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/243/607960.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/243/607960.jpg"
+            },
+            "updated": 1683546429,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/69882"
+                }
+            }
+        },
+        "character": {
+            "id": 667610,
+            "url": "https://www.tvmaze.com/characters/667610/american-crime-story-monica-lewinsky",
+            "name": "Monica Lewinsky",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/359/899015.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/359/899015.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/667610"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 7141,
+            "url": "https://www.tvmaze.com/people/7141/clive-owen",
+            "name": "Clive Owen",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1964-10-03",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/8483.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/8483.jpg"
+            },
+            "updated": 1685018089,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/7141"
+                }
+            }
+        },
+        "character": {
+            "id": 691869,
+            "url": "https://www.tvmaze.com/characters/691869/american-crime-story-president-bill-clinton",
+            "name": "President Bill Clinton",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/359/899020.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/359/899020.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/691869"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 1016,
+            "url": "https://www.tvmaze.com/people/1016/darren-criss",
+            "name": "Darren Criss",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1987-02-05",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/209/522685.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/209/522685.jpg"
+            },
+            "updated": 1687549834,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/1016"
+                }
+            }
+        },
+        "character": {
+            "id": 501285,
+            "url": "https://www.tvmaze.com/characters/501285/american-crime-story-andrew-cunanan",
+            "name": "Andrew Cunanan",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/162/406827.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/162/406827.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/501285"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5857,
+            "url": "https://www.tvmaze.com/people/5857/sarah-paulson",
+            "name": "Sarah Paulson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1974-12-17",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1224.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1224.jpg"
+            },
+            "updated": 1687640604,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5857"
+                }
+            }
+        },
+        "character": {
+            "id": 667609,
+            "url": "https://www.tvmaze.com/characters/667609/american-crime-story-linda-tripp",
+            "name": "Linda Tripp",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/359/899014.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/359/899014.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/667609"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 12088,
+            "url": "https://www.tvmaze.com/people/12088/nathan-lane",
+            "name": "Nathan Lane",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1956-02-03",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/30550.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/30550.jpg"
+            },
+            "updated": 1686537517,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/12088"
+                }
+            }
+        },
+        "character": {
+            "id": 188555,
+            "url": "https://www.tvmaze.com/characters/188555/american-crime-story-f-lee-bailey",
+            "name": "F. Lee Bailey",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/45/114671.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/45/114671.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/188555"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6232,
+            "url": "https://www.tvmaze.com/people/6232/kenneth-choi",
+            "name": "Kenneth Choi",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1971-10-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/161/403395.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/161/403395.jpg"
+            },
+            "updated": 1683998208,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6232"
+                }
+            }
+        },
+        "character": {
+            "id": 240841,
+            "url": "https://www.tvmaze.com/characters/240841/american-crime-story-judge-lance-ito",
+            "name": "Judge Lance Ito",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/45/114673.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/45/114673.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/240841"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 25135,
+            "url": "https://www.tvmaze.com/people/25135/annaleigh-ashford",
+            "name": "Annaleigh Ashford",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1985-06-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/282/706088.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/282/706088.jpg"
+            },
+            "updated": 1682982549,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25135"
+                }
+            }
+        },
+        "character": {
+            "id": 667611,
+            "url": "https://www.tvmaze.com/characters/667611/american-crime-story-paula-jones",
+            "name": "Paula Jones",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/359/899016.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/359/899016.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/667611"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 28002,
+            "url": "https://www.tvmaze.com/people/28002/edie-falco",
+            "name": "Edie Falco",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-07-05",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/114/286370.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/114/286370.jpg"
+            },
+            "updated": 1687482860,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/28002"
+                }
+            }
+        },
+        "character": {
+            "id": 846575,
+            "url": "https://www.tvmaze.com/characters/846575/american-crime-story-hillary-clinton",
+            "name": "Hillary Clinton",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/359/899021.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/359/899021.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/846575"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 95000,
+            "url": "https://www.tvmaze.com/people/95000/edgar-ramirez",
+            "name": "\u00c9dgar Ram\u00edrez",
+            "country": {
+                "name": "Venezuela, Bolivarian Republic of",
+                "code": "VE",
+                "timezone": "America/Caracas"
+            },
+            "birthday": "1977-03-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/429/1074827.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/429/1074827.jpg"
+            },
+            "updated": 1684755901,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/95000"
+                }
+            }
+        },
+        "character": {
+            "id": 501284,
+            "url": "https://www.tvmaze.com/characters/501284/american-crime-story-gianni-versace",
+            "name": "Gianni Versace",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/162/406828.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/162/406828.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/501284"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 9382,
+            "url": "https://www.tvmaze.com/people/9382/christian-clemenson",
+            "name": "Christian Clemenson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1958-03-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/12080.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/12080.jpg"
+            },
+            "updated": 1650081711,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/9382"
+                }
+            }
+        },
+        "character": {
+            "id": 240843,
+            "url": "https://www.tvmaze.com/characters/240843/american-crime-story-bill-hodgman",
+            "name": "Bill Hodgman",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/45/114675.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/45/114675.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/240843"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 83166,
+            "url": "https://www.tvmaze.com/people/83166/ricky-martin",
+            "name": "Ricky Martin",
+            "country": {
+                "name": "Puerto Rico",
+                "code": "PR",
+                "timezone": "America/Puerto_Rico"
+            },
+            "birthday": "1971-12-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/459/1148513.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/459/1148513.jpg"
+            },
+            "updated": 1682944227,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/83166"
+                }
+            }
+        },
+        "character": {
+            "id": 501286,
+            "url": "https://www.tvmaze.com/characters/501286/american-crime-story-antonio-damico",
+            "name": "Antonio D'Amico",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/162/406829.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/162/406829.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/501286"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 114965,
+            "url": "https://www.tvmaze.com/people/114965/penelope-cruz",
+            "name": "Penelope Cruz",
+            "country": {
+                "name": "Spain",
+                "code": "ES",
+                "timezone": "Europe/Madrid"
+            },
+            "birthday": "1974-04-28",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/43/107903.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/43/107903.jpg"
+            },
+            "updated": 1683678770,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/114965"
+                }
+            }
+        },
+        "character": {
+            "id": 501287,
+            "url": "https://www.tvmaze.com/characters/501287/american-crime-story-donatella-versace",
+            "name": "Donatella Versace",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/162/406835.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/162/406835.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/501287"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 8117,
+            "url": "https://www.tvmaze.com/people/8117/margo-martindale",
+            "name": "Margo Martindale",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1951-07-18",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1895.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1895.jpg"
+            },
+            "updated": 1682713565,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/8117"
+                }
+            }
+        },
+        "character": {
+            "id": 906819,
+            "url": "https://www.tvmaze.com/characters/906819/american-crime-story-lucianne-goldberg",
+            "name": "Lucianne Goldberg",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/359/899022.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/359/899022.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/906819"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

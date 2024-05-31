@@ -1,0 +1,412 @@
+[
+    {
+        "person": {
+            "id": 90555,
+            "url": "https://www.tvmaze.com/people/90555/richard-hunt",
+            "name": "Richard Hunt",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1951-08-17",
+            "deathday": "1992-01-07",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/52/131652.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/52/131652.jpg"
+            },
+            "updated": 1665647095,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/90555"
+                }
+            }
+        },
+        "character": {
+            "id": 1023246,
+            "url": "https://www.tvmaze.com/characters/1023246/the-muppet-show-statler",
+            "name": "Statler",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/420/1050963.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/420/1050963.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/1023246"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 62635,
+            "url": "https://www.tvmaze.com/people/62635/frank-oz",
+            "name": "Frank Oz",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1944-05-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/29/74411.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/29/74411.jpg"
+            },
+            "updated": 1681957455,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/62635"
+                }
+            }
+        },
+        "character": {
+            "id": 167568,
+            "url": "https://www.tvmaze.com/characters/167568/the-muppet-show-miss-piggy-fozzie-bear-animal-sam-the-eagle",
+            "name": "Miss Piggy / Fozzie Bear / Animal / Sam the Eagle",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/17/43913.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/17/43913.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/167568"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 84477,
+            "url": "https://www.tvmaze.com/people/84477/jim-henson",
+            "name": "Jim Henson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1936-09-24",
+            "deathday": "1990-05-16",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/29/74410.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/29/74410.jpg"
+            },
+            "updated": 1681957455,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/84477"
+                }
+            }
+        },
+        "character": {
+            "id": 1025139,
+            "url": "https://www.tvmaze.com/characters/1025139/the-muppet-show-link-hogthrob",
+            "name": "Link Hogthrob",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/421/1052549.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/421/1052549.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/1025139"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 84478,
+            "url": "https://www.tvmaze.com/people/84478/dave-goelz",
+            "name": "Dave Goelz",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1946-07-16",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/20/50804.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/20/50804.jpg"
+            },
+            "updated": 1684015204,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/84478"
+                }
+            }
+        },
+        "character": {
+            "id": 167569,
+            "url": "https://www.tvmaze.com/characters/167569/the-muppet-show-gonzo-dr-bunsen-honeydew-zoot",
+            "name": "Gonzo / Dr. Bunsen Honeydew / Zoot",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/17/43914.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/17/43914.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/167569"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 84477,
+            "url": "https://www.tvmaze.com/people/84477/jim-henson",
+            "name": "Jim Henson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1936-09-24",
+            "deathday": "1990-05-16",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/29/74410.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/29/74410.jpg"
+            },
+            "updated": 1681957455,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/84477"
+                }
+            }
+        },
+        "character": {
+            "id": 1023244,
+            "url": "https://www.tvmaze.com/characters/1023244/the-muppet-show-rowlf-the-dog",
+            "name": "Rowlf the Dog",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/420/1050961.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/420/1050961.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/1023244"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 84479,
+            "url": "https://www.tvmaze.com/people/84479/jerry-nelson",
+            "name": "Jerry Nelson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1934-07-10",
+            "deathday": "2012-08-23",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/52/131811.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/52/131811.jpg"
+            },
+            "updated": 1664942963,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/84479"
+                }
+            }
+        },
+        "character": {
+            "id": 167570,
+            "url": "https://www.tvmaze.com/characters/167570/the-muppet-show-floyd-pepper",
+            "name": "Floyd Pepper",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/424/1062018.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/424/1062018.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/167570"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 84477,
+            "url": "https://www.tvmaze.com/people/84477/jim-henson",
+            "name": "Jim Henson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1936-09-24",
+            "deathday": "1990-05-16",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/29/74410.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/29/74410.jpg"
+            },
+            "updated": 1681957455,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/84477"
+                }
+            }
+        },
+        "character": {
+            "id": 1024210,
+            "url": "https://www.tvmaze.com/characters/1024210/the-muppet-show-kermit-the-frog",
+            "name": "Kermit the Frog",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/420/1051847.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/420/1051847.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/1024210"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 62635,
+            "url": "https://www.tvmaze.com/people/62635/frank-oz",
+            "name": "Frank Oz",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1944-05-25",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/29/74411.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/29/74411.jpg"
+            },
+            "updated": 1681957455,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/62635"
+                }
+            }
+        },
+        "character": {
+            "id": 1024209,
+            "url": "https://www.tvmaze.com/characters/1024209/the-muppet-show-miss-piggy",
+            "name": "Miss Piggy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/420/1051846.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/420/1051846.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/1024209"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 84477,
+            "url": "https://www.tvmaze.com/people/84477/jim-henson",
+            "name": "Jim Henson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1936-09-24",
+            "deathday": "1990-05-16",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/29/74410.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/29/74410.jpg"
+            },
+            "updated": 1681957455,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/84477"
+                }
+            }
+        },
+        "character": {
+            "id": 1025135,
+            "url": "https://www.tvmaze.com/characters/1025135/the-muppet-show-the-swedish-chef",
+            "name": "The Swedish Chef",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/421/1052545.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/421/1052545.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/1025135"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    },
+    {
+        "person": {
+            "id": 84477,
+            "url": "https://www.tvmaze.com/people/84477/jim-henson",
+            "name": "Jim Henson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1936-09-24",
+            "deathday": "1990-05-16",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/29/74410.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/29/74410.jpg"
+            },
+            "updated": 1681957455,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/84477"
+                }
+            }
+        },
+        "character": {
+            "id": 1025138,
+            "url": "https://www.tvmaze.com/characters/1025138/the-muppet-show-dr-teeth",
+            "name": "Dr. Teeth",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/421/1052548.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/421/1052548.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/1025138"
+                }
+            }
+        },
+        "self": false,
+        "voice": true
+    }
+]

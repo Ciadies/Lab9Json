@@ -1,0 +1,602 @@
+[
+    {
+        "person": {
+            "id": 53090,
+            "url": "https://www.tvmaze.com/people/53090/robert-reed",
+            "name": "Robert Reed",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1932-10-19",
+            "deathday": "1992-05-12",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/86/215540.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/86/215540.jpg"
+            },
+            "updated": 1686463258,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/53090"
+                }
+            }
+        },
+        "character": {
+            "id": 180951,
+            "url": "https://www.tvmaze.com/characters/180951/roots-dr-william-reynolds",
+            "name": "Dr. William Reynolds",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/141/354003.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/141/354003.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180951"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 52859,
+            "url": "https://www.tvmaze.com/people/52859/olivia-cole",
+            "name": "Olivia Cole",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1942-11-26",
+            "deathday": "2018-01-19",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/56164.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/56164.jpg"
+            },
+            "updated": 1658168786,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/52859"
+                }
+            }
+        },
+        "character": {
+            "id": 180952,
+            "url": "https://www.tvmaze.com/characters/180952/roots-mathilda",
+            "name": "Mathilda",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180952"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 28844,
+            "url": "https://www.tvmaze.com/people/28844/john-amos",
+            "name": "John Amos",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1939-12-27",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25568.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25568.jpg"
+            },
+            "updated": 1687127792,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/28844"
+                }
+            }
+        },
+        "character": {
+            "id": 180953,
+            "url": "https://www.tvmaze.com/characters/180953/roots-toby",
+            "name": "Toby",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/141/353996.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/141/353996.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180953"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 48111,
+            "url": "https://www.tvmaze.com/people/48111/madge-sinclair",
+            "name": "Madge Sinclair",
+            "country": {
+                "name": "Jamaica",
+                "code": "JM",
+                "timezone": "America/Jamaica"
+            },
+            "birthday": "1938-04-28",
+            "deathday": "1995-12-20",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/56163.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/56163.jpg"
+            },
+            "updated": 1688665360,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/48111"
+                }
+            }
+        },
+        "character": {
+            "id": 180954,
+            "url": "https://www.tvmaze.com/characters/180954/roots-bell-reynolds",
+            "name": "Bell Reynolds",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/141/354000.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/141/354000.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180954"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 10961,
+            "url": "https://www.tvmaze.com/people/10961/ben-vereen",
+            "name": "Ben Vereen",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1946-10-10",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/85/214962.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/85/214962.jpg"
+            },
+            "updated": 1682188067,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/10961"
+                }
+            }
+        },
+        "character": {
+            "id": 180957,
+            "url": "https://www.tvmaze.com/characters/180957/roots-chicken-george-moore",
+            "name": "'Chicken' George Moore",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/141/353999.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/141/353999.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180957"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20498,
+            "url": "https://www.tvmaze.com/people/20498/leslie-uggams",
+            "name": "Leslie Uggams",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-05-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/197/492546.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/492546.jpg"
+            },
+            "updated": 1684518228,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20498"
+                }
+            }
+        },
+        "character": {
+            "id": 180959,
+            "url": "https://www.tvmaze.com/characters/180959/roots-kizzy-reynolds",
+            "name": "Kizzy Reynolds",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/141/353998.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/141/353998.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180959"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 25273,
+            "url": "https://www.tvmaze.com/people/25273/sandy-duncan",
+            "name": "Sandy Duncan",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1946-02-20",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/56146.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/56146.jpg"
+            },
+            "updated": 1687196272,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25273"
+                }
+            }
+        },
+        "character": {
+            "id": 180962,
+            "url": "https://www.tvmaze.com/characters/180962/roots-missy-anne-reynolds",
+            "name": "Missy Anne Reynolds",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180962"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 86230,
+            "url": "https://www.tvmaze.com/people/86230/chuck-connors",
+            "name": "Chuck Connors",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1921-04-10",
+            "deathday": "1992-11-10",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/56162.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/56162.jpg"
+            },
+            "updated": 1679392888,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/86230"
+                }
+            }
+        },
+        "character": {
+            "id": 180963,
+            "url": "https://www.tvmaze.com/characters/180963/roots-tom-moore",
+            "name": "Tom Moore",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/141/354001.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/141/354001.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180963"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 38654,
+            "url": "https://www.tvmaze.com/people/38654/levar-burton",
+            "name": "LeVar Burton",
+            "country": {
+                "name": "Germany",
+                "code": "DE",
+                "timezone": "Europe/Busingen"
+            },
+            "birthday": "1957-02-16",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/168/420484.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/420484.jpg"
+            },
+            "updated": 1685102894,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/38654"
+                }
+            }
+        },
+        "character": {
+            "id": 180947,
+            "url": "https://www.tvmaze.com/characters/180947/roots-kunta-kinte",
+            "name": "Kunta Kinte",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/141/353995.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/141/353995.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180947"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19703,
+            "url": "https://www.tvmaze.com/people/19703/louis-gossett-jr",
+            "name": "Louis Gossett, Jr.",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1936-05-27",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/56153.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/56153.jpg"
+            },
+            "updated": 1667708955,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19703"
+                }
+            }
+        },
+        "character": {
+            "id": 180948,
+            "url": "https://www.tvmaze.com/characters/180948/roots-fiddler",
+            "name": "Fiddler",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/141/353997.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/141/353997.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180948"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 55674,
+            "url": "https://www.tvmaze.com/people/55674/vic-morrow",
+            "name": "Vic Morrow",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1929-02-14",
+            "deathday": "1982-07-23",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/56157.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/56157.jpg"
+            },
+            "updated": 1679683883,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/55674"
+                }
+            }
+        },
+        "character": {
+            "id": 180950,
+            "url": "https://www.tvmaze.com/characters/180950/roots-ames",
+            "name": "Ames",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180950"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 85407,
+            "url": "https://www.tvmaze.com/people/85407/lynda-day-george",
+            "name": "Lynda Day George",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1944-12-11",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/56154.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/56154.jpg"
+            },
+            "updated": 1688656374,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/85407"
+                }
+            }
+        },
+        "character": {
+            "id": 180958,
+            "url": "https://www.tvmaze.com/characters/180958/roots-mrs-reynolds",
+            "name": "Mrs. Reynolds",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/141/354002.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/141/354002.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180958"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 90621,
+            "url": "https://www.tvmaze.com/people/90621/carolyn-jones",
+            "name": "Carolyn Jones",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1930-04-28",
+            "deathday": "1983-08-03",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/89/224204.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/89/224204.jpg"
+            },
+            "updated": 1681372048,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/90621"
+                }
+            }
+        },
+        "character": {
+            "id": 180961,
+            "url": "https://www.tvmaze.com/characters/180961/roots-mrs-moore",
+            "name": "Mrs. Moore",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180961"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5501,
+            "url": "https://www.tvmaze.com/people/5501/edward-asner",
+            "name": "Edward Asner",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1929-11-15",
+            "deathday": "2021-08-29",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/22072.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/22072.jpg"
+            },
+            "updated": 1681538479,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5501"
+                }
+            }
+        },
+        "character": {
+            "id": 180964,
+            "url": "https://www.tvmaze.com/characters/180964/roots-capt-thomas-davies",
+            "name": "Capt. Thomas Davies",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/141/354004.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/141/354004.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/180964"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 9608,
+            "url": "https://www.tvmaze.com/people/9608/ian-mcshane",
+            "name": "Ian McShane",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1942-09-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/109/273989.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/109/273989.jpg"
+            },
+            "updated": 1679086155,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/9608"
+                }
+            }
+        },
+        "character": {
+            "id": 202239,
+            "url": "https://www.tvmaze.com/characters/202239/roots-sir-eric-russell",
+            "name": "Sir Eric Russell",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/202239"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

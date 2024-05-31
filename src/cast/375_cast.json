@@ -1,0 +1,405 @@
+[
+    {
+        "person": {
+            "id": 42330,
+            "url": "https://www.tvmaze.com/people/42330/abbi-jacobson",
+            "name": "Abbi Jacobson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1984-02-01",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/11211.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/11211.jpg"
+            },
+            "updated": 1684238669,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/42330"
+                }
+            }
+        },
+        "character": {
+            "id": 70631,
+            "url": "https://www.tvmaze.com/characters/70631/broad-city-abbi-abrams",
+            "name": "Abbi Abrams",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5541.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5541.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/70631"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 42331,
+            "url": "https://www.tvmaze.com/people/42331/ilana-glazer",
+            "name": "Ilana Glazer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1987-04-12",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/393/982557.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/393/982557.jpg"
+            },
+            "updated": 1687136107,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/42331"
+                }
+            }
+        },
+        "character": {
+            "id": 70632,
+            "url": "https://www.tvmaze.com/characters/70632/broad-city-ilana-wexler",
+            "name": "Ilana Wexler",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5542.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5542.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/70632"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 21310,
+            "url": "https://www.tvmaze.com/people/21310/hannibal-buress",
+            "name": "Hannibal Buress",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1983-02-04",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/13/34375.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/13/34375.jpg"
+            },
+            "updated": 1678880347,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/21310"
+                }
+            }
+        },
+        "character": {
+            "id": 70638,
+            "url": "https://www.tvmaze.com/characters/70638/broad-city-lincoln-rice",
+            "name": "Lincoln Rice",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/109/273918.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/109/273918.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/70638"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 26974,
+            "url": "https://www.tvmaze.com/people/26974/john-gemberling",
+            "name": "John Gemberling",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1981-02-01",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/100/252395.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/100/252395.jpg"
+            },
+            "updated": 1687551551,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/26974"
+                }
+            }
+        },
+        "character": {
+            "id": 70633,
+            "url": "https://www.tvmaze.com/characters/70633/broad-city-matt-bevers",
+            "name": "Matt Bevers",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/109/273919.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/109/273919.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/70633"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 42338,
+            "url": "https://www.tvmaze.com/people/42338/arturo-castro",
+            "name": "Arturo Castro",
+            "country": {
+                "name": "Guatemala",
+                "code": "GT",
+                "timezone": "America/Guatemala"
+            },
+            "birthday": "1985-11-26",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/20/50181.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/20/50181.jpg"
+            },
+            "updated": 1678840193,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/42338"
+                }
+            }
+        },
+        "character": {
+            "id": 102710,
+            "url": "https://www.tvmaze.com/characters/102710/broad-city-jaime-castro",
+            "name": "Jaim\u00e9 Castro",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/109/273923.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/109/273923.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/102710"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 42340,
+            "url": "https://www.tvmaze.com/people/42340/paul-w-downs",
+            "name": "Paul W. Downs",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/20/50182.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/20/50182.jpg"
+            },
+            "updated": 1661338326,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/42340"
+                }
+            }
+        },
+        "character": {
+            "id": 70636,
+            "url": "https://www.tvmaze.com/characters/70636/broad-city-trey",
+            "name": "Trey",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/109/273922.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/109/273922.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/70636"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 42339,
+            "url": "https://www.tvmaze.com/people/42339/stephen-schneider",
+            "name": "Stephen Schneider",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1980-08-09",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/55509.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/55509.jpg"
+            },
+            "updated": 1688385093,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/42339"
+                }
+            }
+        },
+        "character": {
+            "id": 70635,
+            "url": "https://www.tvmaze.com/characters/70635/broad-city-jeremy-santos",
+            "name": "Jeremy Santos",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/9/23323.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/9/23323.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/70635"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 56991,
+            "url": "https://www.tvmaze.com/people/56991/nicole-drespel",
+            "name": "Nicole Drespel",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/20/50184.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/20/50184.jpg"
+            },
+            "updated": 1676056912,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/56991"
+                }
+            }
+        },
+        "character": {
+            "id": 102713,
+            "url": "https://www.tvmaze.com/characters/102713/broad-city-nicole",
+            "name": "Nicole",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/109/273921.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/109/273921.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/102713"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 28224,
+            "url": "https://www.tvmaze.com/people/28224/janeane-garofalo",
+            "name": "Janeane Garofalo",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-09-28",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/88/221323.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/88/221323.jpg"
+            },
+            "updated": 1686597005,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/28224"
+                }
+            }
+        },
+        "character": {
+            "id": 102716,
+            "url": "https://www.tvmaze.com/characters/102716/broad-city-monica",
+            "name": "Monica",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/102716"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 42341,
+            "url": "https://www.tvmaze.com/people/42341/chris-gethard",
+            "name": "Chris Gethard",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1980-05-23",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/20/50183.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/20/50183.jpg"
+            },
+            "updated": 1683204540,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/42341"
+                }
+            }
+        },
+        "character": {
+            "id": 173231,
+            "url": "https://www.tvmaze.com/characters/173231/broad-city-derek",
+            "name": "Derek",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/109/273920.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/109/273920.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/173231"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

@@ -1,0 +1,289 @@
+[
+    {
+        "person": {
+            "id": 41237,
+            "url": "https://www.tvmaze.com/people/41237/mary-tyler-moore",
+            "name": "Mary Tyler Moore",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1936-12-29",
+            "deathday": "2017-01-25",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/35/89702.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/35/89702.jpg"
+            },
+            "updated": 1688213717,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/41237"
+                }
+            }
+        },
+        "character": {
+            "id": 172261,
+            "url": "https://www.tvmaze.com/characters/172261/the-mary-tyler-moore-show-mary-richards",
+            "name": "Mary Richards",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/49641.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/49641.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/172261"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 27458,
+            "url": "https://www.tvmaze.com/people/27458/gavin-macleod",
+            "name": "Gavin MacLeod",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1931-02-28",
+            "deathday": "2021-05-29",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/26/67209.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/26/67209.jpg"
+            },
+            "updated": 1686152282,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/27458"
+                }
+            }
+        },
+        "character": {
+            "id": 172265,
+            "url": "https://www.tvmaze.com/characters/172265/the-mary-tyler-moore-show-murray-slaughter",
+            "name": "Murray Slaughter",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/49646.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/49646.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/172265"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5501,
+            "url": "https://www.tvmaze.com/people/5501/edward-asner",
+            "name": "Edward Asner",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1929-11-15",
+            "deathday": "2021-08-29",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/22072.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/22072.jpg"
+            },
+            "updated": 1681538479,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5501"
+                }
+            }
+        },
+        "character": {
+            "id": 172267,
+            "url": "https://www.tvmaze.com/characters/172267/the-mary-tyler-moore-show-lou-grant",
+            "name": "Lou Grant",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/49648.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/49648.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/172267"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 86596,
+            "url": "https://www.tvmaze.com/people/86596/ted-knight",
+            "name": "Ted Knight",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1923-12-07",
+            "deathday": "1986-08-26",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/88/222405.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/88/222405.jpg"
+            },
+            "updated": 1683334070,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/86596"
+                }
+            }
+        },
+        "character": {
+            "id": 172269,
+            "url": "https://www.tvmaze.com/characters/172269/the-mary-tyler-moore-show-ted-baxter",
+            "name": "Ted Baxter",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/49642.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/49642.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/172269"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 38580,
+            "url": "https://www.tvmaze.com/people/38580/valerie-harper",
+            "name": "Valerie Harper",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1939-08-22",
+            "deathday": "2019-08-30",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/120/301583.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/120/301583.jpg"
+            },
+            "updated": 1677281416,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/38580"
+                }
+            }
+        },
+        "character": {
+            "id": 172264,
+            "url": "https://www.tvmaze.com/characters/172264/the-mary-tyler-moore-show-rhoda-morgenstern",
+            "name": "Rhoda Morgenstern",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/49645.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/49645.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/172264"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 28873,
+            "url": "https://www.tvmaze.com/people/28873/georgia-engel",
+            "name": "Georgia Engel",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1948-07-28",
+            "deathday": "2019-04-12",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/191/479726.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/191/479726.jpg"
+            },
+            "updated": 1667311028,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/28873"
+                }
+            }
+        },
+        "character": {
+            "id": 172262,
+            "url": "https://www.tvmaze.com/characters/172262/the-mary-tyler-moore-show-georgette-franklin-baxter",
+            "name": "Georgette Franklin Baxter",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/49643.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/49643.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/172262"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11487,
+            "url": "https://www.tvmaze.com/people/11487/betty-white",
+            "name": "Betty White",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1922-01-17",
+            "deathday": "2021-12-31",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7898.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7898.jpg"
+            },
+            "updated": 1686463675,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11487"
+                }
+            }
+        },
+        "character": {
+            "id": 172268,
+            "url": "https://www.tvmaze.com/characters/172268/the-mary-tyler-moore-show-sue-ann-nivens",
+            "name": "Sue Ann Nivens",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/19/49649.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/19/49649.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/172268"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

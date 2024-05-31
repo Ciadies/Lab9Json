@@ -1,0 +1,2184 @@
+[
+    {
+        "person": {
+            "id": 6756,
+            "url": "https://www.tvmaze.com/people/6756/ernie-hudson",
+            "name": "Ernie Hudson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1945-12-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1031.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1031.jpg"
+            },
+            "updated": 1687438394,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6756"
+                }
+            }
+        },
+        "character": {
+            "id": 87830,
+            "url": "https://www.tvmaze.com/characters/87830/oz-warden-leo-glynn",
+            "name": "Warden Leo Glynn",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350802.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350802.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87830"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20113,
+            "url": "https://www.tvmaze.com/people/20113/terry-kinney",
+            "name": "Terry Kinney",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1954-01-29",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/182/456454.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/182/456454.jpg"
+            },
+            "updated": 1685551339,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20113"
+                }
+            }
+        },
+        "character": {
+            "id": 87831,
+            "url": "https://www.tvmaze.com/characters/87831/oz-tim-mcmanus",
+            "name": "Tim McManus",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350798.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350798.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87831"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 2706,
+            "url": "https://www.tvmaze.com/people/2706/harold-perrineau",
+            "name": "Harold Perrineau",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-08-07",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/89/222524.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/89/222524.jpg"
+            },
+            "updated": 1687675614,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/2706"
+                }
+            }
+        },
+        "character": {
+            "id": 87832,
+            "url": "https://www.tvmaze.com/characters/87832/oz-augustus-hill",
+            "name": "Augustus Hill",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350794.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350794.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87832"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 22017,
+            "url": "https://www.tvmaze.com/people/22017/rita-moreno",
+            "name": "Rita Moreno",
+            "country": {
+                "name": "Puerto Rico",
+                "code": "PR",
+                "timezone": "America/Puerto_Rico"
+            },
+            "birthday": "1931-12-11",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/20196.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/20196.jpg"
+            },
+            "updated": 1685979954,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/22017"
+                }
+            }
+        },
+        "character": {
+            "id": 87837,
+            "url": "https://www.tvmaze.com/characters/87837/oz-sister-peter-marie-sister-pete-reimondo",
+            "name": "Sister Peter Marie \"Sister Pete\" Reimondo",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350804.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350804.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87837"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18455,
+            "url": "https://www.tvmaze.com/people/18455/jk-simmons",
+            "name": "J.K. Simmons",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1955-01-09",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/266/666654.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/266/666654.jpg"
+            },
+            "updated": 1684745759,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18455"
+                }
+            }
+        },
+        "character": {
+            "id": 87839,
+            "url": "https://www.tvmaze.com/characters/87839/oz-vernon-vern-schillinger",
+            "name": "Vernon \"Vern\" Schillinger",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350795.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350795.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87839"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6030,
+            "url": "https://www.tvmaze.com/people/6030/lee-tergesen",
+            "name": "Lee Tergesen",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-07-08",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/62/156932.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/62/156932.jpg"
+            },
+            "updated": 1685025628,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6030"
+                }
+            }
+        },
+        "character": {
+            "id": 87840,
+            "url": "https://www.tvmaze.com/characters/87840/oz-tobias-beecher",
+            "name": "Tobias Beecher",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350791.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350791.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87840"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6965,
+            "url": "https://www.tvmaze.com/people/6965/dean-winters",
+            "name": "Dean Winters",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-07-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/162/406849.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/162/406849.jpg"
+            },
+            "updated": 1679438268,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6965"
+                }
+            }
+        },
+        "character": {
+            "id": 87842,
+            "url": "https://www.tvmaze.com/characters/87842/oz-ryan-oreily",
+            "name": "Ryan O'Reily",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350797.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350797.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87842"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50294,
+            "url": "https://www.tvmaze.com/people/50294/george-morfogen",
+            "name": "George Morfogen",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1933-03-30",
+            "deathday": "2019-03-08",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/26918.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26918.jpg"
+            },
+            "updated": 1629892122,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50294"
+                }
+            }
+        },
+        "character": {
+            "id": 87858,
+            "url": "https://www.tvmaze.com/characters/87858/oz-robert-rebadow",
+            "name": "Robert Rebadow",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350811.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350811.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87858"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 7640,
+            "url": "https://www.tvmaze.com/people/7640/eamonn-walker",
+            "name": "Eamonn Walker",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1962-06-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/146/366892.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/146/366892.jpg"
+            },
+            "updated": 1684539585,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/7640"
+                }
+            }
+        },
+        "character": {
+            "id": 87833,
+            "url": "https://www.tvmaze.com/characters/87833/oz-kareem-said",
+            "name": "Kareem Said",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350792.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350792.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87833"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50295,
+            "url": "https://www.tvmaze.com/people/50295/granville-adams",
+            "name": "Granville Adams",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-10-08",
+            "deathday": "2021-10-10",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/26921.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26921.jpg"
+            },
+            "updated": 1634538444,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50295"
+                }
+            }
+        },
+        "character": {
+            "id": 87859,
+            "url": "https://www.tvmaze.com/characters/87859/oz-zahir-arif",
+            "name": "Zahir Arif",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350803.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350803.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87859"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 15881,
+            "url": "https://www.tvmaze.com/people/15881/lauren-velez",
+            "name": "Lauren V\u00e9lez",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-11-02",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/135/339593.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/135/339593.jpg"
+            },
+            "updated": 1686259929,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/15881"
+                }
+            }
+        },
+        "character": {
+            "id": 87865,
+            "url": "https://www.tvmaze.com/characters/87865/oz-dr-gloria-nathan",
+            "name": "Dr. Gloria Nathan",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350796.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350796.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87865"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 2086,
+            "url": "https://www.tvmaze.com/people/2086/kirk-acevedo",
+            "name": "Kirk Acevedo",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1971-11-27",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6003.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6003.jpg"
+            },
+            "updated": 1678968763,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/2086"
+                }
+            }
+        },
+        "character": {
+            "id": 87834,
+            "url": "https://www.tvmaze.com/characters/87834/oz-miguel-alvarez",
+            "name": "Miguel Alvarez",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350793.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350793.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87834"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18181,
+            "url": "https://www.tvmaze.com/people/18181/bd-wong",
+            "name": "B.D. Wong",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1960-10-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/192/480006.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/192/480006.jpg"
+            },
+            "updated": 1687469140,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18181"
+                }
+            }
+        },
+        "character": {
+            "id": 87847,
+            "url": "https://www.tvmaze.com/characters/87847/oz-father-ray-mukada",
+            "name": "Father Ray Mukada",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350819.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350819.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87847"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 25025,
+            "url": "https://www.tvmaze.com/people/25025/craig-mums-grant",
+            "name": "Craig \"muMs\" Grant",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-12-18",
+            "deathday": "2021-03-24",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/205/514660.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/205/514660.jpg"
+            },
+            "updated": 1652643693,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25025"
+                }
+            }
+        },
+        "character": {
+            "id": 87852,
+            "url": "https://www.tvmaze.com/characters/87852/oz-arnold-poet-jackson",
+            "name": "Arnold \"Poet\" Jackson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881696.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881696.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87852"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17599,
+            "url": "https://www.tvmaze.com/people/17599/tom-mardirosian",
+            "name": "Tom Mardirosian",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1947-12-14",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/26940.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26940.jpg"
+            },
+            "updated": 1687710585,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17599"
+                }
+            }
+        },
+        "character": {
+            "id": 87882,
+            "url": "https://www.tvmaze.com/characters/87882/oz-agamemnon-the-mole-busmalis",
+            "name": "Agamemnon \"The Mole\" Busmalis",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350812.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350812.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87882"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 11591,
+            "url": "https://www.tvmaze.com/people/11591/chuck-zito",
+            "name": "Chuck Zito",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": null,
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/3310.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/3310.jpg"
+            },
+            "updated": 1534672171,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/11591"
+                }
+            }
+        },
+        "character": {
+            "id": 87851,
+            "url": "https://www.tvmaze.com/characters/87851/oz-chucky-the-enforcer-pancamo",
+            "name": "Chucky \"The Enforcer\" Pancamo",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350815.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350815.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87851"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17434,
+            "url": "https://www.tvmaze.com/people/17434/scott-william-winters",
+            "name": "Scott William Winters",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-08-05",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/104/262287.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/104/262287.jpg"
+            },
+            "updated": 1670954581,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17434"
+                }
+            }
+        },
+        "character": {
+            "id": 87880,
+            "url": "https://www.tvmaze.com/characters/87880/oz-cyril-oreily",
+            "name": "Cyril O'Reily",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881681.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881681.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87880"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 15616,
+            "url": "https://www.tvmaze.com/people/15616/robert-clohessy",
+            "name": "Robert Clohessy",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1957-06-10",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2756.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2756.jpg"
+            },
+            "updated": 1685832480,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/15616"
+                }
+            }
+        },
+        "character": {
+            "id": 87876,
+            "url": "https://www.tvmaze.com/characters/87876/oz-officer-sean-murphy",
+            "name": "Officer Sean Murphy",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350806.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350806.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87876"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 4936,
+            "url": "https://www.tvmaze.com/people/4936/christopher-meloni",
+            "name": "Christopher Meloni",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1961-04-02",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/84/212373.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/84/212373.jpg"
+            },
+            "updated": 1687453269,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/4936"
+                }
+            }
+        },
+        "character": {
+            "id": 87850,
+            "url": "https://www.tvmaze.com/characters/87850/oz-chris-keller",
+            "name": "Chris Keller",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350818.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350818.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87850"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18889,
+            "url": "https://www.tvmaze.com/people/18889/kristin-rohde",
+            "name": "Kristin Rohde",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": null,
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/26924.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26924.jpg"
+            },
+            "updated": 1431009377,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18889"
+                }
+            }
+        },
+        "character": {
+            "id": 87863,
+            "url": "https://www.tvmaze.com/characters/87863/oz-claire-howell",
+            "name": "Claire Howell",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350807.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350807.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87863"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 18937,
+            "url": "https://www.tvmaze.com/people/18937/re-rodgers",
+            "name": "R.E. Rodgers",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": null,
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/26935.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26935.jpg"
+            },
+            "updated": 1431010965,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/18937"
+                }
+            }
+        },
+        "character": {
+            "id": 87873,
+            "url": "https://www.tvmaze.com/characters/87873/oz-james-robson",
+            "name": "James Robson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350813.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350813.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87873"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 26410,
+            "url": "https://www.tvmaze.com/people/26410/adewale-akinnuoye-agbaje",
+            "name": "Adewale Akinnuoye-Agbaje",
+            "country": {
+                "name": "United Kingdom",
+                "code": "GB",
+                "timezone": "Europe/London"
+            },
+            "birthday": "1967-08-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/7474.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/7474.jpg"
+            },
+            "updated": 1685782362,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/26410"
+                }
+            }
+        },
+        "character": {
+            "id": 87843,
+            "url": "https://www.tvmaze.com/characters/87843/oz-simon-adebisi",
+            "name": "Simon Adebisi",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/25795.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/25795.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87843"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 1736,
+            "url": "https://www.tvmaze.com/people/1736/david-zayas",
+            "name": "David Zayas",
+            "country": {
+                "name": "Puerto Rico",
+                "code": "PR",
+                "timezone": "America/Puerto_Rico"
+            },
+            "birthday": "1962-08-15",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/7038.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/7038.jpg"
+            },
+            "updated": 1685712487,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/1736"
+                }
+            }
+        },
+        "character": {
+            "id": 87853,
+            "url": "https://www.tvmaze.com/characters/87853/oz-enrique-morales",
+            "name": "Enrique Morales",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350809.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350809.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87853"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 28002,
+            "url": "https://www.tvmaze.com/people/28002/edie-falco",
+            "name": "Edie Falco",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-07-05",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/114/286370.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/114/286370.jpg"
+            },
+            "updated": 1687482860,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/28002"
+                }
+            }
+        },
+        "character": {
+            "id": 87835,
+            "url": "https://www.tvmaze.com/characters/87835/oz-officer-diane-whittlesey",
+            "name": "Officer Diane Whittlesey",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350817.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350817.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87835"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6905,
+            "url": "https://www.tvmaze.com/people/6905/zeljko-ivanek",
+            "name": "\u017deljko Ivanek",
+            "country": {
+                "name": "Slovenia",
+                "code": "SI",
+                "timezone": "Europe/Ljubljana"
+            },
+            "birthday": "1957-08-15",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/453/1134764.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/453/1134764.jpg"
+            },
+            "updated": 1688728088,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6905"
+                }
+            }
+        },
+        "character": {
+            "id": 87883,
+            "url": "https://www.tvmaze.com/characters/87883/oz-governor-james-devlin",
+            "name": "Governor James Devlin",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350808.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350808.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87883"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19186,
+            "url": "https://www.tvmaze.com/people/19186/anthony-chisholm",
+            "name": "Anthony Chisholm",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-04-09",
+            "deathday": "2020-10-16",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/26045.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26045.jpg"
+            },
+            "updated": 1602935945,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19186"
+                }
+            }
+        },
+        "character": {
+            "id": 87844,
+            "url": "https://www.tvmaze.com/characters/87844/oz-burr-redding",
+            "name": "Burr Redding",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350801.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350801.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87844"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50297,
+            "url": "https://www.tvmaze.com/people/50297/michael-wright",
+            "name": "Michael Wright",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1956-04-30",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/18223.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/18223.jpg"
+            },
+            "updated": 1675463981,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50297"
+                }
+            }
+        },
+        "character": {
+            "id": 87870,
+            "url": "https://www.tvmaze.com/characters/87870/oz-omar-white",
+            "name": "Omar White",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350805.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350805.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87870"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17660,
+            "url": "https://www.tvmaze.com/people/17660/jd-williams",
+            "name": "J.D. Williams",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1978-05-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/5907.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/5907.jpg"
+            },
+            "updated": 1501190625,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17660"
+                }
+            }
+        },
+        "character": {
+            "id": 87860,
+            "url": "https://www.tvmaze.com/characters/87860/oz-kenny-wangler",
+            "name": "Kenny Wangler",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350799.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350799.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87860"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 24967,
+            "url": "https://www.tvmaze.com/people/24967/kathryn-erbe",
+            "name": "Kathryn Erbe",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-07-05",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/26923.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26923.jpg"
+            },
+            "updated": 1662828894,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/24967"
+                }
+            }
+        },
+        "character": {
+            "id": 87862,
+            "url": "https://www.tvmaze.com/characters/87862/oz-shirley-bellinger",
+            "name": "Shirley Bellinger",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350816.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350816.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87862"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 22935,
+            "url": "https://www.tvmaze.com/people/22935/betty-buckley",
+            "name": "Betty Buckley",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1947-07-03",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/26549.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26549.jpg"
+            },
+            "updated": 1684875436,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/22935"
+                }
+            }
+        },
+        "character": {
+            "id": 87848,
+            "url": "https://www.tvmaze.com/characters/87848/oz-suzanne-fitzgerald",
+            "name": "Suzanne Fitzgerald",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881682.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881682.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87848"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 1087,
+            "url": "https://www.tvmaze.com/people/1087/seth-gilliam",
+            "name": "Seth Gilliam",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1968-11-05",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6021.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6021.jpg"
+            },
+            "updated": 1685711045,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/1087"
+                }
+            }
+        },
+        "character": {
+            "id": 87881,
+            "url": "https://www.tvmaze.com/characters/87881/oz-officer-clayton-hughes",
+            "name": "Officer Clayton Hughes",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881683.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881683.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87881"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50293,
+            "url": "https://www.tvmaze.com/people/50293/eddie-malavarca",
+            "name": "Eddie Malavarca",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/26551.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26551.jpg"
+            },
+            "updated": 1470125918,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50293"
+                }
+            }
+        },
+        "character": {
+            "id": 87854,
+            "url": "https://www.tvmaze.com/characters/87854/oz-peter-schibetta",
+            "name": "Peter Schibetta",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881684.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881684.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87854"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 10347,
+            "url": "https://www.tvmaze.com/people/10347/philip-casnoff",
+            "name": "Philip Casnoff",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1949-08-03",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/26930.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26930.jpg"
+            },
+            "updated": 1677448052,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/10347"
+                }
+            }
+        },
+        "character": {
+            "id": 87872,
+            "url": "https://www.tvmaze.com/characters/87872/oz-nikolai-stanislofsky",
+            "name": "Nikolai Stanislofsky",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881685.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881685.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87872"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 25131,
+            "url": "https://www.tvmaze.com/people/25131/ellen-mcelduff",
+            "name": "Ellen McElduff",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": null,
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/37/94177.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/37/94177.jpg"
+            },
+            "updated": 1451925074,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25131"
+                }
+            }
+        },
+        "character": {
+            "id": 87856,
+            "url": "https://www.tvmaze.com/characters/87856/oz-eleanor-oconnor",
+            "name": "Eleanor O'Connor",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881686.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881686.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87856"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 9696,
+            "url": "https://www.tvmaze.com/people/9696/lance-reddick",
+            "name": "Lance Reddick",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-06-07",
+            "deathday": "2023-03-17",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/147/369752.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/147/369752.jpg"
+            },
+            "updated": 1679090464,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/9696"
+                }
+            }
+        },
+        "character": {
+            "id": 87864,
+            "url": "https://www.tvmaze.com/characters/87864/oz-desmond-mobay",
+            "name": "Desmond Mobay",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881687.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881687.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87864"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50296,
+            "url": "https://www.tvmaze.com/people/50296/luis-guzman",
+            "name": "Luis Guzm\u00e1n",
+            "country": {
+                "name": "Puerto Rico",
+                "code": "PR",
+                "timezone": "America/Puerto_Rico"
+            },
+            "birthday": "1956-08-28",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/460/1151658.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/460/1151658.jpg"
+            },
+            "updated": 1684598823,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50296"
+                }
+            }
+        },
+        "character": {
+            "id": 87867,
+            "url": "https://www.tvmaze.com/characters/87867/oz-raoul-el-cid-hernandez",
+            "name": "Raoul \"El Cid\" Hernandez",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881688.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881688.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87867"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29741,
+            "url": "https://www.tvmaze.com/people/29741/erik-king",
+            "name": "Erik King",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-04-21",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/4/10559.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/4/10559.jpg"
+            },
+            "updated": 1659198897,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29741"
+                }
+            }
+        },
+        "character": {
+            "id": 87857,
+            "url": "https://www.tvmaze.com/characters/87857/oz-moses-deyell",
+            "name": "Moses Deyell",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881689.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881689.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87857"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19785,
+            "url": "https://www.tvmaze.com/people/19785/lord-jamar",
+            "name": "Lord Jamar",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/26926.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26926.jpg"
+            },
+            "updated": 1635780313,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19785"
+                }
+            }
+        },
+        "character": {
+            "id": 87866,
+            "url": "https://www.tvmaze.com/characters/87866/oz-kevin-supreme-allah-ketchum",
+            "name": "Kevin \"Supreme Allah\" Ketchum",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881690.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881690.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87866"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 38307,
+            "url": "https://www.tvmaze.com/people/38307/rick-fox",
+            "name": "Rick Fox",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1969-07-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/171/429278.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/171/429278.jpg"
+            },
+            "updated": 1676752261,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/38307"
+                }
+            }
+        },
+        "character": {
+            "id": 87875,
+            "url": "https://www.tvmaze.com/characters/87875/oz-jackson-vahue",
+            "name": "Jackson Vahue",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881692.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881692.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87875"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20003,
+            "url": "https://www.tvmaze.com/people/20003/austin-pendleton",
+            "name": "Austin Pendleton",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1940-03-27",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/26328.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26328.jpg"
+            },
+            "updated": 1669047348,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20003"
+                }
+            }
+        },
+        "character": {
+            "id": 87846,
+            "url": "https://www.tvmaze.com/characters/87846/oz-william-giles",
+            "name": "William Giles",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881697.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881697.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87846"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 12812,
+            "url": "https://www.tvmaze.com/people/12812/luke-perry",
+            "name": "Luke Perry",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-10-11",
+            "deathday": "2019-03-04",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/26929.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26929.jpg"
+            },
+            "updated": 1683097411,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/12812"
+                }
+            }
+        },
+        "character": {
+            "id": 87868,
+            "url": "https://www.tvmaze.com/characters/87868/oz-jeremiah-cloutier",
+            "name": "Jeremiah Cloutier",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881693.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881693.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87868"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 9582,
+            "url": "https://www.tvmaze.com/people/9582/mark-margolis",
+            "name": "Mark Margolis",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1939-11-26",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6798.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6798.jpg"
+            },
+            "updated": 1679141780,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/9582"
+                }
+            }
+        },
+        "character": {
+            "id": 87869,
+            "url": "https://www.tvmaze.com/characters/87869/oz-antonio-nappa",
+            "name": "Antonio Nappa",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/350800.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/350800.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87869"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6282,
+            "url": "https://www.tvmaze.com/people/6282/sean-whitesell",
+            "name": "Sean Whitesell",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1963-03-11",
+            "deathday": "2015-12-28",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/37/92892.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/37/92892.jpg"
+            },
+            "updated": 1510523721,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6282"
+                }
+            }
+        },
+        "character": {
+            "id": 87841,
+            "url": "https://www.tvmaze.com/characters/87841/oz-donald-groves",
+            "name": "Donald Groves",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881698.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881698.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87841"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 13524,
+            "url": "https://www.tvmaze.com/people/13524/sandra-purpuro",
+            "name": "Sandra Purpuro",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2097.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2097.jpg"
+            },
+            "updated": 1660992153,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/13524"
+                }
+            }
+        },
+        "character": {
+            "id": 87879,
+            "url": "https://www.tvmaze.com/characters/87879/oz-katherine-mcclain",
+            "name": "Katherine McClain",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881701.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881701.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87879"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 1966,
+            "url": "https://www.tvmaze.com/people/1966/reg-e-cathey",
+            "name": "Reg E. Cathey",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1958-08-18",
+            "deathday": "2018-02-09",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/145/364141.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/145/364141.jpg"
+            },
+            "updated": 1638360161,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/1966"
+                }
+            }
+        },
+        "character": {
+            "id": 87874,
+            "url": "https://www.tvmaze.com/characters/87874/oz-martin-querns",
+            "name": "Martin Querns",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881702.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881702.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87874"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17326,
+            "url": "https://www.tvmaze.com/people/17326/robert-john-burke",
+            "name": "Robert John Burke",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1960-09-12",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/26571.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26571.jpg"
+            },
+            "updated": 1659727282,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17326"
+                }
+            }
+        },
+        "character": {
+            "id": 87877,
+            "url": "https://www.tvmaze.com/characters/87877/oz-special-agent-pierce-taylor",
+            "name": "Special Agent Pierce Taylor",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881703.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881703.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87877"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50291,
+            "url": "https://www.tvmaze.com/people/50291/tony-musante",
+            "name": "Tony Musante",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1936-06-30",
+            "deathday": "2013-11-26",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/8/20443.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/8/20443.jpg"
+            },
+            "updated": 1524448179,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50291"
+                }
+            }
+        },
+        "character": {
+            "id": 87838,
+            "url": "https://www.tvmaze.com/characters/87838/oz-nino-schibetta",
+            "name": "Nino Schibetta",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881720.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881720.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87838"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 9660,
+            "url": "https://www.tvmaze.com/people/9660/patti-lupone",
+            "name": "Patti LuPone",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1949-04-21",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/2/6926.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/2/6926.jpg"
+            },
+            "updated": 1686460227,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/9660"
+                }
+            }
+        },
+        "character": {
+            "id": 87871,
+            "url": "https://www.tvmaze.com/characters/87871/oz-stella-coffo",
+            "name": "Stella Coffo",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881722.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881722.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87871"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 35084,
+            "url": "https://www.tvmaze.com/people/35084/arija-bareikis",
+            "name": "Arija Bareikis",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-07-21",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/26047.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26047.jpg"
+            },
+            "updated": 1659870051,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/35084"
+                }
+            }
+        },
+        "character": {
+            "id": 87845,
+            "url": "https://www.tvmaze.com/characters/87845/oz-tricia-ross",
+            "name": "Tricia Ross",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881723.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881723.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87845"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50292,
+            "url": "https://www.tvmaze.com/people/50292/charles-busch",
+            "name": "Charles Busch",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/10/26550.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/10/26550.jpg"
+            },
+            "updated": 1470125913,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50292"
+                }
+            }
+        },
+        "character": {
+            "id": 87849,
+            "url": "https://www.tvmaze.com/characters/87849/oz-natalie-nat-ginsburg",
+            "name": "Natalie \"Nat\" Ginsburg",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881725.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881725.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87849"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 20369,
+            "url": "https://www.tvmaze.com/people/20369/edward-herrmann",
+            "name": "Edward Herrmann",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1943-07-21",
+            "deathday": "2014-12-31",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/5/14668.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/5/14668.jpg"
+            },
+            "updated": 1655204142,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/20369"
+                }
+            }
+        },
+        "character": {
+            "id": 87855,
+            "url": "https://www.tvmaze.com/characters/87855/oz-harrison-beecher",
+            "name": "Harrison Beecher",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881727.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881727.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87855"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 24244,
+            "url": "https://www.tvmaze.com/people/24244/joel-grey",
+            "name": "Joel Grey",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1932-04-11",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/1/2689.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/1/2689.jpg"
+            },
+            "updated": 1687362415,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/24244"
+                }
+            }
+        },
+        "character": {
+            "id": 87861,
+            "url": "https://www.tvmaze.com/characters/87861/oz-lemuel-idzik",
+            "name": "Lemuel Idzik",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881728.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881728.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87861"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 50298,
+            "url": "https://www.tvmaze.com/people/50298/sandra-denton",
+            "name": "Sandra Denton",
+            "country": {
+                "name": "Jamaica",
+                "code": "JM",
+                "timezone": "America/Jamaica"
+            },
+            "birthday": "1969-11-09",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/151/378429.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/151/378429.jpg"
+            },
+            "updated": 1683231533,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/50298"
+                }
+            }
+        },
+        "character": {
+            "id": 87878,
+            "url": "https://www.tvmaze.com/characters/87878/oz-officer-andrea-phelan",
+            "name": "Officer Andrea Phelan",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881729.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881729.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87878"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 121381,
+            "url": "https://www.tvmaze.com/people/121381/leon",
+            "name": "Leon",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1962-03-08",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/47/119763.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/47/119763.jpg"
+            },
+            "updated": 1679243738,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/121381"
+                }
+            }
+        },
+        "character": {
+            "id": 87836,
+            "url": "https://www.tvmaze.com/characters/87836/oz-jefferson-keane",
+            "name": "Jefferson Keane",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/352/881730.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/352/881730.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/87836"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

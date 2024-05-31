@@ -1,0 +1,40 @@
+[
+    {
+        "person": {
+            "id": 135839,
+            "url": "https://www.tvmaze.com/people/135839/ed-sullivan",
+            "name": "Ed Sullivan",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1901-09-28",
+            "deathday": "1974-10-13",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/83/208653.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/83/208653.jpg"
+            },
+            "updated": 1660777362,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/135839"
+                }
+            }
+        },
+        "character": {
+            "id": 359005,
+            "url": "https://www.tvmaze.com/characters/359005/the-ed-sullivan-show-presenter",
+            "name": "Presenter",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/359005"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    }
+]

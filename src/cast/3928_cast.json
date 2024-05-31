@@ -1,0 +1,43 @@
+[
+    {
+        "person": {
+            "id": 63876,
+            "url": "https://www.tvmaze.com/people/63876/trevor-noah",
+            "name": "Trevor Noah",
+            "country": {
+                "name": "South Africa",
+                "code": "ZA",
+                "timezone": "Africa/Johannesburg"
+            },
+            "birthday": "1984-02-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/446/1115583.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/446/1115583.jpg"
+            },
+            "updated": 1685017955,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/63876"
+                }
+            }
+        },
+        "character": {
+            "id": 171438,
+            "url": "https://www.tvmaze.com/characters/171438/the-daily-show-with-trevor-noah-host",
+            "name": "Host",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/262/655236.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/262/655236.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/171438"
+                }
+            }
+        },
+        "self": true,
+        "voice": false
+    }
+]

@@ -1,0 +1,336 @@
+[
+    {
+        "person": {
+            "id": 25006,
+            "url": "https://www.tvmaze.com/people/25006/mike-judge",
+            "name": "Mike Judge",
+            "country": {
+                "name": "Ecuador",
+                "code": "EC",
+                "timezone": "America/Guayaquil"
+            },
+            "birthday": "1962-10-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7851.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7851.jpg"
+            },
+            "updated": 1688500020,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25006"
+                }
+            }
+        },
+        "character": {
+            "id": 89055,
+            "url": "https://www.tvmaze.com/characters/89055/beavis-and-butt-head-beavis",
+            "name": "Beavis",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/89055"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 25006,
+            "url": "https://www.tvmaze.com/people/25006/mike-judge",
+            "name": "Mike Judge",
+            "country": {
+                "name": "Ecuador",
+                "code": "EC",
+                "timezone": "America/Guayaquil"
+            },
+            "birthday": "1962-10-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7851.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7851.jpg"
+            },
+            "updated": 1688500020,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25006"
+                }
+            }
+        },
+        "character": {
+            "id": 89056,
+            "url": "https://www.tvmaze.com/characters/89056/beavis-and-butt-head-butt-head",
+            "name": "Butt-head",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/89056"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 25006,
+            "url": "https://www.tvmaze.com/people/25006/mike-judge",
+            "name": "Mike Judge",
+            "country": {
+                "name": "Ecuador",
+                "code": "EC",
+                "timezone": "America/Guayaquil"
+            },
+            "birthday": "1962-10-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7851.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7851.jpg"
+            },
+            "updated": 1688500020,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25006"
+                }
+            }
+        },
+        "character": {
+            "id": 89057,
+            "url": "https://www.tvmaze.com/characters/89057/beavis-and-butt-head-principal-mcvicker",
+            "name": "Principal McVicker",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/89057"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 25006,
+            "url": "https://www.tvmaze.com/people/25006/mike-judge",
+            "name": "Mike Judge",
+            "country": {
+                "name": "Ecuador",
+                "code": "EC",
+                "timezone": "America/Guayaquil"
+            },
+            "birthday": "1962-10-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7851.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7851.jpg"
+            },
+            "updated": 1688500020,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25006"
+                }
+            }
+        },
+        "character": {
+            "id": 89058,
+            "url": "https://www.tvmaze.com/characters/89058/beavis-and-butt-head-tom-anderson",
+            "name": "Tom Anderson",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/89058"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 25006,
+            "url": "https://www.tvmaze.com/people/25006/mike-judge",
+            "name": "Mike Judge",
+            "country": {
+                "name": "Ecuador",
+                "code": "EC",
+                "timezone": "America/Guayaquil"
+            },
+            "birthday": "1962-10-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7851.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7851.jpg"
+            },
+            "updated": 1688500020,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25006"
+                }
+            }
+        },
+        "character": {
+            "id": 89059,
+            "url": "https://www.tvmaze.com/characters/89059/beavis-and-butt-head-david-van-driessen",
+            "name": "David Van Driessen",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/89059"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 25006,
+            "url": "https://www.tvmaze.com/people/25006/mike-judge",
+            "name": "Mike Judge",
+            "country": {
+                "name": "Ecuador",
+                "code": "EC",
+                "timezone": "America/Guayaquil"
+            },
+            "birthday": "1962-10-17",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/7851.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/7851.jpg"
+            },
+            "updated": 1688500020,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25006"
+                }
+            }
+        },
+        "character": {
+            "id": 89060,
+            "url": "https://www.tvmaze.com/characters/89060/beavis-and-butt-head-bradley-buzzcut",
+            "name": "Bradley Buzzcut",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/89060"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 51111,
+            "url": "https://www.tvmaze.com/people/51111/tracy-grandstaff",
+            "name": "Tracy Grandstaff",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": null,
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/19668.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/19668.jpg"
+            },
+            "updated": 1688500037,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/51111"
+                }
+            }
+        },
+        "character": {
+            "id": 89061,
+            "url": "https://www.tvmaze.com/characters/89061/beavis-and-butt-head-darla-morgendorffer",
+            "name": "Darla Morgendorffer",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/89061"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 51112,
+            "url": "https://www.tvmaze.com/people/51112/adam-welsh",
+            "name": "Adam Welsh",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": null,
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/7/19670.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/7/19670.jpg"
+            },
+            "updated": 1679019097,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/51112"
+                }
+            }
+        },
+        "character": {
+            "id": 89062,
+            "url": "https://www.tvmaze.com/characters/89062/beavis-and-butt-head-stuart-stevenson",
+            "name": "Stuart Stevenson",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/89062"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 13140,
+            "url": "https://www.tvmaze.com/people/13140/toby-huss",
+            "name": "Toby Huss",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1966-12-09",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/210/526547.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/210/526547.jpg"
+            },
+            "updated": 1688500049,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/13140"
+                }
+            }
+        },
+        "character": {
+            "id": 89063,
+            "url": "https://www.tvmaze.com/characters/89063/beavis-and-butt-head-todd-ianuzzi",
+            "name": "Todd Ianuzzi",
+            "image": null,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/89063"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]

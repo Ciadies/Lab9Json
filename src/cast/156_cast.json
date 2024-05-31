@@ -1,0 +1,1060 @@
+[
+    {
+        "person": {
+            "id": 6238,
+            "url": "https://www.tvmaze.com/people/6238/kyle-maclachlan",
+            "name": "Kyle MacLachlan",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1959-02-22",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/168/421664.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/168/421664.jpg"
+            },
+            "updated": 1683204443,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6238"
+                }
+            }
+        },
+        "character": {
+            "id": 40417,
+            "url": "https://www.tvmaze.com/characters/40417/twin-peaks-special-agent-dale-cooper",
+            "name": "Special Agent Dale Cooper",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/378/945612.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/378/945612.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40417"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 44882,
+            "url": "https://www.tvmaze.com/people/44882/michael-horse",
+            "name": "Michael Horse",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1951-12-21",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/251/627752.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/251/627752.jpg"
+            },
+            "updated": 1673700820,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/44882"
+                }
+            }
+        },
+        "character": {
+            "id": 395721,
+            "url": "https://www.tvmaze.com/characters/395721/twin-peaks-deputy-tommy-hawk-hill",
+            "name": "Deputy Tommy \"Hawk\" Hill",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/103/257737.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/103/257737.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/395721"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29134,
+            "url": "https://www.tvmaze.com/people/29134/richard-beymer",
+            "name": "Richard Beymer",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1938-02-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9253.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9253.jpg"
+            },
+            "updated": 1660787919,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29134"
+                }
+            }
+        },
+        "character": {
+            "id": 40420,
+            "url": "https://www.tvmaze.com/characters/40420/twin-peaks-benjamin-horne",
+            "name": "Benjamin Horne",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2159.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2159.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40420"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 53518,
+            "url": "https://www.tvmaze.com/people/53518/kimmy-robertson",
+            "name": "Kimmy Robertson",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1954-11-27",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/145/363818.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/145/363818.jpg"
+            },
+            "updated": 1639889801,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/53518"
+                }
+            }
+        },
+        "character": {
+            "id": 228517,
+            "url": "https://www.tvmaze.com/characters/228517/twin-peaks-lucy-moran",
+            "name": "Lucy Moran",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/103/257733.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/103/257733.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/228517"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 167795,
+            "url": "https://www.tvmaze.com/people/167795/harry-goaz",
+            "name": "Harry Goaz",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1960-12-27",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/104/261760.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/104/261760.jpg"
+            },
+            "updated": 1504536537,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/167795"
+                }
+            }
+        },
+        "character": {
+            "id": 395720,
+            "url": "https://www.tvmaze.com/characters/395720/twin-peaks-deputy-andy-brennan",
+            "name": "Deputy Andy Brennan",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/103/257729.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/103/257729.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/395720"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 6832,
+            "url": "https://www.tvmaze.com/people/6832/madchen-amick",
+            "name": "M\u00e4dchen Amick",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1970-12-12",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/1136.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/1136.jpg"
+            },
+            "updated": 1688480032,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/6832"
+                }
+            }
+        },
+        "character": {
+            "id": 40418,
+            "url": "https://www.tvmaze.com/characters/40418/twin-peaks-shelly-johnson",
+            "name": "Shelly Johnson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2160.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2160.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40418"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17864,
+            "url": "https://www.tvmaze.com/people/17864/dana-ashbrook",
+            "name": "Dana Ashbrook",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1967-05-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/145/363852.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/145/363852.jpg"
+            },
+            "updated": 1524211095,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17864"
+                }
+            }
+        },
+        "character": {
+            "id": 40419,
+            "url": "https://www.tvmaze.com/characters/40419/twin-peaks-bobby-briggs",
+            "name": "Bobby Briggs",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2161.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2161.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40419"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19297,
+            "url": "https://www.tvmaze.com/people/19297/sherilyn-fenn",
+            "name": "Sherilyn Fenn",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-02-01",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/171/428587.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/171/428587.jpg"
+            },
+            "updated": 1660398364,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19297"
+                }
+            }
+        },
+        "character": {
+            "id": 40422,
+            "url": "https://www.tvmaze.com/characters/40422/twin-peaks-audrey-horne",
+            "name": "Audrey Horne",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2163.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2163.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40422"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29135,
+            "url": "https://www.tvmaze.com/people/29135/lara-flynn-boyle",
+            "name": "Lara Flynn Boyle",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1970-03-24",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9254.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9254.jpg"
+            },
+            "updated": 1545154094,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29135"
+                }
+            }
+        },
+        "character": {
+            "id": 40421,
+            "url": "https://www.tvmaze.com/characters/40421/twin-peaks-donna-marie-hayward",
+            "name": "Donna Marie Hayward",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2162.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2162.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40421"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29140,
+            "url": "https://www.tvmaze.com/people/29140/michael-ontkean",
+            "name": "Michael Ontkean",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1946-01-24",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9263.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9263.jpg"
+            },
+            "updated": 1639536716,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29140"
+                }
+            }
+        },
+        "character": {
+            "id": 40430,
+            "url": "https://www.tvmaze.com/characters/40430/twin-peaks-sheriff-harry-s-truman",
+            "name": "Sheriff Harry S. Truman",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2144.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2144.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40430"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 27889,
+            "url": "https://www.tvmaze.com/people/27889/peggy-lipton",
+            "name": "Peggy Lipton",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1946-08-30",
+            "deathday": "2019-05-11",
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9257.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9257.jpg"
+            },
+            "updated": 1662145802,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/27889"
+                }
+            }
+        },
+        "character": {
+            "id": 40424,
+            "url": "https://www.tvmaze.com/characters/40424/twin-peaks-norma-jennings",
+            "name": "Norma Jennings",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2158.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2158.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40424"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 17019,
+            "url": "https://www.tvmaze.com/people/17019/james-marshall",
+            "name": "James Marshall",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1967-01-02",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9258.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9258.jpg"
+            },
+            "updated": 1669300161,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/17019"
+                }
+            }
+        },
+        "character": {
+            "id": 40425,
+            "url": "https://www.tvmaze.com/characters/40425/twin-peaks-james-hurley",
+            "name": "James Hurley",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2157.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2157.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40425"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29136,
+            "url": "https://www.tvmaze.com/people/29136/warren-frost",
+            "name": "Warren Frost",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1925-06-05",
+            "deathday": "2017-02-17",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9256.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9256.jpg"
+            },
+            "updated": 1661199776,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29136"
+                }
+            }
+        },
+        "character": {
+            "id": 40423,
+            "url": "https://www.tvmaze.com/characters/40423/twin-peaks-dr-william-hayward",
+            "name": "Dr. William Hayward",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2152.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2152.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40423"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29138,
+            "url": "https://www.tvmaze.com/people/29138/jack-nance",
+            "name": "Jack Nance",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9260.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9260.jpg"
+            },
+            "updated": 1647308152,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29138"
+                }
+            }
+        },
+        "character": {
+            "id": 40427,
+            "url": "https://www.tvmaze.com/characters/40427/twin-peaks-pete-martell",
+            "name": "Pete Martell",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2155.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2155.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40427"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29179,
+            "url": "https://www.tvmaze.com/people/29179/eric-da-re",
+            "name": "Eric Da Re",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1965-03-03",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/104/261742.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/104/261742.jpg"
+            },
+            "updated": 1525072403,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29179"
+                }
+            }
+        },
+        "character": {
+            "id": 40469,
+            "url": "https://www.tvmaze.com/characters/40469/twin-peaks-leo-johnson",
+            "name": "Leo Johnson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2150.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2150.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40469"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29137,
+            "url": "https://www.tvmaze.com/people/29137/everett-mcgill",
+            "name": "Everett McGill",
+            "country": null,
+            "birthday": null,
+            "deathday": null,
+            "gender": null,
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9259.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9259.jpg"
+            },
+            "updated": 1503303991,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29137"
+                }
+            }
+        },
+        "character": {
+            "id": 40426,
+            "url": "https://www.tvmaze.com/characters/40426/twin-peaks-big-ed-hurley",
+            "name": "Big Ed Hurley",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2156.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2156.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40426"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 19130,
+            "url": "https://www.tvmaze.com/people/19130/piper-laurie",
+            "name": "Piper Laurie",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1932-01-22",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9264.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9264.jpg"
+            },
+            "updated": 1545015976,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/19130"
+                }
+            }
+        },
+        "character": {
+            "id": 40431,
+            "url": "https://www.tvmaze.com/characters/40431/twin-peaks-catherine-martell",
+            "name": "Catherine Martell",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2151.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2151.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40431"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 5231,
+            "url": "https://www.tvmaze.com/people/5231/ray-wise",
+            "name": "Ray Wise",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1947-08-20",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9261.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9261.jpg"
+            },
+            "updated": 1672675727,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/5231"
+                }
+            }
+        },
+        "character": {
+            "id": 40428,
+            "url": "https://www.tvmaze.com/characters/40428/twin-peaks-leland-palmer",
+            "name": "Leland Palmer",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2153.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2153.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40428"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 86428,
+            "url": "https://www.tvmaze.com/people/86428/russ-tamblyn",
+            "name": "Russ Tamblyn",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1934-12-30",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/193/483286.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/193/483286.jpg"
+            },
+            "updated": 1661274866,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/86428"
+                }
+            }
+        },
+        "character": {
+            "id": 374831,
+            "url": "https://www.tvmaze.com/characters/374831/twin-peaks-dr-lawrence-jacoby",
+            "name": "Dr. Lawrence Jacoby",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/103/257730.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/103/257730.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/374831"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29180,
+            "url": "https://www.tvmaze.com/people/29180/sheryl-lee",
+            "name": "Sheryl Lee",
+            "country": {
+                "name": "Germany",
+                "code": "DE",
+                "timezone": "Europe/Busingen"
+            },
+            "birthday": "1967-04-22",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/411/1029948.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/411/1029948.jpg"
+            },
+            "updated": 1685887383,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29180"
+                }
+            }
+        },
+        "character": {
+            "id": 40470,
+            "url": "https://www.tvmaze.com/characters/40470/twin-peaks-laura-palmer",
+            "name": "Laura Palmer",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/30/75458.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/30/75458.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40470"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29139,
+            "url": "https://www.tvmaze.com/people/29139/joan-chen",
+            "name": "Joan Chen",
+            "country": {
+                "name": "China",
+                "code": "CN",
+                "timezone": "Asia/Shanghai"
+            },
+            "birthday": "1961-04-26",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/3/9262.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/3/9262.jpg"
+            },
+            "updated": 1644610101,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29139"
+                }
+            }
+        },
+        "character": {
+            "id": 40429,
+            "url": "https://www.tvmaze.com/characters/40429/twin-peaks-jocelyn-josie-packard",
+            "name": "Jocelyn \"Josie\" Packard",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/378/945613.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/378/945613.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40429"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 15327,
+            "url": "https://www.tvmaze.com/people/15327/grace-zabriskie",
+            "name": "Grace Zabriskie",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1941-05-17",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/48/122484.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/48/122484.jpg"
+            },
+            "updated": 1685825111,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/15327"
+                }
+            }
+        },
+        "character": {
+            "id": 40440,
+            "url": "https://www.tvmaze.com/characters/40440/twin-peaks-sarah-palmer",
+            "name": "Sarah Palmer",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/103/257736.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/103/257736.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40440"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29180,
+            "url": "https://www.tvmaze.com/people/29180/sheryl-lee",
+            "name": "Sheryl Lee",
+            "country": {
+                "name": "Germany",
+                "code": "DE",
+                "timezone": "Europe/Busingen"
+            },
+            "birthday": "1967-04-22",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/411/1029948.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/411/1029948.jpg"
+            },
+            "updated": 1685887383,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29180"
+                }
+            }
+        },
+        "character": {
+            "id": 40501,
+            "url": "https://www.tvmaze.com/characters/40501/twin-peaks-madeleine-maddy-ferguson",
+            "name": "Madeleine \"Maddy\" Ferguson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/381/953547.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/381/953547.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40501"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 29153,
+            "url": "https://www.tvmaze.com/people/29153/gary-hershberger",
+            "name": "Gary Hershberger",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1964-04-05",
+            "deathday": null,
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/73/183827.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/73/183827.jpg"
+            },
+            "updated": 1502248264,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/29153"
+                }
+            }
+        },
+        "character": {
+            "id": 40439,
+            "url": "https://www.tvmaze.com/characters/40439/twin-peaks-mike-nelson",
+            "name": "Mike Nelson",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/103/257735.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/103/257735.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40439"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 25879,
+            "url": "https://www.tvmaze.com/people/25879/mary-jo-deschanel",
+            "name": "Mary Jo Deschanel",
+            "country": {
+                "name": "United States",
+                "code": "US",
+                "timezone": "America/New_York"
+            },
+            "birthday": "1945-11-25",
+            "deathday": null,
+            "gender": "Female",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/103/257706.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/103/257706.jpg"
+            },
+            "updated": 1637076193,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/25879"
+                }
+            }
+        },
+        "character": {
+            "id": 40446,
+            "url": "https://www.tvmaze.com/characters/40446/twin-peaks-eileen-hayward",
+            "name": "Eileen Hayward",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/103/257734.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/103/257734.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40446"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    },
+    {
+        "person": {
+            "id": 16085,
+            "url": "https://www.tvmaze.com/people/16085/kenneth-welsh",
+            "name": "Kenneth Welsh",
+            "country": {
+                "name": "Canada",
+                "code": "CA",
+                "timezone": "America/Halifax"
+            },
+            "birthday": "1942-03-30",
+            "deathday": "2022-05-07",
+            "gender": "Male",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/20/50450.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/20/50450.jpg"
+            },
+            "updated": 1668894885,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/people/16085"
+                }
+            }
+        },
+        "character": {
+            "id": 40549,
+            "url": "https://www.tvmaze.com/characters/40549/twin-peaks-windom-earle",
+            "name": "Windom Earle",
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/0/2147.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/0/2147.jpg"
+            },
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/characters/40549"
+                }
+            }
+        },
+        "self": false,
+        "voice": false
+    }
+]
